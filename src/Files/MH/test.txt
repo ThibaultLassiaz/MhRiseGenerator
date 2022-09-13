@@ -1,0 +1,1615 @@
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,1,0,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,1,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,1,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,1,0,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,1,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,1,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,1,0,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,1,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,1,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,1,0,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,1,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,1,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,1,0,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,1,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,1,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,2,0,0,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,2,0,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,2,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,2,0,0,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,2,0,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,2,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,2,0,0,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,2,0,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,2,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,2,0,0,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,2,0,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,2,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,2,0,0,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,2,0,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,2,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Redirection,-1
+Silver Solcoil,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Redirection,-1
+Kaiser Crown X,-12,-3,-3,0,0,0,1,0,0,Critical Eye,1
+Kaiser Crown X,-12,-3,-3,0,0,0,1,0,0,Critical Boost,1
+Kaiser Crown X,-12,-3,-3,0,0,0,1,0,0,Weakness Exploit,1
+Kaiser Crown X,-12,-3,-3,0,0,0,1,0,0,Spread Up,1
+Kaiser Crown X,-12,-3,-3,0,0,0,1,0,0,Attack Boost,1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,1,0,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,1,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,1,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,1,0,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,1,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,1,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,1,0,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,1,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,1,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,1,0,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,1,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,1,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,1,0,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,1,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,1,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,2,0,0,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,2,0,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,2,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,2,0,0,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,2,0,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,2,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,2,0,0,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,2,0,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,2,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,2,0,0,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,2,0,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,2,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,2,0,0,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,2,0,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,2,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Eye,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Critical Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Weakness Exploit,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Spread Up,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,1,0,0,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,1,0,Attack Boost,1,Critical Element,-1
+Silver Solbraces,-12,-3,0,0,0,0,0,0,1,Attack Boost,1,Critical Element,-1
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,2,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,2,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,2,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,2,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,2,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,1,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,3,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,3,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,3,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,1,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,3,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,3,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,3,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,1,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,3,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,3,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,3,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,1,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,3,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,3,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,3,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,1,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,3,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,3,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,3,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Stamina Surge,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,1,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,2,0,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,2,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,1,0,2,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,2,1,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,1,2,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Eye,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Critical Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Spread Up,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,3,0,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,3,0,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Silver Solmail,0,0,0,0,0,0,0,0,3,Attack Boost,1,Critical Element,-1,Fire Attack,-2
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,2,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,2,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,2,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,2,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,2,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,2,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,2,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,2,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,2,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,2,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,2,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,2,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,2,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,2,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,2,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,2,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,2,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,2,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,2,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,2,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,1,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,3,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,3,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,3,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,1,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,3,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,3,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,3,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,1,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,3,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,3,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,3,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,1,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,3,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,3,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,3,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,1,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,3,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,3,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,3,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Stamina Surge,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Evade Window,2,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,1,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,1,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Eye,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Eye,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Critical Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Critical Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Weakness Exploit,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Weakness Exploit,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Spread Up,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Spread Up,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,0,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,1,Attack Boost,1,Chain Crit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Stamina Surge,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,0,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,2,Attack Boost,1,Evade Window,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,1,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,2,0,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,2,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,1,0,2,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,2,1,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,1,2,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Eye,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Critical Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Weakness Exploit,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Spread Up,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,3,0,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,3,0,Attack Boost,1,Stamina Thief,-3
+Pride Greaves,0,0,0,0,0,0,0,0,3,Attack Boost,1,Stamina Thief,-3

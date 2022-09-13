@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Silver Solcoil",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "Element Exploit": 1,
+            "Redirection": 1,
+            "Constitution": 3
+        },
+        "pool": "6",
+        "budget": "10"
+    },
+    {
+        "name": "Kaiser Crown X",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "Critical Eye": 3,
+            "Critical Boost": 1
+        },
+        "pool": "5",
+        "budget": "12"
+    },
+    {
+        "name": "Silver Solbraces",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "Element Exploit": 1,
+            "Critical Element": 1,
+            "Constitution": 2
+        },
+        "pool": "6",
+        "budget": "10"
+    },
+    {
+        "name": "Silver Solmail",
+        "slots": [
+            4,
+            3,
+            1
+        ],
+        "skills": {
+            "Element Exploit": 1,
+            "Critical Element": 1,
+            "Fire Attack": 3
+        },
+        "pool": "6",
+        "budget": "10"
+    },
+    {
+        "name": "Pride Greaves",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "Guts": 1,
+            "Stamina Surge": 2,
+            "Stamina Thief": 3
+        },
+        "pool": "6",
+        "budget": "10"
+    }
+]
