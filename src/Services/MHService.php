@@ -24,7 +24,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  2
+                    "Geologist" => 2
                 ],
                 80,
                 [
@@ -52,8 +52,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Good Luck" =>  2
+                    "Stun Resistance" => 1,
+                    "Good Luck" => 2
                 ],
                 76,
                 [
@@ -81,7 +81,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1
+                    "Divine Blessing" => 1
                 ],
                 67,
                 [
@@ -109,7 +109,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Hunger Resistance" =>  1
+                    "Hunger Resistance" => 1
                 ],
                 67,
                 [
@@ -137,8 +137,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Defense Boost" =>  1
+                    "Botanist" => 1,
+                    "Defense Boost" => 1
                 ],
                 62,
                 [
@@ -166,7 +166,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1
+                    "Item Prolonger" => 1
                 ],
                 62,
                 [
@@ -194,7 +194,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -222,7 +222,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ice Attack" =>  1
+                    "Ice Attack" => 1
                 ],
                 68,
                 [
@@ -250,7 +250,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1
+                    "Fortify" => 1
                 ],
                 68,
                 [
@@ -278,7 +278,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -306,7 +306,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1
+                    "Water Attack" => 1
                 ],
                 62,
                 [
@@ -334,7 +334,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1
+                    "Partbreaker" => 1
                 ],
                 62,
                 [
@@ -362,7 +362,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Mushroomancer" =>  1
+                    "Mushroomancer" => 1
                 ],
                 64,
                 [
@@ -390,7 +390,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -418,7 +418,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1
+                    "Poison Attack" => 1
                 ],
                 64,
                 [
@@ -446,7 +446,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1
+                    "Poison Attack" => 1
                 ],
                 64,
                 [
@@ -474,7 +474,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Resistance" =>  1
+                    "Water Resistance" => 1
                 ],
                 64,
                 [
@@ -502,7 +502,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1
+                    "Free Meal" => 1
                 ],
                 66,
                 [
@@ -530,7 +530,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Pierce Up" =>  1
+                    "Pierce Up" => 1
                 ],
                 66,
                 [
@@ -558,7 +558,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  1
+                    "Recoil Down" => 1
                 ],
                 66,
                 [
@@ -586,7 +586,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1
+                    "Maximum Might" => 1
                 ],
                 68,
                 [
@@ -614,7 +614,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  1
+                    "Evade Extender" => 1
                 ],
                 68,
                 [
@@ -642,7 +642,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  1
+                    "Fire Attack" => 1
                 ],
                 68,
                 [
@@ -670,7 +670,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1
+                    "Water Attack" => 1
                 ],
                 70,
                 [
@@ -698,7 +698,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 70,
                 [
@@ -726,7 +726,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1
+                    "Recovery Up" => 1
                 ],
                 68,
                 [
@@ -754,7 +754,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 70,
                 [
@@ -782,7 +782,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  1
+                    "Windproof" => 1
                 ],
                 68,
                 [
@@ -810,7 +810,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  1
+                    "Paralysis Resistance" => 1
                 ],
                 68,
                 [
@@ -838,7 +838,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Resistance" =>  2
+                    "Dragon Resistance" => 2
                 ],
                 68,
                 [
@@ -866,7 +866,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Resistance" =>  1
+                    "Blast Resistance" => 1
                 ],
                 68,
                 [
@@ -894,7 +894,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1
+                    "Ammo Up" => 1
                 ],
                 68,
                 [
@@ -922,7 +922,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Leap of Faith" =>  1
+                    "Leap of Faith" => 1
                 ],
                 64,
                 [
@@ -950,7 +950,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bludgeoner" =>  1
+                    "Bludgeoner" => 1
                 ],
                 64,
                 [
@@ -978,7 +978,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  2
+                    "Windproof" => 2
                 ],
                 68,
                 [
@@ -1006,7 +1006,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1
+                    "Affinity Sliding" => 1
                 ],
                 64,
                 [
@@ -1034,7 +1034,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1
+                    "Paralysis Attack" => 1
                 ],
                 70,
                 [
@@ -1062,8 +1062,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Stun Resistance" =>  1
+                    "Item Prolonger" => 1,
+                    "Stun Resistance" => 1
                 ],
                 72,
                 [
@@ -1091,7 +1091,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1
+                    "Special Ammo Boost" => 1
                 ],
                 70,
                 [
@@ -1119,7 +1119,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Defense Boost" =>  2
+                    "Defense Boost" => 2
                 ],
                 72,
                 [
@@ -1147,7 +1147,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1
+                    "Sleep Attack" => 1
                 ],
                 72,
                 [
@@ -1175,7 +1175,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1
+                    "Blight Resistance" => 1
                 ],
                 72,
                 [
@@ -1203,7 +1203,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1
+                    "Critical Draw" => 1
                 ],
                 70,
                 [
@@ -1231,7 +1231,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Jump Master" =>  1
+                    "Jump Master" => 1
                 ],
                 70,
                 [
@@ -1259,7 +1259,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1
+                    "Sleep Resistance" => 1
                 ],
                 68,
                 [
@@ -1287,7 +1287,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1
+                    "Critical Element" => 1
                 ],
                 68,
                 [
@@ -1315,7 +1315,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1
+                    "Critical Element" => 1
                 ],
                 68,
                 [
@@ -1343,7 +1343,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1
+                    "Divine Blessing" => 1
                 ],
                 68,
                 [
@@ -1371,8 +1371,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1
                 ],
                 68,
                 [
@@ -1400,8 +1400,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1
                 ],
                 68,
                 [
@@ -1429,8 +1429,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 68,
                 [
@@ -1458,8 +1458,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 68,
                 [
@@ -1487,7 +1487,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2
+                    "Botanist" => 2
                 ],
                 70,
                 [
@@ -1515,8 +1515,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  1,
-                    "Counterstrike" =>  1
+                    "Resentment" => 1,
+                    "Counterstrike" => 1
                 ],
                 72,
                 [
@@ -1544,8 +1544,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 70,
                 [
@@ -1573,7 +1573,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 70,
                 [
@@ -1601,7 +1601,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1
+                    "Water Attack" => 1
                 ],
                 70,
                 [
@@ -1629,8 +1629,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Fire Attack" =>  1
+                    "Attack Boost" => 1,
+                    "Fire Attack" => 1
                 ],
                 72,
                 [
@@ -1658,8 +1658,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Critical Eye" =>  1
+                    "Latent Power" => 1,
+                    "Critical Eye" => 1
                 ],
                 72,
                 [
@@ -1687,7 +1687,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1
+                    "Fortify" => 1
                 ],
                 70,
                 [
@@ -1715,7 +1715,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -1743,7 +1743,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1
+                    "Rapid Morph" => 1
                 ],
                 72,
                 [
@@ -1771,8 +1771,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Speed Eating" =>  1
+                    "Earplugs" => 1,
+                    "Speed Eating" => 1
                 ],
                 72,
                 [
@@ -1800,8 +1800,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Stamina Surge" =>  1
+                    "Guard" => 1,
+                    "Stamina Surge" => 1
                 ],
                 72,
                 [
@@ -1829,8 +1829,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1,
-                    "Resuscitate" =>  1
+                    "Divine Blessing" => 1,
+                    "Resuscitate" => 1
                 ],
                 68,
                 [
@@ -1858,8 +1858,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Hunger Resistance" =>  1
+                    "Geologist" => 1,
+                    "Hunger Resistance" => 1
                 ],
                 68,
                 [
@@ -1887,8 +1887,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Defense Boost" =>  1
+                    "Botanist" => 1,
+                    "Defense Boost" => 1
                 ],
                 70,
                 [
@@ -1916,7 +1916,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1
+                    "Item Prolonger" => 1
                 ],
                 70,
                 [
@@ -1944,8 +1944,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Protective Polish" =>  1
+                    "Water Attack" => 1,
+                    "Protective Polish" => 1
                 ],
                 70,
                 [
@@ -1973,8 +1973,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Partbreaker" =>  1
+                    "Stamina Thief" => 1,
+                    "Partbreaker" => 1
                 ],
                 70,
                 [
@@ -2002,7 +2002,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  2
+                    "Poison Attack" => 2
                 ],
                 70,
                 [
@@ -2030,7 +2030,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  2
+                    "Poison Attack" => 2
                 ],
                 70,
                 [
@@ -2058,8 +2058,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1,
-                    "Recoil Down" =>  2
+                    "Poison Attack" => 1,
+                    "Recoil Down" => 2
                 ],
                 72,
                 [
@@ -2087,7 +2087,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 74,
                 [
@@ -2115,7 +2115,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ice Attack" =>  2
+                    "Ice Attack" => 2
                 ],
                 74,
                 [
@@ -2143,7 +2143,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1
+                    "Maximum Might" => 1
                 ],
                 76,
                 [
@@ -2171,8 +2171,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Fire Up" =>  1,
-                    "Evade Extender" =>  1
+                    "Rapid Fire Up" => 1,
+                    "Evade Extender" => 1
                 ],
                 76,
                 [
@@ -2200,8 +2200,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1,
-                    "Defense Boost" =>  1
+                    "Fortify" => 1,
+                    "Defense Boost" => 1
                 ],
                 74,
                 [
@@ -2229,8 +2229,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Ice Attack" =>  2
+                    "Critical Eye" => 1,
+                    "Ice Attack" => 2
                 ],
                 74,
                 [
@@ -2258,8 +2258,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Fire Attack" =>  1
+                    "Quick Sheathe" => 1,
+                    "Fire Attack" => 1
                 ],
                 76,
                 [
@@ -2287,8 +2287,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Recovery Up" =>  1
+                    "Focus" => 1,
+                    "Recovery Up" => 1
                 ],
                 76,
                 [
@@ -2316,8 +2316,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Speed Eating" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Speed Eating" => 1
                 ],
                 78,
                 [
@@ -2345,7 +2345,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  1
+                    "Windproof" => 1
                 ],
                 70,
                 [
@@ -2373,7 +2373,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Mushroomancer" =>  1
+                    "Mushroomancer" => 1
                 ],
                 70,
                 [
@@ -2401,7 +2401,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  2
+                    "Poison Resistance" => 2
                 ],
                 70,
                 [
@@ -2429,8 +2429,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1,
-                    "Diversion" =>  1
+                    "Free Meal" => 1,
+                    "Diversion" => 1
                 ],
                 72,
                 [
@@ -2458,8 +2458,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Pierce Up" =>  2,
-                    "Stun Resistance" =>  1
+                    "Pierce Up" => 2,
+                    "Stun Resistance" => 1
                 ],
                 72,
                 [
@@ -2487,7 +2487,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bludgeoner" =>  2
+                    "Bludgeoner" => 2
                 ],
                 66,
                 [
@@ -2515,7 +2515,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1
+                    "Affinity Sliding" => 1
                 ],
                 66,
                 [
@@ -2543,8 +2543,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  2,
-                    "Bludgeoner" =>  1
+                    "Paralysis Attack" => 2,
+                    "Bludgeoner" => 1
                 ],
                 80,
                 [
@@ -2572,8 +2572,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1,
-                    "Peak Performance" =>  1
+                    "Marathon Runner" => 1,
+                    "Peak Performance" => 1
                 ],
                 78,
                 [
@@ -2601,9 +2601,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Defense Boost" =>  1,
-                    "Offensive Guard" =>  1
+                    "Attack Boost" => 1,
+                    "Defense Boost" => 1,
+                    "Offensive Guard" => 1
                 ],
                 80,
                 [
@@ -2631,9 +2631,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Wide-Range" =>  1,
-                    "Stun Resistance" =>  1
+                    "Item Prolonger" => 1,
+                    "Wide-Range" => 1,
+                    "Stun Resistance" => 1
                 ],
                 82,
                 [
@@ -2661,8 +2661,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1,
-                    "Spare Shot" =>  1
+                    "Special Ammo Boost" => 1,
+                    "Spare Shot" => 1
                 ],
                 80,
                 [
@@ -2690,8 +2690,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Offensive Guard" =>  1,
-                    "Evade Extender" =>  1
+                    "Offensive Guard" => 1,
+                    "Evade Extender" => 1
                 ],
                 78,
                 [
@@ -2719,8 +2719,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Defense Boost" =>  2
+                    "Load Shells" => 1,
+                    "Defense Boost" => 2
                 ],
                 82,
                 [
@@ -2748,7 +2748,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1
+                    "Blight Resistance" => 1
                 ],
                 82,
                 [
@@ -2776,7 +2776,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1
+                    "Fortify" => 1
                 ],
                 70,
                 [
@@ -2804,9 +2804,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Attack Boost" =>  1,
-                    "Heroics" =>  1
+                    "Dragon Attack" => 1,
+                    "Attack Boost" => 1,
+                    "Heroics" => 1
                 ],
                 72,
                 [
@@ -2834,7 +2834,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  2
+                    "Ballistics" => 2
                 ],
                 72,
                 [
@@ -2862,7 +2862,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  2
+                    "Paralysis Resistance" => 2
                 ],
                 72,
                 [
@@ -2890,7 +2890,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1
+                    "Protective Polish" => 1
                 ],
                 72,
                 [
@@ -2918,7 +2918,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Resistance" =>  2
+                    "Blast Resistance" => 2
                 ],
                 72,
                 [
@@ -2946,7 +2946,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  2
+                    "Ammo Up" => 2
                 ],
                 72,
                 [
@@ -2974,7 +2974,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  2
+                    "Sleep Resistance" => 2
                 ],
                 72,
                 [
@@ -3002,9 +3002,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -3032,9 +3032,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -3062,9 +3062,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -3092,9 +3092,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -3122,7 +3122,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  2
+                    "Windproof" => 2
                 ],
                 72,
                 [
@@ -3150,7 +3150,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1
+                    "Sleep Attack" => 1
                 ],
                 78,
                 [
@@ -3178,7 +3178,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  2
+                    "Critical Draw" => 2
                 ],
                 78,
                 [
@@ -3206,9 +3206,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Jump Master" =>  1,
-                    "Constitution" =>  1,
-                    "Critical Eye" =>  1
+                    "Jump Master" => 1,
+                    "Constitution" => 1,
+                    "Critical Eye" => 1
                 ],
                 78,
                 [
@@ -3236,8 +3236,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 80,
                 [
@@ -3265,7 +3265,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 80,
                 [
@@ -3293,7 +3293,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1
+                    "Resuscitate" => 1
                 ],
                 80,
                 [
@@ -3321,8 +3321,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1
                 ],
                 82,
                 [
@@ -3350,8 +3350,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Latent Power" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 82,
                 [
@@ -3379,7 +3379,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2
+                    "Critical Element" => 2
                 ],
                 82,
                 [
@@ -3407,7 +3407,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2
+                    "Critical Element" => 2
                 ],
                 82,
                 [
@@ -3435,8 +3435,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1,
-                    "Divine Blessing" =>  1
+                    "Partbreaker" => 1,
+                    "Divine Blessing" => 1
                 ],
                 82,
                 [
@@ -3464,7 +3464,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2
+                    "Botanist" => 2
                 ],
                 82,
                 [
@@ -3492,7 +3492,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bow Charge Plus" =>  1
+                    "Bow Charge Plus" => 1
                 ],
                 76,
                 [
@@ -3520,8 +3520,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Leap of Faith" =>  1,
-                    "Good Luck" =>  1
+                    "Leap of Faith" => 1,
+                    "Good Luck" => 1
                 ],
                 74,
                 [
@@ -3549,9 +3549,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  1,
-                    "Handicraft" =>  1,
-                    "Flinch Free" =>  1
+                    "Resentment" => 1,
+                    "Handicraft" => 1,
+                    "Flinch Free" => 1
                 ],
                 84,
                 [
@@ -3579,8 +3579,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Agitator" =>  1
+                    "Critical Draw" => 1,
+                    "Agitator" => 1
                 ],
                 84,
                 [
@@ -3608,7 +3608,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  2
+                    "Rapid Morph" => 2
                 ],
                 84,
                 [
@@ -3636,8 +3636,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Speed Eating" =>  1
+                    "Earplugs" => 1,
+                    "Speed Eating" => 1
                 ],
                 84,
                 [
@@ -3665,8 +3665,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Stamina Surge" =>  1
+                    "Guard" => 1,
+                    "Stamina Surge" => 1
                 ],
                 84,
                 [
@@ -3694,8 +3694,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Reload Speed" =>  1
+                    "Spread Up" => 1,
+                    "Reload Speed" => 1
                 ],
                 86,
                 [
@@ -3723,8 +3723,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Maximum Might" =>  1
+                    "Heroics" => 2,
+                    "Maximum Might" => 1
                 ],
                 90,
                 [
@@ -3752,8 +3752,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  2,
-                    "Earplugs" =>  2
+                    "Tremor Resistance" => 2,
+                    "Earplugs" => 2
                 ],
                 88,
                 [
@@ -3781,7 +3781,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Carving Master" =>  1
+                    "Carving Master" => 1
                 ],
                 76,
                 [
@@ -3809,7 +3809,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  4
+                    "Critical Eye" => 4
                 ],
                 76,
                 [
@@ -3837,8 +3837,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Handicraft" =>  2,
-                    "Normal/Rapid Up" =>  2
+                    "Handicraft" => 2,
+                    "Normal/Rapid Up" => 2
                 ],
                 94,
                 [
@@ -3866,9 +3866,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  2,
-                    "Ballistics" =>  2,
-                    "Evade Window" =>  2
+                    "Mind's Eye" => 2,
+                    "Ballistics" => 2,
+                    "Evade Window" => 2
                 ],
                 94,
                 [
@@ -3896,8 +3896,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  3,
-                    "Critical Boost" =>  1
+                    "Critical Eye" => 3,
+                    "Critical Boost" => 1
                 ],
                 94,
                 [
@@ -3925,8 +3925,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1,
-                    "Guard" =>  1
+                    "Artillery" => 1,
+                    "Guard" => 1
                 ],
                 92,
                 [
@@ -3954,10 +3954,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Focus" =>  1,
-                    "Evade Extender" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Focus" => 1,
+                    "Evade Extender" => 1,
+                    "Stormsoul" => 1
                 ],
                 86,
                 [
@@ -3985,10 +3985,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Rapid Morph" =>  1,
-                    "Offensive Guard" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Rapid Morph" => 1,
+                    "Offensive Guard" => 1,
+                    "Stormsoul" => 1
                 ],
                 96,
                 [
@@ -4016,8 +4016,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Dragonheart" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 100,
                 [
@@ -4045,8 +4045,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Resuscitate" =>  1
+                    "Divine Blessing" => 2,
+                    "Resuscitate" => 1
                 ],
                 108,
                 [
@@ -4074,9 +4074,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Hunger Resistance" =>  1,
-                    "Carving Pro" =>  1
+                    "Geologist" => 1,
+                    "Hunger Resistance" => 1,
+                    "Carving Pro" => 1
                 ],
                 108,
                 [
@@ -4104,8 +4104,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  1,
-                    "Defense Boost" =>  2
+                    "Stamina Surge" => 1,
+                    "Defense Boost" => 2
                 ],
                 110,
                 [
@@ -4133,8 +4133,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Attack Boost" =>  2
+                    "Item Prolonger" => 1,
+                    "Attack Boost" => 2
                 ],
                 110,
                 [
@@ -4162,9 +4162,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Protective Polish" =>  1,
-                    "Speed Sharpening" =>  1
+                    "Water Attack" => 1,
+                    "Protective Polish" => 1,
+                    "Speed Sharpening" => 1
                 ],
                 110,
                 [
@@ -4192,8 +4192,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Partbreaker" =>  1
+                    "Stamina Thief" => 1,
+                    "Partbreaker" => 1
                 ],
                 110,
                 [
@@ -4221,8 +4221,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Leap of Faith" =>  1,
-                    "Good Luck" =>  2
+                    "Leap of Faith" => 1,
+                    "Good Luck" => 2
                 ],
                 114,
                 [
@@ -4250,9 +4250,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Pierce Up" =>  2,
-                    "Stun Resistance" =>  1,
-                    "Muck Resistance" =>  1
+                    "Pierce Up" => 2,
+                    "Stun Resistance" => 1,
+                    "Muck Resistance" => 1
                 ],
                 118,
                 [
@@ -4280,8 +4280,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Diversion" =>  1,
-                    "Agitator" =>  3
+                    "Diversion" => 1,
+                    "Agitator" => 3
                 ],
                 114,
                 [
@@ -4309,8 +4309,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1,
-                    "Recoil Down" =>  2
+                    "Poison Attack" => 1,
+                    "Recoil Down" => 2
                 ],
                 112,
                 [
@@ -4338,8 +4338,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  2,
-                    "Recovery Up" =>  1
+                    "Resuscitate" => 2,
+                    "Recovery Up" => 1
                 ],
                 114,
                 [
@@ -4367,8 +4367,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1,
-                    "Wirebug Whisperer" =>  2
+                    "Paralysis Attack" => 1,
+                    "Wirebug Whisperer" => 2
                 ],
                 112,
                 [
@@ -4396,8 +4396,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1,
-                    "Marathon Runner" =>  2
+                    "Affinity Sliding" => 1,
+                    "Marathon Runner" => 2
                 ],
                 114,
                 [
@@ -4425,8 +4425,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Stun Resistance" =>  1
+                    "Attack Boost" => 1,
+                    "Stun Resistance" => 1
                 ],
                 114,
                 [
@@ -4454,8 +4454,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Evade Window" =>  2
+                    "Critical Eye" => 1,
+                    "Evade Window" => 2
                 ],
                 114,
                 [
@@ -4483,8 +4483,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Ice Resistance" =>  1
+                    "Sleep Attack" => 1,
+                    "Ice Resistance" => 1
                 ],
                 114,
                 [
@@ -4512,9 +4512,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  2,
-                    "Quick Sheathe" =>  1,
-                    "Stun Resistance" =>  1
+                    "Maximum Might" => 2,
+                    "Quick Sheathe" => 1,
+                    "Stun Resistance" => 1
                 ],
                 114,
                 [
@@ -4542,8 +4542,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Fire Up" =>  2,
-                    "Evade Extender" =>  1
+                    "Rapid Fire Up" => 2,
+                    "Evade Extender" => 1
                 ],
                 116,
                 [
@@ -4571,9 +4571,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Fortify" =>  1,
-                    "Defense Boost" =>  3,
-                    "Speed Eating" =>  1
+                    "Fortify" => 1,
+                    "Defense Boost" => 3,
+                    "Speed Eating" => 1
                 ],
                 114,
                 [
@@ -4601,10 +4601,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Ice Attack" =>  2,
-                    "Master's Touch" =>  1,
-                    "Reload Speed" =>  1
+                    "Critical Eye" => 1,
+                    "Ice Attack" => 2,
+                    "Master's Touch" => 1,
+                    "Reload Speed" => 1
                 ],
                 114,
                 [
@@ -4632,8 +4632,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Paralysis Attack" =>  2,
-                    "Earplugs" =>  1
+                    "Paralysis Attack" => 2,
+                    "Earplugs" => 1
                 ],
                 122,
                 [
@@ -4661,9 +4661,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Fire Attack" =>  1,
-                    "Critical Draw" =>  1
+                    "Quick Sheathe" => 1,
+                    "Fire Attack" => 1,
+                    "Critical Draw" => 1
                 ],
                 116,
                 [
@@ -4691,9 +4691,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1,
-                    "Peak Performance" =>  1,
-                    "Focus" =>  1
+                    "Marathon Runner" => 1,
+                    "Peak Performance" => 1,
+                    "Focus" => 1
                 ],
                 120,
                 [
@@ -4721,10 +4721,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Defense Boost" =>  1,
-                    "Offensive Guard" =>  1,
-                    "Spread Up" =>  1
+                    "Attack Boost" => 1,
+                    "Defense Boost" => 1,
+                    "Offensive Guard" => 1,
+                    "Spread Up" => 1
                 ],
                 122,
                 [
@@ -4752,8 +4752,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  2,
-                    "Tremor Resistance" =>  2
+                    "Quick Sheathe" => 2,
+                    "Tremor Resistance" => 2
                 ],
                 122,
                 [
@@ -4781,8 +4781,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  2,
-                    "Speed Eating" =>  1
+                    "Normal/Rapid Up" => 2,
+                    "Speed Eating" => 1
                 ],
                 118,
                 [
@@ -4810,8 +4810,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  1,
-                    "Attack Boost" =>  2
+                    "Windproof" => 1,
+                    "Attack Boost" => 2
                 ],
                 114,
                 [
@@ -4839,8 +4839,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  3,
-                    "Latent Power" =>  1
+                    "Poison Attack" => 3,
+                    "Latent Power" => 1
                 ],
                 118,
                 [
@@ -4868,8 +4868,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  3,
-                    "Latent Power" =>  1
+                    "Poison Attack" => 3,
+                    "Latent Power" => 1
                 ],
                 118,
                 [
@@ -4897,8 +4897,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Mushroomancer" =>  1,
-                    "Speed Eating" =>  1
+                    "Mushroomancer" => 1,
+                    "Speed Eating" => 1
                 ],
                 118,
                 [
@@ -4926,8 +4926,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  2,
-                    "Speed Eating" =>  1
+                    "Poison Resistance" => 2,
+                    "Speed Eating" => 1
                 ],
                 116,
                 [
@@ -4955,9 +4955,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  2,
-                    "Steadiness" =>  2,
-                    "Tune-Up" =>  1
+                    "Ballistics" => 2,
+                    "Steadiness" => 2,
+                    "Tune-Up" => 1
                 ],
                 116,
                 [
@@ -4985,8 +4985,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  2,
-                    "Divine Blessing" =>  2
+                    "Paralysis Resistance" => 2,
+                    "Divine Blessing" => 2
                 ],
                 112,
                 [
@@ -5014,9 +5014,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  2,
-                    "Mind's Eye" =>  1,
-                    "Ballistics" =>  1
+                    "Hellfire Cloak" => 2,
+                    "Mind's Eye" => 1,
+                    "Ballistics" => 1
                 ],
                 120,
                 [
@@ -5044,8 +5044,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Speed Eating" =>  3
+                    "Attack Boost" => 2,
+                    "Speed Eating" => 3
                 ],
                 116,
                 [
@@ -5073,9 +5073,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Evade Window" =>  1,
-                    "Recovery Up" =>  1
+                    "Critical Eye" => 2,
+                    "Evade Window" => 1,
+                    "Recovery Up" => 1
                 ],
                 112,
                 [
@@ -5103,9 +5103,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1,
-                    "Diversion" =>  1,
-                    "Speed Eating" =>  2
+                    "Free Meal" => 1,
+                    "Diversion" => 1,
+                    "Speed Eating" => 2
                 ],
                 112,
                 [
@@ -5133,9 +5133,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Recovery Up" =>  1,
-                    "Thunder Attack" =>  2
+                    "Focus" => 1,
+                    "Recovery Up" => 1,
+                    "Thunder Attack" => 2
                 ],
                 116,
                 [
@@ -5163,9 +5163,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Wide-Range" =>  2,
-                    "Stun Resistance" =>  2
+                    "Item Prolonger" => 1,
+                    "Wide-Range" => 2,
+                    "Stun Resistance" => 2
                 ],
                 116,
                 [
@@ -5193,8 +5193,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  1,
-                    "Latent Power" =>  2
+                    "Blast Attack" => 1,
+                    "Latent Power" => 2
                 ],
                 116,
                 [
@@ -5222,9 +5222,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1,
-                    "Spare Shot" =>  1,
-                    "Poison Attack" =>  1
+                    "Special Ammo Boost" => 1,
+                    "Spare Shot" => 1,
+                    "Poison Attack" => 1
                 ],
                 116,
                 [
@@ -5252,9 +5252,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Offensive Guard" =>  1,
-                    "Evade Extender" =>  2,
-                    "Resentment" =>  1
+                    "Offensive Guard" => 1,
+                    "Evade Extender" => 2,
+                    "Resentment" => 1
                 ],
                 116,
                 [
@@ -5282,9 +5282,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Defense Boost" =>  2,
-                    "Artillery" =>  2
+                    "Load Shells" => 1,
+                    "Defense Boost" => 2,
+                    "Artillery" => 2
                 ],
                 120,
                 [
@@ -5312,9 +5312,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Sleep Resistance" =>  2,
-                    "Spare Shot" =>  1
+                    "Sleep Attack" => 1,
+                    "Sleep Resistance" => 2,
+                    "Spare Shot" => 1
                 ],
                 116,
                 [
@@ -5342,8 +5342,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Master's Touch" =>  1,
-                    "Agitator" =>  2
+                    "Master's Touch" => 1,
+                    "Agitator" => 2
                 ],
                 124,
                 [
@@ -5371,9 +5371,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Poison Resistance" =>  1,
-                    "Agitator" =>  1
+                    "Blight Resistance" => 1,
+                    "Poison Resistance" => 1,
+                    "Agitator" => 1
                 ],
                 116,
                 [
@@ -5401,9 +5401,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Jump Master" =>  1,
-                    "Constitution" =>  1,
-                    "Critical Eye" =>  3
+                    "Jump Master" => 1,
+                    "Constitution" => 1,
+                    "Critical Eye" => 3
                 ],
                 116,
                 [
@@ -5431,9 +5431,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1,
-                    "Attack Boost" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1,
+                    "Attack Boost" => 1
                 ],
                 118,
                 [
@@ -5461,8 +5461,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1,
-                    "Handicraft" =>  1
+                    "Fortify" => 1,
+                    "Handicraft" => 1
                 ],
                 120,
                 [
@@ -5490,10 +5490,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Attack Boost" =>  1,
-                    "Heroics" =>  1,
-                    "Marathon Runner" =>  1
+                    "Dragon Attack" => 1,
+                    "Attack Boost" => 1,
+                    "Heroics" => 1,
+                    "Marathon Runner" => 1
                 ],
                 120,
                 [
@@ -5521,8 +5521,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  2,
-                    "Recovery Speed" =>  1
+                    "Ammo Up" => 2,
+                    "Recovery Speed" => 1
                 ],
                 116,
                 [
@@ -5550,9 +5550,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Resistance" =>  2,
-                    "Fire Attack" =>  2,
-                    "Critical Element" =>  1
+                    "Blast Resistance" => 2,
+                    "Fire Attack" => 2,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -5580,9 +5580,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1,
-                    "Speed Sharpening" =>  2,
-                    "Attack Boost" =>  1
+                    "Protective Polish" => 1,
+                    "Speed Sharpening" => 2,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -5610,9 +5610,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  2,
-                    "Speed Eating" =>  1,
-                    "Stamina Surge" =>  1
+                    "Sleep Resistance" => 2,
+                    "Speed Eating" => 1,
+                    "Stamina Surge" => 1
                 ],
                 120,
                 [
@@ -5640,8 +5640,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2,
-                    "Evade Window" =>  2
+                    "Critical Element" => 2,
+                    "Evade Window" => 2
                 ],
                 126,
                 [
@@ -5669,8 +5669,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2,
-                    "Evade Window" =>  2
+                    "Critical Element" => 2,
+                    "Evade Window" => 2
                 ],
                 126,
                 [
@@ -5698,9 +5698,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Steadiness" =>  2,
-                    "Recoil Down" =>  1,
-                    "Evade Extender" =>  2
+                    "Steadiness" => 2,
+                    "Recoil Down" => 1,
+                    "Evade Extender" => 2
                 ],
                 122,
                 [
@@ -5728,8 +5728,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Mushroomancer" =>  1
+                    "Evade Window" => 2,
+                    "Mushroomancer" => 1
                 ],
                 120,
                 [
@@ -5757,8 +5757,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Mushroomancer" =>  1
+                    "Evade Window" => 2,
+                    "Mushroomancer" => 1
                 ],
                 120,
                 [
@@ -5786,9 +5786,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Guard Up" =>  1,
-                    "Earplugs" =>  1
+                    "Guard" => 1,
+                    "Guard Up" => 1,
+                    "Earplugs" => 1
                 ],
                 124,
                 [
@@ -5816,8 +5816,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2,
-                    "Divine Blessing" =>  2
+                    "Botanist" => 2,
+                    "Divine Blessing" => 2
                 ],
                 122,
                 [
@@ -5845,9 +5845,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  2,
-                    "Partbreaker" =>  1,
-                    "Ice Attack" =>  2
+                    "Critical Draw" => 2,
+                    "Partbreaker" => 1,
+                    "Ice Attack" => 2
                 ],
                 124,
                 [
@@ -5875,9 +5875,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  2,
-                    "Handicraft" =>  1,
-                    "Flinch Free" =>  2
+                    "Resentment" => 2,
+                    "Handicraft" => 1,
+                    "Flinch Free" => 2
                 ],
                 126,
                 [
@@ -5905,9 +5905,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Constitution" =>  2,
-                    "Flinch Free" =>  1
+                    "Evade Window" => 1,
+                    "Constitution" => 2,
+                    "Flinch Free" => 1
                 ],
                 124,
                 [
@@ -5935,9 +5935,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Agitator" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Critical Draw" => 1,
+                    "Agitator" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 122,
                 [
@@ -5965,9 +5965,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Charge Master" =>  1,
-                    "Maximum Might" =>  1,
-                    "Tremor Resistance" =>  1
+                    "Charge Master" => 1,
+                    "Maximum Might" => 1,
+                    "Tremor Resistance" => 1
                 ],
                 128,
                 [
@@ -5995,8 +5995,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Peak Performance" =>  2
+                    "Critical Eye" => 1,
+                    "Peak Performance" => 2
                 ],
                 124,
                 [
@@ -6024,8 +6024,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  2,
-                    "Power Prolonger" =>  1
+                    "Rapid Morph" => 2,
+                    "Power Prolonger" => 1
                 ],
                 124,
                 [
@@ -6053,9 +6053,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  1,
-                    "Heroics" =>  2,
-                    "Fire Attack" =>  3
+                    "Resentment" => 1,
+                    "Heroics" => 2,
+                    "Fire Attack" => 3
                 ],
                 128,
                 [
@@ -6083,9 +6083,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Reload Speed" =>  1,
-                    "Tune-Up" =>  1
+                    "Spread Up" => 1,
+                    "Reload Speed" => 1,
+                    "Tune-Up" => 1
                 ],
                 124,
                 [
@@ -6113,9 +6113,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1,
-                    "Blast Attack" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Maximum Might" => 1,
+                    "Blast Attack" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 128,
                 [
@@ -6143,9 +6143,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Grinder (S)" =>  1,
-                    "Stamina Thief" =>  1,
-                    "Attack Boost" =>  2
+                    "Grinder (S)" => 1,
+                    "Stamina Thief" => 1,
+                    "Attack Boost" => 2
                 ],
                 128,
                 [
@@ -6173,9 +6173,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Capture Master" =>  1,
-                    "Resentment" =>  2
+                    "Weakness Exploit" => 1,
+                    "Capture Master" => 1,
+                    "Resentment" => 2
                 ],
                 126,
                 [
@@ -6203,9 +6203,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Speed Eating" => 2,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -6233,9 +6233,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Speed Eating" => 2,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -6263,10 +6263,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  2
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -6294,10 +6294,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  2
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -6325,9 +6325,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Artillery" =>  1,
-                    "Load Shells" =>  2
+                    "Guard Up" => 1,
+                    "Artillery" => 1,
+                    "Load Shells" => 2
                 ],
                 130,
                 [
@@ -6355,9 +6355,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Weakness Exploit" =>  1,
-                    "Good Luck" =>  1
+                    "Constitution" => 2,
+                    "Weakness Exploit" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -6385,9 +6385,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Weakness Exploit" =>  1,
-                    "Good Luck" =>  1
+                    "Constitution" => 2,
+                    "Weakness Exploit" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -6415,9 +6415,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  2,
-                    "Power Prolonger" =>  2,
-                    "Evade Extender" =>  1
+                    "Focus" => 2,
+                    "Power Prolonger" => 2,
+                    "Evade Extender" => 1
                 ],
                 128,
                 [
@@ -6445,8 +6445,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Windproof" =>  1,
-                    "Poison Attack" =>  1
+                    "Windproof" => 1,
+                    "Poison Attack" => 1
                 ],
                 128,
                 [
@@ -6474,9 +6474,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Evade Window" =>  2,
-                    "Constitution" =>  1
+                    "Resuscitate" => 1,
+                    "Evade Window" => 2,
+                    "Constitution" => 1
                 ],
                 130,
                 [
@@ -6504,9 +6504,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1,
-                    "Critical Boost" =>  1
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1,
+                    "Critical Boost" => 1
                 ],
                 130,
                 [
@@ -6534,9 +6534,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Weakness Exploit" =>  1,
-                    "Critical Element" =>  1
+                    "Latent Power" => 1,
+                    "Weakness Exploit" => 1,
+                    "Critical Element" => 1
                 ],
                 132,
                 [
@@ -6564,8 +6564,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Critical Eye" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 130,
                 [
@@ -6593,8 +6593,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Chain Crit" =>  1,
-                    "Stun Resistance" =>  2
+                    "Chain Crit" => 1,
+                    "Stun Resistance" => 2
                 ],
                 130,
                 [
@@ -6622,8 +6622,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  3,
-                    "Partbreaker" =>  1
+                    "Paralysis Attack" => 3,
+                    "Partbreaker" => 1
                 ],
                 132,
                 [
@@ -6651,8 +6651,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1,
-                    "Constitution" =>  2
+                    "Agitator" => 1,
+                    "Constitution" => 2
                 ],
                 128,
                 [
@@ -6680,8 +6680,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bladescale Hone" =>  1,
-                    "Constitution" =>  3
+                    "Bladescale Hone" => 1,
+                    "Constitution" => 3
                 ],
                 130,
                 [
@@ -6709,8 +6709,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Speed Eating" =>  1
+                    "Earplugs" => 1,
+                    "Speed Eating" => 1
                 ],
                 134,
                 [
@@ -6738,8 +6738,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  3,
-                    "Tremor Resistance" =>  1
+                    "Guard" => 3,
+                    "Tremor Resistance" => 1
                 ],
                 134,
                 [
@@ -6767,8 +6767,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  2,
-                    "Earplugs" =>  2
+                    "Tremor Resistance" => 2,
+                    "Earplugs" => 2
                 ],
                 128,
                 [
@@ -6796,9 +6796,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1,
-                    "Divine Blessing" =>  1,
-                    "Focus" =>  1
+                    "Partbreaker" => 1,
+                    "Divine Blessing" => 1,
+                    "Focus" => 1
                 ],
                 128,
                 [
@@ -6826,8 +6826,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Speed" =>  3,
-                    "Earplugs" =>  2
+                    "Recovery Speed" => 3,
+                    "Earplugs" => 2
                 ],
                 128,
                 [
@@ -6855,8 +6855,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Speed" =>  3,
-                    "Earplugs" =>  2
+                    "Recovery Speed" => 3,
+                    "Earplugs" => 2
                 ],
                 128,
                 [
@@ -6884,8 +6884,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  3,
-                    "Capture Master" =>  1
+                    "Wide-Range" => 3,
+                    "Capture Master" => 1
                 ],
                 128,
                 [
@@ -6913,8 +6913,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  3,
-                    "Recovery Speed" =>  1
+                    "Constitution" => 3,
+                    "Recovery Speed" => 1
                 ],
                 128,
                 [
@@ -6942,7 +6942,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Spiribird's Call" =>  1
+                    "Spiribird's Call" => 1
                 ],
                 128,
                 [
@@ -6970,8 +6970,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1,
-                    "Offensive Guard" =>  2
+                    "Agitator" => 1,
+                    "Offensive Guard" => 2
                 ],
                 132,
                 [
@@ -6999,8 +6999,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Handicraft" =>  2,
-                    "Normal/Rapid Up" =>  2
+                    "Handicraft" => 2,
+                    "Normal/Rapid Up" => 2
                 ],
                 134,
                 [
@@ -7028,9 +7028,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  2,
-                    "Ballistics" =>  2,
-                    "Foray" =>  1
+                    "Mind's Eye" => 2,
+                    "Ballistics" => 2,
+                    "Foray" => 1
                 ],
                 134,
                 [
@@ -7058,8 +7058,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Eye" =>  3,
-                    "Critical Boost" =>  1
+                    "Critical Eye" => 3,
+                    "Critical Boost" => 1
                 ],
                 134,
                 [
@@ -7087,8 +7087,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Wirebug Whisperer" =>  2
+                    "Weakness Exploit" => 1,
+                    "Wirebug Whisperer" => 2
                 ],
                 134,
                 [
@@ -7116,8 +7116,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Coalescence" =>  2
+                    "Bloodlust" => 1,
+                    "Coalescence" => 2
                 ],
                 134,
                 [
@@ -7145,8 +7145,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Coalescence" =>  2
+                    "Bloodlust" => 1,
+                    "Coalescence" => 2
                 ],
                 134,
                 [
@@ -7174,8 +7174,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Maximum Might" =>  1
+                    "Heroics" => 2,
+                    "Maximum Might" => 1
                 ],
                 130,
                 [
@@ -7203,9 +7203,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1,
-                    "Guard" =>  2,
-                    "Razor Sharp" =>  1
+                    "Artillery" => 1,
+                    "Guard" => 2,
+                    "Razor Sharp" => 1
                 ],
                 132,
                 [
@@ -7233,8 +7233,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  3,
-                    "Focus" =>  3
+                    "Wide-Range" => 3,
+                    "Focus" => 3
                 ],
                 130,
                 [
@@ -7262,8 +7262,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  3,
-                    "Wall Runner (Boost)" =>  1
+                    "Wirebug Whisperer" => 3,
+                    "Wall Runner (Boost)" => 1
                 ],
                 128,
                 [
@@ -7291,7 +7291,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Good Luck" =>  3
+                    "Good Luck" => 3
                 ],
                 128,
                 [
@@ -7319,8 +7319,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Resentment" =>  2
+                    "Weakness Exploit" => 1,
+                    "Resentment" => 2
                 ],
                 138,
                 [
@@ -7348,10 +7348,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Focus" =>  1,
-                    "Evade Extender" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Focus" => 1,
+                    "Evade Extender" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -7379,10 +7379,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Rapid Morph" =>  1,
-                    "Offensive Guard" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Rapid Morph" => 1,
+                    "Offensive Guard" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -7410,10 +7410,10 @@ final class MHService
                     1
                 ],
                 [
-                    "Furious" =>  1,
-                    "Critical Eye" =>  1,
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2
+                    "Furious" => 1,
+                    "Critical Eye" => 1,
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2
                 ],
                 134,
                 [
@@ -7441,8 +7441,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Dragonheart" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 136,
                 [
@@ -7470,9 +7470,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  2,
-                    "Coalescence" =>  2,
-                    "Redirection" =>  1
+                    "Hellfire Cloak" => 2,
+                    "Coalescence" => 2,
+                    "Redirection" => 1
                 ],
                 136,
                 [
@@ -7500,9 +7500,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  2,
-                    "Attack Boost" =>  1,
-                    "Earplugs" =>  1
+                    "Latent Power" => 2,
+                    "Attack Boost" => 1,
+                    "Earplugs" => 1
                 ],
                 135,
                 [
@@ -7530,9 +7530,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Status Trigger" =>  2,
-                    "Foray" =>  1,
-                    "Chain Crit" =>  2
+                    "Status Trigger" => 2,
+                    "Foray" => 1,
+                    "Chain Crit" => 2
                 ],
                 132,
                 [
@@ -7560,9 +7560,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Boost" =>  2,
-                    "Critical Element" =>  1,
-                    "Windproof" =>  3
+                    "Critical Boost" => 2,
+                    "Critical Element" => 1,
+                    "Windproof" => 3
                 ],
                 134,
                 [
@@ -7590,9 +7590,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Handicraft" =>  1,
-                    "Ammo Up" =>  1,
-                    "Agitator" =>  3
+                    "Handicraft" => 1,
+                    "Ammo Up" => 1,
+                    "Agitator" => 3
                 ],
                 130,
                 [
@@ -7620,8 +7620,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Hunger Resistance" =>  1
+                    "Botanist" => 1,
+                    "Hunger Resistance" => 1
                 ],
                 24,
                 [
@@ -7649,8 +7649,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Earplugs" =>  1
+                    "Attack Boost" => 1,
+                    "Earplugs" => 1
                 ],
                 36,
                 [
@@ -7678,8 +7678,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Water Attack" =>  2
+                    "Constitution" => 2,
+                    "Water Attack" => 2
                 ],
                 92,
                 [
@@ -7707,9 +7707,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Earplugs" =>  1,
-                    "Recovery Up" =>  1
+                    "Attack Boost" => 1,
+                    "Earplugs" => 1,
+                    "Recovery Up" => 1
                 ],
                 72,
                 [
@@ -7737,7 +7737,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  1
+                    "Wirebug Whisperer" => 1
                 ],
                 67,
                 [
@@ -7765,7 +7765,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1
+                    "Botanist" => 1
                 ],
                 67,
                 [
@@ -7793,8 +7793,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Defense Boost" =>  1
+                    "Peak Performance" => 1,
+                    "Defense Boost" => 1
                 ],
                 62,
                 [
@@ -7822,7 +7822,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 62,
                 [
@@ -7850,8 +7850,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Recovery Speed" =>  1
+                    "Critical Eye" => 1,
+                    "Recovery Speed" => 1
                 ],
                 68,
                 [
@@ -7879,7 +7879,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 68,
                 [
@@ -7907,7 +7907,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1
+                    "Counterstrike" => 1
                 ],
                 68,
                 [
@@ -7935,7 +7935,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1
+                    "Affinity Sliding" => 1
                 ],
                 68,
                 [
@@ -7963,7 +7963,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  1
+                    "Speed Sharpening" => 1
                 ],
                 62,
                 [
@@ -7991,7 +7991,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1
+                    "Stamina Thief" => 1
                 ],
                 62,
                 [
@@ -8045,7 +8045,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1
+                    "Recovery Up" => 1
                 ],
                 64,
                 [
@@ -8073,7 +8073,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 64,
                 [
@@ -8101,7 +8101,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 64,
                 [
@@ -8129,7 +8129,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Reload Speed" =>  1
+                    "Reload Speed" => 1
                 ],
                 64,
                 [
@@ -8157,7 +8157,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1
+                    "Free Meal" => 1
                 ],
                 66,
                 [
@@ -8185,8 +8185,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1,
-                    "Stun Resistance" =>  1
+                    "Artillery" => 1,
+                    "Stun Resistance" => 1
                 ],
                 66,
                 [
@@ -8214,7 +8214,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Resistance" =>  1
+                    "Water Resistance" => 1
                 ],
                 66,
                 [
@@ -8242,7 +8242,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1
+                    "Paralysis Attack" => 1
                 ],
                 66,
                 [
@@ -8270,7 +8270,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Horn Maestro" =>  1
+                    "Horn Maestro" => 1
                 ],
                 68,
                 [
@@ -8298,7 +8298,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1
+                    "Poison Attack" => 1
                 ],
                 68,
                 [
@@ -8326,7 +8326,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 68,
                 [
@@ -8354,7 +8354,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  1
+                    "Stamina Surge" => 1
                 ],
                 70,
                 [
@@ -8382,8 +8382,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Defense Boost" =>  1
+                    "Attack Boost" => 1,
+                    "Defense Boost" => 1
                 ],
                 70,
                 [
@@ -8411,7 +8411,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1
+                    "Wall Runner" => 1
                 ],
                 68,
                 [
@@ -8439,7 +8439,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1
+                    "Normal/Rapid Up" => 1
                 ],
                 70,
                 [
@@ -8467,7 +8467,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  1
+                    "Windproof" => 1
                 ],
                 68,
                 [
@@ -8495,8 +8495,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Recovery Up" =>  1
+                    "Botanist" => 1,
+                    "Recovery Up" => 1
                 ],
                 68,
                 [
@@ -8524,7 +8524,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1
+                    "Rapid Morph" => 1
                 ],
                 68,
                 [
@@ -8552,7 +8552,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Reload Speed" =>  2
+                    "Reload Speed" => 2
                 ],
                 68,
                 [
@@ -8580,7 +8580,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Steadiness" =>  1
+                    "Steadiness" => 1
                 ],
                 68,
                 [
@@ -8608,7 +8608,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Resistance" =>  2
+                    "Fire Resistance" => 2
                 ],
                 68,
                 [
@@ -8636,7 +8636,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1
+                    "Item Prolonger" => 1
                 ],
                 68,
                 [
@@ -8664,7 +8664,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1
+                    "Rapid Morph" => 1
                 ],
                 70,
                 [
@@ -8692,7 +8692,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 72,
                 [
@@ -8720,7 +8720,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 70,
                 [
@@ -8748,7 +8748,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1
+                    "Guard" => 1
                 ],
                 72,
                 [
@@ -8776,7 +8776,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1
+                    "Item Prolonger" => 1
                 ],
                 72,
                 [
@@ -8804,7 +8804,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1
+                    "Recovery Up" => 1
                 ],
                 72,
                 [
@@ -8832,7 +8832,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 70,
                 [
@@ -8860,7 +8860,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -8888,7 +8888,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  2
+                    "Water Attack" => 2
                 ],
                 68,
                 [
@@ -8916,8 +8916,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Dragon Attack" => 1
                 ],
                 68,
                 [
@@ -8945,8 +8945,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Dragon Attack" => 1
                 ],
                 68,
                 [
@@ -8974,7 +8974,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  1
+                    "Blast Attack" => 1
                 ],
                 68,
                 [
@@ -9002,7 +9002,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -9030,7 +9030,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -9058,8 +9058,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 68,
                 [
@@ -9087,8 +9087,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 68,
                 [
@@ -9116,7 +9116,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1
+                    "Blight Resistance" => 1
                 ],
                 70,
                 [
@@ -9144,8 +9144,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Resentment" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Resentment" => 1
                 ],
                 72,
                 [
@@ -9173,8 +9173,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Marathon Runner" =>  1
+                    "Focus" => 1,
+                    "Marathon Runner" => 1
                 ],
                 70,
                 [
@@ -9202,7 +9202,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -9230,8 +9230,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Water Attack" =>  1
+                    "Bubbly Dance" => 1,
+                    "Water Attack" => 1
                 ],
                 70,
                 [
@@ -9259,8 +9259,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1,
-                    "Windproof" =>  1
+                    "Partbreaker" => 1,
+                    "Windproof" => 1
                 ],
                 72,
                 [
@@ -9288,8 +9288,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Critical Eye" =>  1
+                    "Latent Power" => 1,
+                    "Critical Eye" => 1
                 ],
                 72,
                 [
@@ -9317,7 +9317,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1
+                    "Critical Draw" => 1
                 ],
                 72,
                 [
@@ -9345,7 +9345,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1
+                    "Razor Sharp" => 1
                 ],
                 72,
                 [
@@ -9373,8 +9373,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Bludgeoner" =>  1
+                    "Earplugs" => 1,
+                    "Bludgeoner" => 1
                 ],
                 72,
                 [
@@ -9402,7 +9402,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1
+                    "Guard" => 1
                 ],
                 72,
                 [
@@ -9430,9 +9430,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  2,
-                    "Wall Runner" =>  1,
-                    "Critical Eye" =>  1
+                    "Wirebug Whisperer" => 2,
+                    "Wall Runner" => 1,
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -9460,7 +9460,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1
+                    "Botanist" => 1
                 ],
                 68,
                 [
@@ -9488,8 +9488,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Defense Boost" =>  1,
-                    "Flinch Free" =>  2
+                    "Defense Boost" => 1,
+                    "Flinch Free" => 2
                 ],
                 70,
                 [
@@ -9517,8 +9517,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Handicraft" =>  1
+                    "Attack Boost" => 1,
+                    "Handicraft" => 1
                 ],
                 70,
                 [
@@ -9546,7 +9546,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  2
+                    "Speed Sharpening" => 2
                 ],
                 70,
                 [
@@ -9574,8 +9574,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Marathon Runner" =>  1
+                    "Stamina Thief" => 1,
+                    "Marathon Runner" => 1
                 ],
                 70,
                 [
@@ -9603,7 +9603,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1
+                    "Latent Power" => 1
                 ],
                 70,
                 [
@@ -9631,7 +9631,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1
+                    "Latent Power" => 1
                 ],
                 70,
                 [
@@ -9659,8 +9659,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1,
-                    "Evade Window" =>  1
+                    "Paralysis Attack" => 1,
+                    "Evade Window" => 1
                 ],
                 72,
                 [
@@ -9688,8 +9688,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Recovery Speed" =>  1
+                    "Critical Eye" => 2,
+                    "Recovery Speed" => 1
                 ],
                 74,
                 [
@@ -9717,8 +9717,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Ice Attack" =>  1
+                    "Attack Boost" => 1,
+                    "Ice Attack" => 1
                 ],
                 74,
                 [
@@ -9746,8 +9746,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  2,
-                    "Horn Maestro" =>  1
+                    "Slugger" => 2,
+                    "Horn Maestro" => 1
                 ],
                 76,
                 [
@@ -9775,8 +9775,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Fire Up" =>  1,
-                    "Poison Attack" =>  1
+                    "Rapid Fire Up" => 1,
+                    "Poison Attack" => 1
                 ],
                 76,
                 [
@@ -9804,7 +9804,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1
+                    "Counterstrike" => 1
                 ],
                 74,
                 [
@@ -9832,8 +9832,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1,
-                    "Constitution" =>  1
+                    "Affinity Sliding" => 1,
+                    "Constitution" => 1
                 ],
                 74,
                 [
@@ -9861,8 +9861,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Peak Performance" =>  1
+                    "Quick Sheathe" => 1,
+                    "Peak Performance" => 1
                 ],
                 76,
                 [
@@ -9890,8 +9890,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1,
-                    "Recovery Up" =>  1
+                    "Wall Runner" => 1,
+                    "Recovery Up" => 1
                 ],
                 76,
                 [
@@ -9919,8 +9919,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Evade Extender" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Evade Extender" => 1
                 ],
                 78,
                 [
@@ -9948,7 +9948,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  2
+                    "Windproof" => 2
                 ],
                 70,
                 [
@@ -9976,7 +9976,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Mushroomancer" =>  2
+                    "Mushroomancer" => 2
                 ],
                 70,
                 [
@@ -10004,7 +10004,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  2
+                    "Recovery Up" => 2
                 ],
                 70,
                 [
@@ -10032,7 +10032,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  2
+                    "Free Meal" => 2
                 ],
                 72,
                 [
@@ -10060,8 +10060,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1,
-                    "Stun Resistance" =>  2
+                    "Artillery" => 1,
+                    "Stun Resistance" => 2
                 ],
                 72,
                 [
@@ -10089,7 +10089,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  2
+                    "Water Attack" => 2
                 ],
                 72,
                 [
@@ -10117,8 +10117,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Jump Master" =>  1
+                    "Rapid Morph" => 1,
+                    "Jump Master" => 1
                 ],
                 80,
                 [
@@ -10146,7 +10146,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  2
+                    "Stamina Surge" => 2
                 ],
                 78,
                 [
@@ -10174,8 +10174,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Defense Boost" =>  2
+                    "Attack Boost" => 1,
+                    "Defense Boost" => 2
                 ],
                 80,
                 [
@@ -10203,7 +10203,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 82,
                 [
@@ -10231,8 +10231,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1,
-                    "Constitution" =>  2
+                    "Special Ammo Boost" => 1,
+                    "Constitution" => 2
                 ],
                 80,
                 [
@@ -10260,8 +10260,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Power Prolonger" =>  2,
-                    "Evade Extender" =>  1
+                    "Power Prolonger" => 2,
+                    "Evade Extender" => 1
                 ],
                 78,
                 [
@@ -10289,8 +10289,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Load Shells" =>  1
+                    "Guard" => 1,
+                    "Load Shells" => 1
                 ],
                 82,
                 [
@@ -10318,8 +10318,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Botanist" =>  1
+                    "Recovery Up" => 1,
+                    "Botanist" => 1
                 ],
                 82,
                 [
@@ -10347,10 +10347,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Focus" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Heroics" =>  1
+                    "Dragon Attack" => 1,
+                    "Focus" => 1,
+                    "Power Prolonger" => 1,
+                    "Heroics" => 1
                 ],
                 72,
                 [
@@ -10378,8 +10378,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Pierce Up" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Pierce Up" => 1
                 ],
                 72,
                 [
@@ -10407,8 +10407,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2,
-                    "Recovery Up" =>  1
+                    "Botanist" => 2,
+                    "Recovery Up" => 1
                 ],
                 72,
                 [
@@ -10436,8 +10436,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1,
-                    "Rapid Morph" =>  1
+                    "Fortify" => 1,
+                    "Rapid Morph" => 1
                 ],
                 72,
                 [
@@ -10465,7 +10465,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Reload Speed" =>  2
+                    "Reload Speed" => 2
                 ],
                 72,
                 [
@@ -10519,7 +10519,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  3
+                    "Water Attack" => 3
                 ],
                 72,
                 [
@@ -10547,8 +10547,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -10576,8 +10576,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -10605,10 +10605,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1,
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1,
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -10636,10 +10636,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1,
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1,
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -10667,7 +10667,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  3
+                    "Fire Attack" => 3
                 ],
                 72,
                 [
@@ -10695,7 +10695,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Boost" =>  1
+                    "Critical Boost" => 1
                 ],
                 72,
                 [
@@ -10723,8 +10723,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Item Prolonger" =>  1
+                    "Sleep Attack" => 1,
+                    "Item Prolonger" => 1
                 ],
                 78,
                 [
@@ -10752,8 +10752,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Maximum Might" =>  1
+                    "Quick Sheathe" => 1,
+                    "Maximum Might" => 1
                 ],
                 78,
                 [
@@ -10781,8 +10781,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  1,
-                    "Critical Eye" =>  1
+                    "Mind's Eye" => 1,
+                    "Critical Eye" => 1
                 ],
                 78,
                 [
@@ -10810,8 +10810,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  2,
-                    "Marathon Runner" =>  1
+                    "Focus" => 2,
+                    "Marathon Runner" => 1
                 ],
                 80,
                 [
@@ -10839,8 +10839,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Critical Eye" =>  2
+                    "Evade Window" => 1,
+                    "Critical Eye" => 2
                 ],
                 80,
                 [
@@ -10868,8 +10868,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Resuscitate" =>  1
+                    "Bubbly Dance" => 1,
+                    "Resuscitate" => 1
                 ],
                 80,
                 [
@@ -10897,9 +10897,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1,
-                    "Windproof" =>  1
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1,
+                    "Windproof" => 1
                 ],
                 82,
                 [
@@ -10927,8 +10927,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Latent Power" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 82,
                 [
@@ -10956,9 +10956,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1
                 ],
                 82,
                 [
@@ -10986,9 +10986,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1
                 ],
                 82,
                 [
@@ -11016,7 +11016,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  2
+                    "Blast Attack" => 2
                 ],
                 82,
                 [
@@ -11044,8 +11044,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1,
-                    "Geologist" =>  1
+                    "Capture Master" => 1,
+                    "Geologist" => 1
                 ],
                 82,
                 [
@@ -11073,8 +11073,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Resentment" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Resentment" => 1
                 ],
                 84,
                 [
@@ -11102,8 +11102,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Resentment" =>  1
+                    "Critical Draw" => 1,
+                    "Resentment" => 1
                 ],
                 84,
                 [
@@ -11131,8 +11131,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Power Prolonger" =>  1
+                    "Razor Sharp" => 2,
+                    "Power Prolonger" => 1
                 ],
                 84,
                 [
@@ -11160,8 +11160,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2,
-                    "Bludgeoner" =>  1
+                    "Earplugs" => 2,
+                    "Bludgeoner" => 1
                 ],
                 84,
                 [
@@ -11189,8 +11189,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Offensive Guard" =>  1
+                    "Guard" => 2,
+                    "Offensive Guard" => 1
                 ],
                 84,
                 [
@@ -11218,8 +11218,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Reload Speed" =>  1
+                    "Spread Up" => 1,
+                    "Reload Speed" => 1
                 ],
                 86,
                 [
@@ -11247,9 +11247,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Maximum Might" =>  1,
-                    "Latent Power" =>  1
+                    "Heroics" => 1,
+                    "Maximum Might" => 1,
+                    "Latent Power" => 1
                 ],
                 90,
                 [
@@ -11277,8 +11277,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  1,
-                    "Handicraft" =>  1
+                    "Tremor Resistance" => 1,
+                    "Handicraft" => 1
                 ],
                 88,
                 [
@@ -11306,9 +11306,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Diversion" =>  1
+                    "Kushala Blessing" => 1,
+                    "Recovery Speed" => 1,
+                    "Diversion" => 1
                 ],
                 94,
                 [
@@ -11336,10 +11336,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Poison Attack" =>  1,
-                    "Mind's Eye" =>  1,
-                    "Ballistics" =>  1
+                    "Chameleos Blessing" => 1,
+                    "Poison Attack" => 1,
+                    "Mind's Eye" => 1,
+                    "Ballistics" => 1
                 ],
                 94,
                 [
@@ -11367,9 +11367,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Critical Eye" =>  1,
-                    "Master's Touch" =>  1
+                    "Teostra Blessing" => 1,
+                    "Critical Eye" => 1,
+                    "Master's Touch" => 1
                 ],
                 94,
                 [
@@ -11397,8 +11397,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  2,
-                    "Agitator" =>  1
+                    "Guard Up" => 2,
+                    "Agitator" => 1
                 ],
                 92,
                 [
@@ -11426,10 +11426,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Flinch Free" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Guard" => 1,
+                    "Flinch Free" => 1,
+                    "Stormsoul" => 1
                 ],
                 86,
                 [
@@ -11457,10 +11457,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Constitution" =>  1,
-                    "Critical Draw" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Constitution" => 1,
+                    "Critical Draw" => 1,
+                    "Stormsoul" => 1
                 ],
                 96,
                 [
@@ -11488,8 +11488,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resuscitate" =>  2
+                    "Dragonheart" => 1,
+                    "Resuscitate" => 2
                 ],
                 100,
                 [
@@ -11517,9 +11517,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  2,
-                    "Wall Runner" =>  1,
-                    "Critical Eye" =>  1
+                    "Wirebug Whisperer" => 2,
+                    "Wall Runner" => 1,
+                    "Critical Eye" => 1
                 ],
                 108,
                 [
@@ -11547,8 +11547,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2,
-                    "Recovery Up" =>  1
+                    "Botanist" => 2,
+                    "Recovery Up" => 1
                 ],
                 108,
                 [
@@ -11576,9 +11576,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Defense Boost" =>  1,
-                    "Flinch Free" =>  2,
-                    "Guard" =>  1
+                    "Defense Boost" => 1,
+                    "Flinch Free" => 2,
+                    "Guard" => 1
                 ],
                 110,
                 [
@@ -11606,9 +11606,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Handicraft" =>  1,
-                    "Item Prolonger" =>  1
+                    "Attack Boost" => 1,
+                    "Handicraft" => 1,
+                    "Item Prolonger" => 1
                 ],
                 110,
                 [
@@ -11636,8 +11636,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  2,
-                    "Protective Polish" =>  2
+                    "Speed Sharpening" => 2,
+                    "Protective Polish" => 2
                 ],
                 110,
                 [
@@ -11665,8 +11665,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Marathon Runner" =>  2
+                    "Stamina Thief" => 1,
+                    "Marathon Runner" => 2
                 ],
                 110,
                 [
@@ -11694,8 +11694,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1,
-                    "Stun Resistance" =>  2
+                    "Artillery" => 1,
+                    "Stun Resistance" => 2
                 ],
                 118,
                 [
@@ -11723,7 +11723,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  2
+                    "Water Attack" => 2
                 ],
                 118,
                 [
@@ -11751,8 +11751,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1,
-                    "Evade Window" =>  2
+                    "Paralysis Attack" => 1,
+                    "Evade Window" => 2
                 ],
                 112,
                 [
@@ -11780,8 +11780,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  2,
-                    "Recovery Up" =>  1
+                    "Dragon Attack" => 2,
+                    "Recovery Up" => 1
                 ],
                 114,
                 [
@@ -11809,8 +11809,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Paralysis Resistance" =>  2
+                    "Quick Sheathe" => 1,
+                    "Paralysis Resistance" => 2
                 ],
                 112,
                 [
@@ -11838,8 +11838,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Windproof" =>  1
+                    "Attack Boost" => 1,
+                    "Windproof" => 1
                 ],
                 114,
                 [
@@ -11867,9 +11867,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Recovery Speed" =>  2,
-                    "Evade Window" =>  1
+                    "Critical Eye" => 2,
+                    "Recovery Speed" => 2,
+                    "Evade Window" => 1
                 ],
                 114,
                 [
@@ -11897,8 +11897,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Sleep Attack" =>  1
+                    "Attack Boost" => 1,
+                    "Sleep Attack" => 1
                 ],
                 114,
                 [
@@ -11926,8 +11926,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Slugger" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 114,
                 [
@@ -11955,9 +11955,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Fire Up" =>  1,
-                    "Poison Attack" =>  1,
-                    "Poison Resistance" =>  1
+                    "Rapid Fire Up" => 1,
+                    "Poison Attack" => 1,
+                    "Poison Resistance" => 1
                 ],
                 116,
                 [
@@ -11985,8 +11985,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1,
-                    "Resentment" =>  1
+                    "Counterstrike" => 1,
+                    "Resentment" => 1
                 ],
                 114,
                 [
@@ -12014,10 +12014,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1,
-                    "Constitution" =>  2,
-                    "Master's Touch" =>  1,
-                    "Reload Speed" =>  1
+                    "Affinity Sliding" => 1,
+                    "Constitution" => 2,
+                    "Master's Touch" => 1,
+                    "Reload Speed" => 1
                 ],
                 114,
                 [
@@ -12045,9 +12045,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Jump Master" =>  1,
-                    "Earplugs" =>  1
+                    "Rapid Morph" => 1,
+                    "Jump Master" => 1,
+                    "Earplugs" => 1
                 ],
                 122,
                 [
@@ -12075,9 +12075,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Peak Performance" =>  1,
-                    "Critical Draw" =>  1
+                    "Quick Sheathe" => 1,
+                    "Peak Performance" => 1,
+                    "Critical Draw" => 1
                 ],
                 116,
                 [
@@ -12105,8 +12105,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  2,
-                    "Focus" =>  1
+                    "Stamina Surge" => 2,
+                    "Focus" => 1
                 ],
                 120,
                 [
@@ -12134,9 +12134,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Defense Boost" =>  2,
-                    "Muck Resistance" =>  2
+                    "Attack Boost" => 2,
+                    "Defense Boost" => 2,
+                    "Muck Resistance" => 2
                 ],
                 122,
                 [
@@ -12164,10 +12164,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  3,
-                    "Load Shells" =>  1,
-                    "Normal/Rapid Up" =>  1,
-                    "Ammo Up" =>  1
+                    "Guard" => 3,
+                    "Load Shells" => 1,
+                    "Normal/Rapid Up" => 1,
+                    "Ammo Up" => 1
                 ],
                 122,
                 [
@@ -12195,9 +12195,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Evade Extender" =>  1,
-                    "Speed Eating" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Evade Extender" => 1,
+                    "Speed Eating" => 1
                 ],
                 118,
                 [
@@ -12225,8 +12225,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  2,
-                    "Critical Eye" =>  2
+                    "Windproof" => 2,
+                    "Critical Eye" => 2
                 ],
                 114,
                 [
@@ -12254,8 +12254,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  2,
-                    "Mind's Eye" =>  1
+                    "Latent Power" => 2,
+                    "Mind's Eye" => 1
                 ],
                 118,
                 [
@@ -12283,8 +12283,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  2,
-                    "Mind's Eye" =>  1
+                    "Latent Power" => 2,
+                    "Mind's Eye" => 1
                 ],
                 118,
                 [
@@ -12312,8 +12312,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Mushroomancer" =>  2,
-                    "Horn Maestro" =>  1
+                    "Mushroomancer" => 2,
+                    "Horn Maestro" => 1
                 ],
                 118,
                 [
@@ -12341,8 +12341,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  2,
-                    "Wide-Range" =>  1
+                    "Recovery Up" => 2,
+                    "Wide-Range" => 1
                 ],
                 116,
                 [
@@ -12370,9 +12370,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Pierce Up" =>  1,
-                    "Tune-Up" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Pierce Up" => 1,
+                    "Tune-Up" => 1
                 ],
                 116,
                 [
@@ -12400,9 +12400,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  2,
-                    "Recovery Up" =>  1,
-                    "Divine Blessing" =>  1
+                    "Botanist" => 2,
+                    "Recovery Up" => 1,
+                    "Divine Blessing" => 1
                 ],
                 112,
                 [
@@ -12430,8 +12430,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Mind's Eye" =>  2
+                    "Blight Resistance" => 1,
+                    "Mind's Eye" => 2
                 ],
                 120,
                 [
@@ -12459,9 +12459,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Flinch Free" =>  1,
-                    "Offensive Guard" =>  2
+                    "Razor Sharp" => 1,
+                    "Flinch Free" => 1,
+                    "Offensive Guard" => 2
                 ],
                 116,
                 [
@@ -12489,8 +12489,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Earplugs" =>  2
+                    "Critical Eye" => 1,
+                    "Earplugs" => 2
                 ],
                 112,
                 [
@@ -12518,8 +12518,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  2,
-                    "Item Prolonger" =>  2
+                    "Free Meal" => 2,
+                    "Item Prolonger" => 2
                 ],
                 112,
                 [
@@ -12547,8 +12547,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Wall Runner" =>  2,
-                    "Recovery Up" =>  2
+                    "Wall Runner" => 2,
+                    "Recovery Up" => 2
                 ],
                 116,
                 [
@@ -12576,7 +12576,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  3
+                    "Wide-Range" => 3
                 ],
                 116,
                 [
@@ -12604,9 +12604,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Fire Resistance" =>  2,
-                    "Recovery Speed" =>  3
+                    "Quick Sheathe" => 1,
+                    "Fire Resistance" => 2,
+                    "Recovery Speed" => 3
                 ],
                 116,
                 [
@@ -12634,9 +12634,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1,
-                    "Constitution" =>  3,
-                    "Speed Sharpening" =>  2
+                    "Special Ammo Boost" => 1,
+                    "Constitution" => 3,
+                    "Speed Sharpening" => 2
                 ],
                 116,
                 [
@@ -12664,10 +12664,10 @@ final class MHService
                     1
                 ],
                 [
-                    "Power Prolonger" =>  2,
-                    "Evade Extender" =>  1,
-                    "Resentment" =>  1,
-                    "Tune-Up" =>  1
+                    "Power Prolonger" => 2,
+                    "Evade Extender" => 1,
+                    "Resentment" => 1,
+                    "Tune-Up" => 1
                 ],
                 116,
                 [
@@ -12695,9 +12695,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Load Shells" =>  1,
-                    "Latent Power" =>  1
+                    "Guard" => 2,
+                    "Load Shells" => 1,
+                    "Latent Power" => 1
                 ],
                 120,
                 [
@@ -12725,8 +12725,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Ammo Up" =>  1
+                    "Sleep Attack" => 1,
+                    "Ammo Up" => 1
                 ],
                 116,
                 [
@@ -12754,8 +12754,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Agitator" =>  2
+                    "Critical Element" => 1,
+                    "Agitator" => 2
                 ],
                 124,
                 [
@@ -12783,9 +12783,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Poison Resistance" =>  2,
-                    "Free Meal" =>  1
+                    "Recovery Up" => 1,
+                    "Poison Resistance" => 2,
+                    "Free Meal" => 1
                 ],
                 116,
                 [
@@ -12813,9 +12813,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  1,
-                    "Critical Eye" =>  1,
-                    "Critical Element" =>  1
+                    "Mind's Eye" => 1,
+                    "Critical Eye" => 1,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -12843,9 +12843,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  2,
-                    "Marathon Runner" =>  1,
-                    "Agitator" =>  1
+                    "Focus" => 2,
+                    "Marathon Runner" => 1,
+                    "Agitator" => 1
                 ],
                 118,
                 [
@@ -12873,10 +12873,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Focus" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Heroics" =>  2
+                    "Dragon Attack" => 1,
+                    "Focus" => 1,
+                    "Power Prolonger" => 1,
+                    "Heroics" => 2
                 ],
                 120,
                 [
@@ -12904,7 +12904,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Hunger Resistance" =>  1
+                    "Hunger Resistance" => 1
                 ],
                 116,
                 [
@@ -12932,8 +12932,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Tune-Up" =>  1,
-                    "Steadiness" =>  1
+                    "Tune-Up" => 1,
+                    "Steadiness" => 1
                 ],
                 116,
                 [
@@ -12961,9 +12961,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Fortify" =>  1,
-                    "Rapid Morph" =>  2,
-                    "Speed Sharpening" =>  1
+                    "Fortify" => 1,
+                    "Rapid Morph" => 2,
+                    "Speed Sharpening" => 1
                 ],
                 126,
                 [
@@ -12991,9 +12991,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  3,
-                    "Speed Eating" =>  1,
-                    "Stamina Surge" =>  1
+                    "Water Attack" => 3,
+                    "Speed Eating" => 1,
+                    "Stamina Surge" => 1
                 ],
                 120,
                 [
@@ -13021,9 +13021,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Critical Eye" =>  3,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Critical Eye" => 3,
+                    "Dragon Attack" => 1
                 ],
                 126,
                 [
@@ -13051,9 +13051,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Critical Eye" =>  3,
-                    "Dragon Attack" =>  1
+                    "Critical Element" => 1,
+                    "Critical Eye" => 3,
+                    "Dragon Attack" => 1
                 ],
                 126,
                 [
@@ -13081,9 +13081,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  3,
-                    "Recoil Down" =>  1,
-                    "Evade Extender" =>  1
+                    "Ballistics" => 3,
+                    "Recoil Down" => 1,
+                    "Evade Extender" => 1
                 ],
                 122,
                 [
@@ -13111,9 +13111,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Divine Blessing" =>  1,
-                    "Good Luck" =>  1
+                    "Evade Window" => 1,
+                    "Divine Blessing" => 1,
+                    "Good Luck" => 1
                 ],
                 120,
                 [
@@ -13141,9 +13141,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Divine Blessing" =>  1,
-                    "Good Luck" =>  1
+                    "Evade Window" => 1,
+                    "Divine Blessing" => 1,
+                    "Good Luck" => 1
                 ],
                 120,
                 [
@@ -13171,9 +13171,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Speed Sharpening" =>  1,
-                    "Blight Resistance" =>  1
+                    "Guard" => 1,
+                    "Speed Sharpening" => 1,
+                    "Blight Resistance" => 1
                 ],
                 124,
                 [
@@ -13201,9 +13201,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1,
-                    "Geologist" =>  1,
-                    "Marathon Runner" =>  1
+                    "Capture Master" => 1,
+                    "Geologist" => 1,
+                    "Marathon Runner" => 1
                 ],
                 122,
                 [
@@ -13231,8 +13231,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Maximum Might" =>  2
+                    "Quick Sheathe" => 1,
+                    "Maximum Might" => 2
                 ],
                 124,
                 [
@@ -13260,9 +13260,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Resentment" =>  1,
-                    "Earplugs" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Resentment" => 1,
+                    "Earplugs" => 1
                 ],
                 126,
                 [
@@ -13290,9 +13290,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Critical Eye" =>  2,
-                    "Flinch Free" =>  1
+                    "Evade Window" => 1,
+                    "Critical Eye" => 2,
+                    "Flinch Free" => 1
                 ],
                 124,
                 [
@@ -13320,8 +13320,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Resentment" =>  3
+                    "Critical Draw" => 1,
+                    "Resentment" => 3
                 ],
                 122,
                 [
@@ -13349,8 +13349,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Flinch Free" =>  3,
-                    "Tremor Resistance" =>  2
+                    "Flinch Free" => 3,
+                    "Tremor Resistance" => 2
                 ],
                 128,
                 [
@@ -13378,9 +13378,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Grinder (S)" =>  1,
-                    "Marathon Runner" =>  2,
-                    "Critical Eye" =>  1
+                    "Grinder (S)" => 1,
+                    "Marathon Runner" => 2,
+                    "Critical Eye" => 1
                 ],
                 124,
                 [
@@ -13408,8 +13408,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Power Prolonger" =>  1
+                    "Razor Sharp" => 2,
+                    "Power Prolonger" => 1
                 ],
                 124,
                 [
@@ -13437,8 +13437,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Heroics" =>  2
+                    "Resuscitate" => 1,
+                    "Heroics" => 2
                 ],
                 128,
                 [
@@ -13466,9 +13466,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Reload Speed" =>  2,
-                    "Spare Shot" =>  1
+                    "Spread Up" => 1,
+                    "Reload Speed" => 2,
+                    "Spare Shot" => 1
                 ],
                 124,
                 [
@@ -13496,8 +13496,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Maximum Might" =>  1,
-                    "Wirebug Whisperer" =>  2
+                    "Maximum Might" => 1,
+                    "Wirebug Whisperer" => 2
                 ],
                 128,
                 [
@@ -13525,9 +13525,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  1,
-                    "Stamina Thief" =>  1,
-                    "Attack Boost" =>  1
+                    "Tremor Resistance" => 1,
+                    "Stamina Thief" => 1,
+                    "Attack Boost" => 1
                 ],
                 128,
                 [
@@ -13555,9 +13555,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Partbreaker" =>  1,
-                    "Counterstrike" =>  1,
-                    "Resentment" =>  1
+                    "Partbreaker" => 1,
+                    "Counterstrike" => 1,
+                    "Resentment" => 1
                 ],
                 126,
                 [
@@ -13585,9 +13585,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Good Luck" =>  1,
-                    "Recovery Up" =>  1
+                    "Wide-Range" => 1,
+                    "Good Luck" => 1,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -13615,9 +13615,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Good Luck" =>  1,
-                    "Recovery Up" =>  1
+                    "Wide-Range" => 1,
+                    "Good Luck" => 1,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -13645,10 +13645,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1,
-                    "Evade Window" =>  3,
-                    "Agitator" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1,
+                    "Evade Window" => 3,
+                    "Agitator" => 1
                 ],
                 126,
                 [
@@ -13676,10 +13676,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1,
-                    "Evade Window" =>  3,
-                    "Agitator" =>  1
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1,
+                    "Evade Window" => 3,
+                    "Agitator" => 1
                 ],
                 126,
                 [
@@ -13707,9 +13707,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Artillery" =>  2,
-                    "Offensive Guard" =>  1
+                    "Guard" => 1,
+                    "Artillery" => 2,
+                    "Offensive Guard" => 1
                 ],
                 130,
                 [
@@ -13737,9 +13737,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Quick Sheathe" =>  1,
-                    "Good Luck" =>  1
+                    "Constitution" => 1,
+                    "Quick Sheathe" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -13767,9 +13767,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Quick Sheathe" =>  1,
-                    "Good Luck" =>  1
+                    "Constitution" => 1,
+                    "Quick Sheathe" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -13797,9 +13797,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Window" =>  1,
-                    "Evade Extender" =>  2
+                    "Rapid Morph" => 1,
+                    "Evade Window" => 1,
+                    "Evade Extender" => 2
                 ],
                 128,
                 [
@@ -13827,9 +13827,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Guard Up" =>  2,
-                    "Special Ammo Boost" =>  2,
-                    "Evade Window" =>  1
+                    "Guard Up" => 2,
+                    "Special Ammo Boost" => 2,
+                    "Evade Window" => 1
                 ],
                 128,
                 [
@@ -13857,8 +13857,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Boost" =>  1,
-                    "Poison Attack" =>  2
+                    "Critical Boost" => 1,
+                    "Poison Attack" => 2
                 ],
                 128,
                 [
@@ -13886,9 +13886,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Resuscitate" =>  1,
-                    "Constitution" =>  2
+                    "Bubbly Dance" => 1,
+                    "Resuscitate" => 1,
+                    "Constitution" => 2
                 ],
                 130,
                 [
@@ -13916,9 +13916,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1,
-                    "Earplugs" =>  1
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1,
+                    "Earplugs" => 1
                 ],
                 130,
                 [
@@ -13946,9 +13946,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Weakness Exploit" =>  2,
-                    "Thunder Attack" =>  2
+                    "Latent Power" => 1,
+                    "Weakness Exploit" => 2,
+                    "Thunder Attack" => 2
                 ],
                 132,
                 [
@@ -13976,8 +13976,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Redirection" =>  1
+                    "Agitator" => 2,
+                    "Redirection" => 1
                 ],
                 130,
                 [
@@ -14005,8 +14005,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Chain Crit" =>  1,
-                    "Stamina Surge" =>  2
+                    "Chain Crit" => 1,
+                    "Stamina Surge" => 2
                 ],
                 130,
                 [
@@ -14034,8 +14034,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Foray" =>  1,
-                    "Partbreaker" =>  2
+                    "Foray" => 1,
+                    "Partbreaker" => 2
                 ],
                 132,
                 [
@@ -14063,8 +14063,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Coalescence" =>  1,
-                    "Constitution" =>  3
+                    "Coalescence" => 1,
+                    "Constitution" => 3
                 ],
                 128,
                 [
@@ -14092,8 +14092,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bladescale Hone" =>  1,
-                    "Evade Window" =>  3
+                    "Bladescale Hone" => 1,
+                    "Evade Window" => 3
                 ],
                 130,
                 [
@@ -14121,8 +14121,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2,
-                    "Peak Performance" =>  1
+                    "Earplugs" => 2,
+                    "Peak Performance" => 1
                 ],
                 134,
                 [
@@ -14150,8 +14150,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Offensive Guard" =>  1
+                    "Guard" => 2,
+                    "Offensive Guard" => 1
                 ],
                 134,
                 [
@@ -14179,9 +14179,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  1,
-                    "Handicraft" =>  2,
-                    "Pierce Up" =>  2
+                    "Tremor Resistance" => 1,
+                    "Handicraft" => 2,
+                    "Pierce Up" => 2
                 ],
                 128,
                 [
@@ -14209,9 +14209,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  2,
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Blast Attack" => 2,
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 128,
                 [
@@ -14239,8 +14239,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Earplugs" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -14268,8 +14268,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Earplugs" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -14297,8 +14297,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Blight Resistance" =>  3,
-                    "Free Meal" =>  1
+                    "Blight Resistance" => 3,
+                    "Free Meal" => 1
                 ],
                 128,
                 [
@@ -14326,8 +14326,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Good Luck" =>  2,
-                    "Recovery Speed" =>  1
+                    "Good Luck" => 2,
+                    "Recovery Speed" => 1
                 ],
                 128,
                 [
@@ -14355,8 +14355,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  4,
-                    "Wirebug Whisperer" =>  1
+                    "Evade Window" => 4,
+                    "Wirebug Whisperer" => 1
                 ],
                 128,
                 [
@@ -14384,8 +14384,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Heroics" =>  1
+                    "Agitator" => 2,
+                    "Heroics" => 1
                 ],
                 132,
                 [
@@ -14413,9 +14413,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  3,
-                    "Handicraft" =>  2,
-                    "Ammo Up" =>  2
+                    "Recovery Speed" => 3,
+                    "Handicraft" => 2,
+                    "Ammo Up" => 2
                 ],
                 134,
                 [
@@ -14443,9 +14443,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Mind's Eye" =>  1,
-                    "Ballistics" =>  1,
-                    "Evade Window" =>  3
+                    "Mind's Eye" => 1,
+                    "Ballistics" => 1,
+                    "Evade Window" => 3
                 ],
                 134,
                 [
@@ -14473,9 +14473,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Master's Touch" =>  2,
-                    "Ballistics" =>  2
+                    "Critical Eye" => 2,
+                    "Master's Touch" => 2,
+                    "Ballistics" => 2
                 ],
                 134,
                 [
@@ -14503,9 +14503,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blood Rite" =>  1,
-                    "Weakness Exploit" =>  1,
-                    "Partbreaker" =>  1
+                    "Blood Rite" => 1,
+                    "Weakness Exploit" => 1,
+                    "Partbreaker" => 1
                 ],
                 134,
                 [
@@ -14533,9 +14533,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Resuscitate" =>  2,
-                    "Critical Element" =>  1
+                    "Bloodlust" => 1,
+                    "Resuscitate" => 2,
+                    "Critical Element" => 1
                 ],
                 134,
                 [
@@ -14563,9 +14563,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Resuscitate" =>  2,
-                    "Critical Element" =>  1
+                    "Bloodlust" => 1,
+                    "Resuscitate" => 2,
+                    "Critical Element" => 1
                 ],
                 134,
                 [
@@ -14593,9 +14593,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Maximum Might" =>  1,
-                    "Latent Power" =>  2
+                    "Heroics" => 1,
+                    "Maximum Might" => 1,
+                    "Latent Power" => 2
                 ],
                 130,
                 [
@@ -14623,9 +14623,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  2,
-                    "Agitator" =>  2,
-                    "Razor Sharp" =>  1
+                    "Guard Up" => 2,
+                    "Agitator" => 2,
+                    "Razor Sharp" => 1
                 ],
                 132,
                 [
@@ -14653,8 +14653,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Charge Master" =>  1,
-                    "Critical Draw" =>  1
+                    "Charge Master" => 1,
+                    "Critical Draw" => 1
                 ],
                 130,
                 [
@@ -14682,9 +14682,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Resentment" =>  1,
-                    "Chain Crit" =>  1
+                    "Weakness Exploit" => 1,
+                    "Resentment" => 1,
+                    "Chain Crit" => 1
                 ],
                 138,
                 [
@@ -14712,10 +14712,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Flinch Free" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Guard" => 1,
+                    "Flinch Free" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -14743,10 +14743,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Constitution" =>  1,
-                    "Critical Draw" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Constitution" => 1,
+                    "Critical Draw" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -14774,9 +14774,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chain Crit" =>  1,
-                    "Maximum Might" =>  2,
-                    "Evade Extender" =>  1
+                    "Chain Crit" => 1,
+                    "Maximum Might" => 2,
+                    "Evade Extender" => 1
                 ],
                 134,
                 [
@@ -14804,8 +14804,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resuscitate" =>  2
+                    "Dragonheart" => 1,
+                    "Resuscitate" => 2
                 ],
                 136,
                 [
@@ -14833,8 +14833,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Mail of Hellfire" =>  1,
-                    "Wirebug Whisperer" =>  2
+                    "Mail of Hellfire" => 1,
+                    "Wirebug Whisperer" => 2
                 ],
                 136,
                 [
@@ -14862,9 +14862,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guts" =>  1,
-                    "Attack Boost" =>  1,
-                    "Speed Eating" =>  2
+                    "Guts" => 1,
+                    "Attack Boost" => 1,
+                    "Speed Eating" => 2
                 ],
                 135,
                 [
@@ -14892,9 +14892,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Defiance" =>  2,
-                    "Counterstrike" =>  2,
-                    "Divine Blessing" =>  3
+                    "Defiance" => 2,
+                    "Counterstrike" => 2,
+                    "Divine Blessing" => 3
                 ],
                 132,
                 [
@@ -14922,9 +14922,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Element Exploit" =>  1,
-                    "Critical Element" =>  1,
-                    "Fire Attack" =>  3
+                    "Element Exploit" => 1,
+                    "Critical Element" => 1,
+                    "Fire Attack" => 3
                 ],
                 134,
                 [
@@ -14952,9 +14952,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Sneak Attack" =>  1,
-                    "Critical Boost" =>  1,
-                    "Agitator" =>  2
+                    "Sneak Attack" => 1,
+                    "Critical Boost" => 1,
+                    "Agitator" => 2
                 ],
                 130,
                 [
@@ -14982,8 +14982,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Marathon Runner" =>  1
+                    "Geologist" => 1,
+                    "Marathon Runner" => 1
                 ],
                 24,
                 [
@@ -15011,8 +15011,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Earplugs" =>  1
+                    "Attack Boost" => 1,
+                    "Earplugs" => 1
                 ],
                 36,
                 [
@@ -15040,8 +15040,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Weakness Exploit" =>  1
+                    "Constitution" => 2,
+                    "Weakness Exploit" => 1
                 ],
                 92,
                 [
@@ -15069,8 +15069,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Earplugs" =>  1
+                    "Attack Boost" => 1,
+                    "Earplugs" => 1
                 ],
                 72,
                 [
@@ -15098,7 +15098,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1
+                    "Heroics" => 1
                 ],
                 67,
                 [
@@ -15126,7 +15126,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1
+                    "Geologist" => 1
                 ],
                 67,
                 [
@@ -15154,7 +15154,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1
+                    "Botanist" => 1
                 ],
                 62,
                 [
@@ -15182,7 +15182,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 62,
                 [
@@ -15210,7 +15210,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 68,
                 [
@@ -15238,8 +15238,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1,
-                    "Ice Attack" =>  1
+                    "Sleep Resistance" => 1,
+                    "Ice Attack" => 1
                 ],
                 68,
                 [
@@ -15267,7 +15267,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Defense Boost" =>  1
+                    "Defense Boost" => 1
                 ],
                 68,
                 [
@@ -15295,7 +15295,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ice Attack" =>  1
+                    "Ice Attack" => 1
                 ],
                 68,
                 [
@@ -15323,7 +15323,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 62,
                 [
@@ -15351,7 +15351,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1
+                    "Stamina Thief" => 1
                 ],
                 62,
                 [
@@ -15379,7 +15379,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -15407,7 +15407,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -15435,7 +15435,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -15463,7 +15463,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  1
+                    "Recoil Down" => 1
                 ],
                 64,
                 [
@@ -15491,7 +15491,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  1
+                    "Artillery" => 1
                 ],
                 66,
                 [
@@ -15519,7 +15519,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 66,
                 [
@@ -15547,7 +15547,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 66,
                 [
@@ -15575,7 +15575,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  1
+                    "Slugger" => 1
                 ],
                 68,
                 [
@@ -15603,7 +15603,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1
+                    "Ammo Up" => 1
                 ],
                 68,
                 [
@@ -15631,7 +15631,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  1
+                    "Fire Attack" => 1
                 ],
                 68,
                 [
@@ -15659,7 +15659,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1
+                    "Marathon Runner" => 1
                 ],
                 70,
                 [
@@ -15687,7 +15687,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Affinity Sliding" =>  1
+                    "Affinity Sliding" => 1
                 ],
                 70,
                 [
@@ -15715,9 +15715,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Thunder Attack" =>  1
+                    "Wall Runner" => 1,
+                    "Recovery Speed" => 1,
+                    "Thunder Attack" => 1
                 ],
                 68,
                 [
@@ -15745,7 +15745,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Special Ammo Boost" =>  1
+                    "Special Ammo Boost" => 1
                 ],
                 70,
                 [
@@ -15773,7 +15773,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Attack" =>  2
+                    "Thunder Attack" => 2
                 ],
                 68,
                 [
@@ -15801,8 +15801,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  1,
-                    "Recovery Up" =>  1
+                    "Paralysis Resistance" => 1,
+                    "Recovery Up" => 1
                 ],
                 68,
                 [
@@ -15830,7 +15830,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1
+                    "Maximum Might" => 1
                 ],
                 68,
                 [
@@ -15858,7 +15858,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Resistance" =>  1
+                    "Blast Resistance" => 1
                 ],
                 68,
                 [
@@ -15886,7 +15886,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1
+                    "Normal/Rapid Up" => 1
                 ],
                 68,
                 [
@@ -15914,8 +15914,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Windproof" =>  1
+                    "Critical Element" => 1,
+                    "Windproof" => 1
                 ],
                 68,
                 [
@@ -15943,7 +15943,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  1
+                    "Evade Extender" => 1
                 ],
                 70,
                 [
@@ -15971,7 +15971,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1
+                    "Stun Resistance" => 1
                 ],
                 72,
                 [
@@ -15999,7 +15999,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  1
+                    "Spare Shot" => 1
                 ],
                 70,
                 [
@@ -16027,8 +16027,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Speed Sharpening" =>  1
+                    "Guard" => 1,
+                    "Speed Sharpening" => 1
                 ],
                 72,
                 [
@@ -16056,8 +16056,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bombardier" =>  1,
-                    "Divine Blessing" =>  1
+                    "Bombardier" => 1,
+                    "Divine Blessing" => 1
                 ],
                 72,
                 [
@@ -16085,7 +16085,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1
+                    "Blight Resistance" => 1
                 ],
                 72,
                 [
@@ -16113,7 +16113,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -16141,7 +16141,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 70,
                 [
@@ -16169,7 +16169,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Leap of Faith" =>  1
+                    "Leap of Faith" => 1
                 ],
                 68,
                 [
@@ -16197,7 +16197,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 68,
                 [
@@ -16225,7 +16225,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 68,
                 [
@@ -16253,7 +16253,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1
+                    "Divine Blessing" => 1
                 ],
                 68,
                 [
@@ -16281,7 +16281,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -16309,7 +16309,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -16337,8 +16337,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 68,
                 [
@@ -16366,8 +16366,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 68,
                 [
@@ -16395,7 +16395,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  2
+                    "Geologist" => 2
                 ],
                 70,
                 [
@@ -16423,7 +16423,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1
+                    "Hellfire Cloak" => 1
                 ],
                 72,
                 [
@@ -16451,8 +16451,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  1,
-                    "Attack Boost" =>  1
+                    "Slugger" => 1,
+                    "Attack Boost" => 1
                 ],
                 70,
                 [
@@ -16480,8 +16480,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Evade Extender" =>  1
+                    "Evade Window" => 1,
+                    "Evade Extender" => 1
                 ],
                 70,
                 [
@@ -16509,8 +16509,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Free Meal" =>  1
+                    "Water Attack" => 1,
+                    "Free Meal" => 1
                 ],
                 70,
                 [
@@ -16538,7 +16538,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 72,
                 [
@@ -16566,7 +16566,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 72,
                 [
@@ -16594,8 +16594,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Punishing Draw" =>  1
+                    "Critical Draw" => 1,
+                    "Punishing Draw" => 1
                 ],
                 72,
                 [
@@ -16623,8 +16623,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Window" =>  1
+                    "Rapid Morph" => 1,
+                    "Evade Window" => 1
                 ],
                 72,
                 [
@@ -16652,7 +16652,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bludgeoner" =>  2
+                    "Bludgeoner" => 2
                 ],
                 72,
                 [
@@ -16680,7 +16680,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Offensive Guard" =>  1
+                    "Offensive Guard" => 1
                 ],
                 72,
                 [
@@ -16708,8 +16708,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Heroics" =>  1
+                    "Critical Eye" => 2,
+                    "Heroics" => 1
                 ],
                 68,
                 [
@@ -16737,8 +16737,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Special Ammo Boost" =>  1
+                    "Geologist" => 1,
+                    "Special Ammo Boost" => 1
                 ],
                 68,
                 [
@@ -16766,8 +16766,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Defense Boost" =>  2
+                    "Botanist" => 1,
+                    "Defense Boost" => 2
                 ],
                 70,
                 [
@@ -16795,7 +16795,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 70,
                 [
@@ -16823,8 +16823,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Critical Eye" =>  2
+                    "Water Attack" => 1,
+                    "Critical Eye" => 2
                 ],
                 70,
                 [
@@ -16852,8 +16852,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Muck Resistance" =>  1,
-                    "Stamina Thief" =>  1
+                    "Muck Resistance" => 1,
+                    "Stamina Thief" => 1
                 ],
                 70,
                 [
@@ -16881,8 +16881,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1
                 ],
                 70,
                 [
@@ -16910,8 +16910,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1
                 ],
                 70,
                 [
@@ -16939,8 +16939,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  2,
-                    "Evade Window" =>  1
+                    "Poison Attack" => 2,
+                    "Evade Window" => 1
                 ],
                 72,
                 [
@@ -16968,7 +16968,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2
+                    "Constitution" => 2
                 ],
                 74,
                 [
@@ -16996,8 +16996,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  2,
-                    "Ice Attack" =>  1
+                    "Sleep Resistance" => 2,
+                    "Ice Attack" => 1
                 ],
                 74,
                 [
@@ -17025,8 +17025,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  1,
-                    "Stamina Thief" =>  2
+                    "Slugger" => 1,
+                    "Stamina Thief" => 2
                 ],
                 76,
                 [
@@ -17054,7 +17054,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1
+                    "Ammo Up" => 1
                 ],
                 76,
                 [
@@ -17082,8 +17082,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1,
-                    "Defense Boost" =>  2
+                    "Counterstrike" => 1,
+                    "Defense Boost" => 2
                 ],
                 74,
                 [
@@ -17111,8 +17111,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Ice Attack" =>  1
+                    "Critical Eye" => 2,
+                    "Ice Attack" => 1
                 ],
                 74,
                 [
@@ -17140,8 +17140,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Fire Attack" =>  1
+                    "Peak Performance" => 1,
+                    "Fire Attack" => 1
                 ],
                 76,
                 [
@@ -17169,9 +17169,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Thunder Attack" =>  2
+                    "Wall Runner" => 1,
+                    "Recovery Speed" => 1,
+                    "Thunder Attack" => 2
                 ],
                 76,
                 [
@@ -17199,8 +17199,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Special Ammo Boost" =>  1
+                    "Heroics" => 1,
+                    "Special Ammo Boost" => 1
                 ],
                 78,
                 [
@@ -17228,7 +17228,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Attack" =>  3
+                    "Thunder Attack" => 3
                 ],
                 70,
                 [
@@ -17256,7 +17256,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1
+                    "Capture Master" => 1
                 ],
                 70,
                 [
@@ -17284,7 +17284,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  2
+                    "Artillery" => 2
                 ],
                 72,
                 [
@@ -17312,7 +17312,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 72,
                 [
@@ -17340,8 +17340,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Evade Extender" =>  1,
-                    "Paralysis Attack" =>  1
+                    "Evade Extender" => 1,
+                    "Paralysis Attack" => 1
                 ],
                 80,
                 [
@@ -17369,7 +17369,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Marathon Runner" =>  1
+                    "Marathon Runner" => 1
                 ],
                 78,
                 [
@@ -17397,8 +17397,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Affinity Sliding" =>  1
+                    "Attack Boost" => 2,
+                    "Affinity Sliding" => 1
                 ],
                 80,
                 [
@@ -17426,8 +17426,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Stun Resistance" =>  1
+                    "Item Prolonger" => 1,
+                    "Stun Resistance" => 1
                 ],
                 82,
                 [
@@ -17455,8 +17455,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  1,
-                    "Ballistics" =>  1
+                    "Spare Shot" => 1,
+                    "Ballistics" => 1
                 ],
                 80,
                 [
@@ -17510,8 +17510,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Speed Sharpening" =>  1
+                    "Guard" => 2,
+                    "Speed Sharpening" => 1
                 ],
                 82,
                 [
@@ -17539,8 +17539,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Wide-Range" =>  1
+                    "Blight Resistance" => 1,
+                    "Wide-Range" => 1
                 ],
                 82,
                 [
@@ -17568,8 +17568,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Power Prolonger" =>  1
+                    "Dragon Attack" => 1,
+                    "Power Prolonger" => 1
                 ],
                 72,
                 [
@@ -17597,8 +17597,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Normal/Rapid Up" =>  1
+                    "Spread Up" => 1,
+                    "Normal/Rapid Up" => 1
                 ],
                 72,
                 [
@@ -17626,9 +17626,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  1,
-                    "Botanist" =>  1,
-                    "Recovery Up" =>  1
+                    "Paralysis Resistance" => 1,
+                    "Botanist" => 1,
+                    "Recovery Up" => 1
                 ],
                 72,
                 [
@@ -17656,7 +17656,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  2
+                    "Maximum Might" => 2
                 ],
                 72,
                 [
@@ -17684,8 +17684,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Blast Resistance" =>  1,
-                    "Flinch Free" =>  1
+                    "Blast Resistance" => 1,
+                    "Flinch Free" => 1
                 ],
                 72,
                 [
@@ -17713,7 +17713,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  2
+                    "Normal/Rapid Up" => 2
                 ],
                 72,
                 [
@@ -17741,8 +17741,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Leap of Faith" =>  1
+                    "Bubbly Dance" => 1,
+                    "Leap of Faith" => 1
                 ],
                 72,
                 [
@@ -17770,7 +17770,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 72,
                 [
@@ -17798,7 +17798,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 72,
                 [
@@ -17826,8 +17826,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -17855,8 +17855,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -17884,8 +17884,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Windproof" =>  1
+                    "Critical Element" => 1,
+                    "Windproof" => 1
                 ],
                 72,
                 [
@@ -17913,8 +17913,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bombardier" =>  2,
-                    "Divine Blessing" =>  1
+                    "Bombardier" => 2,
+                    "Divine Blessing" => 1
                 ],
                 78,
                 [
@@ -17942,9 +17942,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Maximum Might" =>  1,
-                    "Critical Eye" =>  1
+                    "Quick Sheathe" => 1,
+                    "Maximum Might" => 1,
+                    "Critical Eye" => 1
                 ],
                 78,
                 [
@@ -17972,7 +17972,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  3
+                    "Constitution" => 3
                 ],
                 78,
                 [
@@ -18000,8 +18000,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  2,
-                    "Attack Boost" =>  2
+                    "Slugger" => 2,
+                    "Attack Boost" => 2
                 ],
                 80,
                 [
@@ -18029,8 +18029,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Evade Extender" =>  1
+                    "Evade Window" => 1,
+                    "Evade Extender" => 1
                 ],
                 80,
                 [
@@ -18058,8 +18058,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Free Meal" =>  1
+                    "Resuscitate" => 1,
+                    "Free Meal" => 1
                 ],
                 80,
                 [
@@ -18087,7 +18087,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 82,
                 [
@@ -18115,8 +18115,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Constitution" =>  1
+                    "Latent Power" => 1,
+                    "Constitution" => 1
                 ],
                 82,
                 [
@@ -18144,7 +18144,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 82,
                 [
@@ -18172,7 +18172,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1
+                    "Evade Window" => 1
                 ],
                 82,
                 [
@@ -18200,7 +18200,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2
+                    "Divine Blessing" => 2
                 ],
                 82,
                 [
@@ -18228,7 +18228,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  2
+                    "Geologist" => 2
                 ],
                 82,
                 [
@@ -18256,8 +18256,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Handicraft" =>  2
+                    "Hellfire Cloak" => 1,
+                    "Handicraft" => 2
                 ],
                 84,
                 [
@@ -18285,8 +18285,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Punishing Draw" =>  1
+                    "Critical Draw" => 1,
+                    "Punishing Draw" => 1
                 ],
                 84,
                 [
@@ -18314,8 +18314,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Window" =>  2
+                    "Rapid Morph" => 1,
+                    "Evade Window" => 2
                 ],
                 84,
                 [
@@ -18343,8 +18343,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bludgeoner" =>  2,
-                    "Mind's Eye" =>  1
+                    "Bludgeoner" => 2,
+                    "Mind's Eye" => 1
                 ],
                 84,
                 [
@@ -18372,7 +18372,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Offensive Guard" =>  1
+                    "Offensive Guard" => 1
                 ],
                 84,
                 [
@@ -18400,8 +18400,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Stamina Surge" =>  1
+                    "Constitution" => 2,
+                    "Stamina Surge" => 1
                 ],
                 86,
                 [
@@ -18429,8 +18429,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Latent Power" =>  1
+                    "Heroics" => 1,
+                    "Latent Power" => 1
                 ],
                 90,
                 [
@@ -18458,7 +18458,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1
+                    "Earplugs" => 1
                 ],
                 88,
                 [
@@ -18486,9 +18486,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Agitator" =>  2
+                    "Kushala Blessing" => 1,
+                    "Recovery Speed" => 1,
+                    "Agitator" => 2
                 ],
                 94,
                 [
@@ -18516,9 +18516,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Poison Attack" =>  1,
-                    "Evade Window" =>  1
+                    "Chameleos Blessing" => 1,
+                    "Poison Attack" => 1,
+                    "Evade Window" => 1
                 ],
                 94,
                 [
@@ -18546,9 +18546,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Critical Eye" =>  1,
-                    "Critical Boost" =>  1
+                    "Teostra Blessing" => 1,
+                    "Critical Eye" => 1,
+                    "Critical Boost" => 1
                 ],
                 94,
                 [
@@ -18576,8 +18576,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Guard Up" =>  1
+                    "Load Shells" => 1,
+                    "Guard Up" => 1
                 ],
                 92,
                 [
@@ -18605,10 +18605,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Constitution" =>  1,
-                    "Stamina Surge" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Constitution" => 1,
+                    "Stamina Surge" => 1,
+                    "Stormsoul" => 1
                 ],
                 86,
                 [
@@ -18636,10 +18636,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Partbreaker" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Guard" => 1,
+                    "Partbreaker" => 1,
+                    "Stormsoul" => 1
                 ],
                 96,
                 [
@@ -18667,8 +18667,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Weakness Exploit" =>  2
+                    "Dragonheart" => 1,
+                    "Weakness Exploit" => 2
                 ],
                 100,
                 [
@@ -18696,9 +18696,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Heroics" =>  1,
-                    "Divine Blessing" =>  1
+                    "Critical Eye" => 2,
+                    "Heroics" => 1,
+                    "Divine Blessing" => 1
                 ],
                 108,
                 [
@@ -18726,8 +18726,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Special Ammo Boost" =>  1
+                    "Geologist" => 1,
+                    "Special Ammo Boost" => 1
                 ],
                 108,
                 [
@@ -18755,8 +18755,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  1,
-                    "Defense Boost" =>  2
+                    "Stamina Surge" => 1,
+                    "Defense Boost" => 2
                 ],
                 110,
                 [
@@ -18784,9 +18784,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Handicraft" =>  1,
-                    "Ammo Up" =>  1
+                    "Quick Sheathe" => 1,
+                    "Handicraft" => 1,
+                    "Ammo Up" => 1
                 ],
                 110,
                 [
@@ -18814,8 +18814,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Critical Eye" =>  2
+                    "Water Attack" => 1,
+                    "Critical Eye" => 2
                 ],
                 110,
                 [
@@ -18843,9 +18843,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  2,
-                    "Stamina Thief" =>  1,
-                    "Marathon Runner" =>  1
+                    "Punishing Draw" => 2,
+                    "Stamina Thief" => 1,
+                    "Marathon Runner" => 1
                 ],
                 110,
                 [
@@ -18873,9 +18873,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  2,
-                    "Load Shells" =>  1,
-                    "Special Ammo Boost" =>  1
+                    "Artillery" => 2,
+                    "Load Shells" => 1,
+                    "Special Ammo Boost" => 1
                 ],
                 118,
                 [
@@ -18903,8 +18903,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  2,
-                    "Evade Window" =>  2
+                    "Poison Attack" => 2,
+                    "Evade Window" => 2
                 ],
                 112,
                 [
@@ -18932,8 +18932,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Steadiness" =>  2
+                    "Dragon Attack" => 1,
+                    "Steadiness" => 2
                 ],
                 114,
                 [
@@ -18961,8 +18961,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  2,
-                    "Master Mounter" =>  1
+                    "Paralysis Attack" => 2,
+                    "Master Mounter" => 1
                 ],
                 112,
                 [
@@ -18990,7 +18990,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  3
+                    "Attack Boost" => 3
                 ],
                 118,
                 [
@@ -19018,7 +19018,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 114,
                 [
@@ -19046,8 +19046,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Evade Window" =>  1
+                    "Constitution" => 2,
+                    "Evade Window" => 1
                 ],
                 114,
                 [
@@ -19075,8 +19075,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  2,
-                    "Sleep Attack" =>  1
+                    "Sleep Resistance" => 2,
+                    "Sleep Attack" => 1
                 ],
                 114,
                 [
@@ -19104,9 +19104,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  1,
-                    "Stamina Thief" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Slugger" => 1,
+                    "Stamina Thief" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 114,
                 [
@@ -19134,9 +19134,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1,
-                    "Poison Resistance" =>  2,
-                    "Mind's Eye" =>  2
+                    "Ammo Up" => 1,
+                    "Poison Resistance" => 2,
+                    "Mind's Eye" => 2
                 ],
                 116,
                 [
@@ -19164,9 +19164,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1,
-                    "Defense Boost" =>  1,
-                    "Resentment" =>  2
+                    "Counterstrike" => 1,
+                    "Defense Boost" => 1,
+                    "Resentment" => 2
                 ],
                 114,
                 [
@@ -19194,8 +19194,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Ice Attack" =>  3
+                    "Critical Eye" => 2,
+                    "Ice Attack" => 3
                 ],
                 114,
                 [
@@ -19223,9 +19223,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Evade Extender" =>  1,
-                    "Paralysis Attack" =>  1,
-                    "Earplugs" =>  1
+                    "Evade Extender" => 1,
+                    "Paralysis Attack" => 1,
+                    "Earplugs" => 1
                 ],
                 122,
                 [
@@ -19253,9 +19253,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Fire Attack" =>  2,
-                    "Critical Element" =>  1
+                    "Peak Performance" => 1,
+                    "Fire Attack" => 2,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -19283,9 +19283,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Marathon Runner" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Spare Shot" =>  1
+                    "Marathon Runner" => 1,
+                    "Power Prolonger" => 1,
+                    "Spare Shot" => 1
                 ],
                 120,
                 [
@@ -19313,10 +19313,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Affinity Sliding" =>  1,
-                    "Offensive Guard" =>  1,
-                    "Spread Up" =>  1
+                    "Attack Boost" => 2,
+                    "Affinity Sliding" => 1,
+                    "Offensive Guard" => 1,
+                    "Spread Up" => 1
                 ],
                 122,
                 [
@@ -19344,9 +19344,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Guard Up" =>  1,
-                    "Normal/Rapid Up" =>  2
+                    "Guard" => 2,
+                    "Guard Up" => 1,
+                    "Normal/Rapid Up" => 2
                 ],
                 122,
                 [
@@ -19374,9 +19374,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Special Ammo Boost" =>  2,
-                    "Hunger Resistance" =>  1
+                    "Heroics" => 2,
+                    "Special Ammo Boost" => 2,
+                    "Hunger Resistance" => 1
                 ],
                 118,
                 [
@@ -19404,7 +19404,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Attack" =>  3
+                    "Thunder Attack" => 3
                 ],
                 114,
                 [
@@ -19432,8 +19432,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1
                 ],
                 118,
                 [
@@ -19461,8 +19461,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1
                 ],
                 118,
                 [
@@ -19490,8 +19490,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1,
-                    "Wide-Range" =>  3
+                    "Capture Master" => 1,
+                    "Wide-Range" => 3
                 ],
                 116,
                 [
@@ -19519,8 +19519,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  2,
-                    "Normal/Rapid Up" =>  1
+                    "Spread Up" => 2,
+                    "Normal/Rapid Up" => 1
                 ],
                 116,
                 [
@@ -19548,9 +19548,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Resistance" =>  1,
-                    "Botanist" =>  1,
-                    "Recovery Up" =>  1
+                    "Paralysis Resistance" => 1,
+                    "Botanist" => 1,
+                    "Recovery Up" => 1
                 ],
                 112,
                 [
@@ -19578,8 +19578,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1,
-                    "Ballistics" =>  2
+                    "Divine Blessing" => 1,
+                    "Ballistics" => 2
                 ],
                 120,
                 [
@@ -19607,8 +19607,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  3,
-                    "Flinch Free" =>  2
+                    "Guard Up" => 3,
+                    "Flinch Free" => 2
                 ],
                 116,
                 [
@@ -19636,8 +19636,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Evade Window" =>  2
+                    "Critical Eye" => 2,
+                    "Evade Window" => 2
                 ],
                 112,
                 [
@@ -19665,9 +19665,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Thunder Attack" =>  3
+                    "Wall Runner" => 1,
+                    "Recovery Speed" => 1,
+                    "Thunder Attack" => 3
                 ],
                 116,
                 [
@@ -19695,9 +19695,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Stun Resistance" =>  1,
-                    "Speed Eating" =>  1
+                    "Item Prolonger" => 1,
+                    "Stun Resistance" => 1,
+                    "Speed Eating" => 1
                 ],
                 116,
                 [
@@ -19725,8 +19725,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  3,
-                    "Quick Sheathe" =>  1
+                    "Latent Power" => 3,
+                    "Quick Sheathe" => 1
                 ],
                 116,
                 [
@@ -19754,8 +19754,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  1,
-                    "Ballistics" =>  2
+                    "Spare Shot" => 1,
+                    "Ballistics" => 2
                 ],
                 116,
                 [
@@ -19783,7 +19783,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Resentment" =>  2
+                    "Resentment" => 2
                 ],
                 116,
                 [
@@ -19811,8 +19811,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  3,
-                    "Speed Sharpening" =>  1
+                    "Guard" => 3,
+                    "Speed Sharpening" => 1
                 ],
                 120,
                 [
@@ -19840,10 +19840,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Bombardier" =>  2,
-                    "Divine Blessing" =>  1,
-                    "Spare Shot" =>  2,
-                    "Handicraft" =>  1
+                    "Bombardier" => 2,
+                    "Divine Blessing" => 1,
+                    "Spare Shot" => 2,
+                    "Handicraft" => 1
                 ],
                 116,
                 [
@@ -19871,9 +19871,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Master's Touch" =>  1,
-                    "Ice Attack" =>  1
+                    "Critical Element" => 1,
+                    "Master's Touch" => 1,
+                    "Ice Attack" => 1
                 ],
                 124,
                 [
@@ -19901,9 +19901,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Wide-Range" =>  2,
-                    "Free Meal" =>  1
+                    "Blight Resistance" => 1,
+                    "Wide-Range" => 2,
+                    "Free Meal" => 1
                 ],
                 116,
                 [
@@ -19931,8 +19931,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  3,
-                    "Fortify" =>  1
+                    "Constitution" => 3,
+                    "Fortify" => 1
                 ],
                 116,
                 [
@@ -19960,9 +19960,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Slugger" =>  2,
-                    "Attack Boost" =>  2,
-                    "Agitator" =>  1
+                    "Slugger" => 2,
+                    "Attack Boost" => 2,
+                    "Agitator" => 1
                 ],
                 118,
                 [
@@ -19990,9 +19990,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Power Prolonger" =>  2,
-                    "Recoil Down" =>  2
+                    "Dragon Attack" => 1,
+                    "Power Prolonger" => 2,
+                    "Recoil Down" => 2
                 ],
                 120,
                 [
@@ -20020,9 +20020,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  2,
-                    "Hunger Resistance" =>  1,
-                    "Razor Sharp" =>  2
+                    "Normal/Rapid Up" => 2,
+                    "Hunger Resistance" => 1,
+                    "Razor Sharp" => 2
                 ],
                 116,
                 [
@@ -20050,9 +20050,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Blast Resistance" =>  1,
-                    "Flinch Free" =>  2,
-                    "Critical Element" =>  1
+                    "Blast Resistance" => 1,
+                    "Flinch Free" => 2,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -20080,8 +20080,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  2,
-                    "Attack Boost" =>  1
+                    "Maximum Might" => 2,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -20109,9 +20109,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Leap of Faith" =>  1,
-                    "Resuscitate" =>  1
+                    "Bubbly Dance" => 1,
+                    "Leap of Faith" => 1,
+                    "Resuscitate" => 1
                 ],
                 120,
                 [
@@ -20139,8 +20139,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Critical Eye" =>  1
+                    "Evade Window" => 2,
+                    "Critical Eye" => 1
                 ],
                 126,
                 [
@@ -20168,8 +20168,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Critical Eye" =>  1
+                    "Evade Window" => 2,
+                    "Critical Eye" => 1
                 ],
                 126,
                 [
@@ -20197,9 +20197,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1,
-                    "Reload Speed" =>  1,
-                    "Artillery" =>  2
+                    "Ammo Up" => 1,
+                    "Reload Speed" => 1,
+                    "Artillery" => 2
                 ],
                 122,
                 [
@@ -20227,9 +20227,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Mushroomancer" =>  1,
-                    "Good Luck" =>  1
+                    "Evade Window" => 1,
+                    "Mushroomancer" => 1,
+                    "Good Luck" => 1
                 ],
                 120,
                 [
@@ -20257,9 +20257,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Mushroomancer" =>  1,
-                    "Good Luck" =>  1
+                    "Evade Window" => 1,
+                    "Mushroomancer" => 1,
+                    "Good Luck" => 1
                 ],
                 120,
                 [
@@ -20287,9 +20287,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Guard" =>  1,
-                    "Speed Sharpening" =>  1,
-                    "Earplugs" =>  1
+                    "Guard" => 1,
+                    "Speed Sharpening" => 1,
+                    "Earplugs" => 1
                 ],
                 124,
                 [
@@ -20317,9 +20317,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  2,
-                    "Spiribird's Call" =>  1,
-                    "Divine Blessing" =>  1
+                    "Geologist" => 2,
+                    "Spiribird's Call" => 1,
+                    "Divine Blessing" => 1
                 ],
                 122,
                 [
@@ -20347,9 +20347,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Maximum Might" =>  1,
-                    "Critical Eye" =>  2
+                    "Quick Sheathe" => 1,
+                    "Maximum Might" => 1,
+                    "Critical Eye" => 2
                 ],
                 124,
                 [
@@ -20377,9 +20377,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Handicraft" =>  2,
-                    "Ammo Up" =>  2
+                    "Hellfire Cloak" => 1,
+                    "Handicraft" => 2,
+                    "Ammo Up" => 2
                 ],
                 126,
                 [
@@ -20407,9 +20407,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Evade Extender" =>  1,
-                    "Constitution" =>  2
+                    "Evade Window" => 1,
+                    "Evade Extender" => 1,
+                    "Constitution" => 2
                 ],
                 124,
                 [
@@ -20437,9 +20437,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Punishing Draw" =>  1,
-                    "Quick Sheathe" =>  1
+                    "Critical Draw" => 1,
+                    "Punishing Draw" => 1,
+                    "Quick Sheathe" => 1
                 ],
                 122,
                 [
@@ -20467,8 +20467,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Charge Master" =>  1,
-                    "Focus" =>  2
+                    "Charge Master" => 1,
+                    "Focus" => 2
                 ],
                 128,
                 [
@@ -20496,10 +20496,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Grinder (S)" =>  1,
-                    "Peak Performance" =>  1,
-                    "Critical Eye" =>  2,
-                    "Pierce Up" =>  1
+                    "Grinder (S)" => 1,
+                    "Peak Performance" => 1,
+                    "Critical Eye" => 2,
+                    "Pierce Up" => 1
                 ],
                 124,
                 [
@@ -20527,8 +20527,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Window" =>  2
+                    "Rapid Morph" => 1,
+                    "Evade Window" => 2
                 ],
                 124,
                 [
@@ -20556,9 +20556,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  1,
-                    "Guard Up" =>  2,
-                    "Heroics" =>  1
+                    "Resentment" => 1,
+                    "Guard Up" => 2,
+                    "Heroics" => 1
                 ],
                 128,
                 [
@@ -20586,8 +20586,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Stamina Surge" =>  1
+                    "Constitution" => 2,
+                    "Stamina Surge" => 1
                 ],
                 124,
                 [
@@ -20615,10 +20615,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1,
-                    "Rapid Morph" =>  2,
-                    "Blast Resistance" =>  1,
-                    "Tune-Up" =>  1
+                    "Maximum Might" => 1,
+                    "Rapid Morph" => 2,
+                    "Blast Resistance" => 1,
+                    "Tune-Up" => 1
                 ],
                 128,
                 [
@@ -20646,9 +20646,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Speed" =>  3,
-                    "Latent Power" =>  2,
-                    "Attack Boost" =>  1
+                    "Recovery Speed" => 3,
+                    "Latent Power" => 2,
+                    "Attack Boost" => 1
                 ],
                 128,
                 [
@@ -20676,9 +20676,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Partbreaker" =>  1,
-                    "Good Luck" =>  1
+                    "Weakness Exploit" => 1,
+                    "Partbreaker" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -20706,8 +20706,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  2,
-                    "Recovery Up" =>  1
+                    "Wide-Range" => 2,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -20735,8 +20735,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  2,
-                    "Recovery Up" =>  1
+                    "Wide-Range" => 2,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -20764,9 +20764,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  2
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -20794,9 +20794,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  2
+                    "Evade Window" => 1,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -20824,9 +20824,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Guard Up" =>  1,
-                    "Razor Sharp" =>  1
+                    "Guard" => 2,
+                    "Guard Up" => 1,
+                    "Razor Sharp" => 1
                 ],
                 130,
                 [
@@ -20854,9 +20854,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Quick Sheathe" =>  2,
-                    "Weakness Exploit" =>  1
+                    "Speed Eating" => 1,
+                    "Quick Sheathe" => 2,
+                    "Weakness Exploit" => 1
                 ],
                 126,
                 [
@@ -20884,9 +20884,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Quick Sheathe" =>  2,
-                    "Weakness Exploit" =>  1
+                    "Speed Eating" => 1,
+                    "Quick Sheathe" => 2,
+                    "Weakness Exploit" => 1
                 ],
                 126,
                 [
@@ -20914,9 +20914,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Window" =>  2,
-                    "Razor Sharp" =>  1
+                    "Rapid Morph" => 1,
+                    "Evade Window" => 2,
+                    "Razor Sharp" => 1
                 ],
                 128,
                 [
@@ -20944,8 +20944,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Windproof" =>  2
+                    "Critical Element" => 1,
+                    "Windproof" => 2
                 ],
                 128,
                 [
@@ -20973,8 +20973,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Free Meal" =>  2
+                    "Resuscitate" => 1,
+                    "Free Meal" => 2
                 ],
                 130,
                 [
@@ -21002,8 +21002,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Earplugs" =>  2
+                    "Attack Boost" => 2,
+                    "Earplugs" => 2
                 ],
                 130,
                 [
@@ -21031,9 +21031,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Constitution" =>  2,
-                    "Critical Element" =>  1
+                    "Latent Power" => 1,
+                    "Constitution" => 2,
+                    "Critical Element" => 1
                 ],
                 132,
                 [
@@ -21061,8 +21061,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  3,
-                    "Wirebug Whisperer" =>  1
+                    "Agitator" => 3,
+                    "Wirebug Whisperer" => 1
                 ],
                 130,
                 [
@@ -21090,9 +21090,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chain Crit" =>  1,
-                    "Stamina Surge" =>  1,
-                    "Stun Resistance" =>  1
+                    "Chain Crit" => 1,
+                    "Stamina Surge" => 1,
+                    "Stun Resistance" => 1
                 ],
                 130,
                 [
@@ -21120,9 +21120,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Foray" =>  1,
-                    "Protective Polish" =>  2,
-                    "Rapid Fire Up" =>  1
+                    "Foray" => 1,
+                    "Protective Polish" => 2,
+                    "Rapid Fire Up" => 1
                 ],
                 132,
                 [
@@ -21150,8 +21150,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Coalescence" =>  1,
-                    "Speed Eating" =>  2
+                    "Coalescence" => 1,
+                    "Speed Eating" => 2
                 ],
                 128,
                 [
@@ -21179,7 +21179,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Handicraft" =>  3
+                    "Handicraft" => 3
                 ],
                 130,
                 [
@@ -21207,10 +21207,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  1,
-                    "Peak Performance" =>  1,
-                    "Stun Resistance" =>  3,
-                    "Normal/Rapid Up" =>  1
+                    "Mind's Eye" => 1,
+                    "Peak Performance" => 1,
+                    "Stun Resistance" => 3,
+                    "Normal/Rapid Up" => 1
                 ],
                 134,
                 [
@@ -21238,9 +21238,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Offensive Guard" =>  2,
-                    "Stamina Surge" =>  1,
-                    "Pierce Up" =>  2
+                    "Offensive Guard" => 2,
+                    "Stamina Surge" => 1,
+                    "Pierce Up" => 2
                 ],
                 134,
                 [
@@ -21268,8 +21268,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2,
-                    "Blight Resistance" =>  1
+                    "Earplugs" => 2,
+                    "Blight Resistance" => 1
                 ],
                 128,
                 [
@@ -21297,9 +21297,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Divine Blessing" => 2,
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 128,
                 [
@@ -21327,8 +21327,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Divine Blessing" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Divine Blessing" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -21356,8 +21356,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Divine Blessing" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Divine Blessing" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -21385,8 +21385,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Recovery Up" =>  3,
-                    "Free Meal" =>  1
+                    "Recovery Up" => 3,
+                    "Free Meal" => 1
                 ],
                 128,
                 [
@@ -21414,8 +21414,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Speed Eating" =>  3,
-                    "Mushroomancer" =>  1
+                    "Speed Eating" => 3,
+                    "Mushroomancer" => 1
                 ],
                 128,
                 [
@@ -21443,8 +21443,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  3,
-                    "Wirebug Whisperer" =>  1
+                    "Focus" => 3,
+                    "Wirebug Whisperer" => 1
                 ],
                 128,
                 [
@@ -21472,9 +21472,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Coalescence" =>  1,
-                    "Wall Runner (Boost)" =>  1
+                    "Agitator" => 2,
+                    "Coalescence" => 1,
+                    "Wall Runner (Boost)" => 1
                 ],
                 132,
                 [
@@ -21502,8 +21502,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  2,
-                    "Agitator" =>  2
+                    "Kushala Blessing" => 2,
+                    "Agitator" => 2
                 ],
                 134,
                 [
@@ -21531,9 +21531,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Poison Attack" =>  2,
-                    "Evade Window" =>  2
+                    "Chameleos Blessing" => 1,
+                    "Poison Attack" => 2,
+                    "Evade Window" => 2
                 ],
                 134,
                 [
@@ -21561,9 +21561,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Critical Eye" =>  1,
-                    "Critical Boost" =>  1
+                    "Teostra Blessing" => 1,
+                    "Critical Eye" => 1,
+                    "Critical Boost" => 1
                 ],
                 134,
                 [
@@ -21591,9 +21591,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  2,
-                    "Blight Resistance" =>  1
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 2,
+                    "Blight Resistance" => 1
                 ],
                 134,
                 [
@@ -21621,8 +21621,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2,
-                    "Resuscitate" =>  1
+                    "Critical Element" => 2,
+                    "Resuscitate" => 1
                 ],
                 134,
                 [
@@ -21650,8 +21650,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2,
-                    "Resuscitate" =>  1
+                    "Critical Element" => 2,
+                    "Resuscitate" => 1
                 ],
                 134,
                 [
@@ -21679,8 +21679,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Latent Power" =>  2
+                    "Heroics" => 1,
+                    "Latent Power" => 2
                 ],
                 130,
                 [
@@ -21708,9 +21708,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Guard" =>  1,
-                    "Agitator" =>  2
+                    "Guard Up" => 1,
+                    "Guard" => 1,
+                    "Agitator" => 2
                 ],
                 132,
                 [
@@ -21738,8 +21738,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Charge Master" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Charge Master" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 130,
                 [
@@ -21767,8 +21767,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dereliction" =>  2,
-                    "Resentment" =>  1
+                    "Dereliction" => 2,
+                    "Resentment" => 1
                 ],
                 138,
                 [
@@ -21796,10 +21796,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Constitution" =>  1,
-                    "Stamina Surge" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Constitution" => 1,
+                    "Stamina Surge" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -21827,10 +21827,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Partbreaker" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Guard" => 1,
+                    "Partbreaker" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -21858,8 +21858,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Furious" =>  1,
-                    "Critical Eye" =>  2
+                    "Furious" => 1,
+                    "Critical Eye" => 2
                 ],
                 134,
                 [
@@ -21887,8 +21887,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Weakness Exploit" =>  2
+                    "Dragonheart" => 1,
+                    "Weakness Exploit" => 2
                 ],
                 136,
                 [
@@ -21916,9 +21916,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Mail of Hellfire" =>  1,
-                    "Counterstrike" =>  1,
-                    "Redirection" =>  1
+                    "Mail of Hellfire" => 1,
+                    "Counterstrike" => 1,
+                    "Redirection" => 1
                 ],
                 136,
                 [
@@ -21946,9 +21946,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guts" =>  1,
-                    "Weakness Exploit" =>  1,
-                    "Earplugs" =>  1
+                    "Guts" => 1,
+                    "Weakness Exploit" => 1,
+                    "Earplugs" => 1
                 ],
                 135,
                 [
@@ -21976,9 +21976,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Boost" =>  1,
-                    "Peak Performance" =>  1,
-                    "Chain Crit" =>  1
+                    "Critical Boost" => 1,
+                    "Peak Performance" => 1,
+                    "Chain Crit" => 1
                 ],
                 132,
                 [
@@ -22006,9 +22006,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Element Exploit" =>  1,
-                    "Critical Element" =>  1,
-                    "Constitution" =>  2
+                    "Element Exploit" => 1,
+                    "Critical Element" => 1,
+                    "Constitution" => 2
                 ],
                 134,
                 [
@@ -22036,8 +22036,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Adrenaline Rush" =>  2,
-                    "Evade Window" =>  3
+                    "Adrenaline Rush" => 2,
+                    "Evade Window" => 3
                 ],
                 130,
                 [
@@ -22065,8 +22065,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Wall Runner" =>  1
+                    "Geologist" => 1,
+                    "Wall Runner" => 1
                 ],
                 24,
                 [
@@ -22094,8 +22094,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Recovery Up" =>  1
+                    "Attack Boost" => 1,
+                    "Recovery Up" => 1
                 ],
                 36,
                 [
@@ -22123,9 +22123,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Weakness Exploit" =>  1,
-                    "Critical Element" =>  2
+                    "Constitution" => 1,
+                    "Weakness Exploit" => 1,
+                    "Critical Element" => 2
                 ],
                 92,
                 [
@@ -22153,9 +22153,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Recovery Up" =>  1,
-                    "Constitution" =>  1
+                    "Attack Boost" => 1,
+                    "Recovery Up" => 1,
+                    "Constitution" => 1
                 ],
                 72,
                 [
@@ -22183,7 +22183,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 67,
                 [
@@ -22211,7 +22211,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1
+                    "Recovery Up" => 1
                 ],
                 67,
                 [
@@ -22239,7 +22239,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1
+                    "Guard" => 1
                 ],
                 62,
                 [
@@ -22267,7 +22267,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1
+                    "Stun Resistance" => 1
                 ],
                 62,
                 [
@@ -22295,7 +22295,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -22323,7 +22323,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1
+                    "Sleep Resistance" => 1
                 ],
                 68,
                 [
@@ -22351,7 +22351,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Defense Boost" =>  1
+                    "Defense Boost" => 1
                 ],
                 68,
                 [
@@ -22379,7 +22379,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 68,
                 [
@@ -22407,8 +22407,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  1,
-                    "Critical Eye" =>  1
+                    "Water Attack" => 1,
+                    "Critical Eye" => 1
                 ],
                 62,
                 [
@@ -22436,7 +22436,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1
+                    "Focus" => 1
                 ],
                 62,
                 [
@@ -22464,7 +22464,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Resistance" =>  1
+                    "Thunder Resistance" => 1
                 ],
                 64,
                 [
@@ -22492,7 +22492,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 64,
                 [
@@ -22520,7 +22520,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 64,
                 [
@@ -22548,7 +22548,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  1
+                    "Ballistics" => 1
                 ],
                 64,
                 [
@@ -22576,7 +22576,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  1
+                    "Tremor Resistance" => 1
                 ],
                 66,
                 [
@@ -22604,7 +22604,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Diversion" =>  1
+                    "Diversion" => 1
                 ],
                 66,
                 [
@@ -22632,7 +22632,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1
+                    "Paralysis Attack" => 1
                 ],
                 66,
                 [
@@ -22660,7 +22660,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1
+                    "Stamina Thief" => 1
                 ],
                 68,
                 [
@@ -22688,7 +22688,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  1
+                    "Poison Attack" => 1
                 ],
                 68,
                 [
@@ -22716,7 +22716,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  1
+                    "Recovery Speed" => 1
                 ],
                 68,
                 [
@@ -22744,7 +22744,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  2
+                    "Water Attack" => 2
                 ],
                 70,
                 [
@@ -22772,7 +22772,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1
+                    "Guard" => 1
                 ],
                 70,
                 [
@@ -22800,8 +22800,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 68,
                 [
@@ -22829,7 +22829,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1
+                    "Heroics" => 1
                 ],
                 70,
                 [
@@ -22857,7 +22857,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  1
+                    "Power Prolonger" => 1
                 ],
                 68,
                 [
@@ -22885,8 +22885,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Recovery Speed" =>  1
+                    "Botanist" => 1,
+                    "Recovery Speed" => 1
                 ],
                 68,
                 [
@@ -22914,7 +22914,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Resistance" =>  1
+                    "Dragon Resistance" => 1
                 ],
                 68,
                 [
@@ -22942,7 +22942,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  2
+                    "Fire Attack" => 2
                 ],
                 68,
                 [
@@ -22970,7 +22970,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Steadiness" =>  1
+                    "Steadiness" => 1
                 ],
                 68,
                 [
@@ -22998,7 +22998,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Resistance" =>  1
+                    "Fire Resistance" => 1
                 ],
                 68,
                 [
@@ -23026,7 +23026,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1
+                    "Critical Element" => 1
                 ],
                 68,
                 [
@@ -23054,7 +23054,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1
+                    "Rapid Morph" => 1
                 ],
                 70,
                 [
@@ -23082,7 +23082,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1
+                    "Item Prolonger" => 1
                 ],
                 72,
                 [
@@ -23110,7 +23110,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Attack" =>  2
+                    "Poison Attack" => 2
                 ],
                 70,
                 [
@@ -23138,8 +23138,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  1,
-                    "Defense Boost" =>  1
+                    "Speed Sharpening" => 1,
+                    "Defense Boost" => 1
                 ],
                 72,
                 [
@@ -23167,7 +23167,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bombardier" =>  1
+                    "Bombardier" => 1
                 ],
                 72,
                 [
@@ -23195,8 +23195,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Wide-Range" =>  1
+                    "Recovery Up" => 1,
+                    "Wide-Range" => 1
                 ],
                 72,
                 [
@@ -23224,7 +23224,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2
+                    "Critical Eye" => 2
                 ],
                 70,
                 [
@@ -23252,7 +23252,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Attack" =>  2
+                    "Thunder Attack" => 2
                 ],
                 70,
                 [
@@ -23280,7 +23280,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1
+                    "Sleep Resistance" => 1
                 ],
                 68,
                 [
@@ -23308,7 +23308,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  2
+                    "Dragon Attack" => 2
                 ],
                 68,
                 [
@@ -23336,7 +23336,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  2
+                    "Dragon Attack" => 2
                 ],
                 68,
                 [
@@ -23364,7 +23364,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1
+                    "Partbreaker" => 1
                 ],
                 68,
                 [
@@ -23392,7 +23392,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 68,
                 [
@@ -23420,7 +23420,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 68,
                 [
@@ -23448,7 +23448,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1
+                    "Agitator" => 1
                 ],
                 68,
                 [
@@ -23476,7 +23476,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1
+                    "Agitator" => 1
                 ],
                 68,
                 [
@@ -23504,7 +23504,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1
+                    "Blight Resistance" => 1
                 ],
                 70,
                 [
@@ -23532,8 +23532,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Counterstrike" =>  2
+                    "Hellfire Cloak" => 1,
+                    "Counterstrike" => 2
                 ],
                 72,
                 [
@@ -23561,7 +23561,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 70,
                 [
@@ -23589,7 +23589,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  1
+                    "Evade Extender" => 1
                 ],
                 70,
                 [
@@ -23617,7 +23617,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1
+                    "Free Meal" => 1
                 ],
                 70,
                 [
@@ -23645,8 +23645,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Windproof" =>  1
+                    "Attack Boost" => 1,
+                    "Windproof" => 1
                 ],
                 72,
                 [
@@ -23674,7 +23674,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1
+                    "Latent Power" => 1
                 ],
                 72,
                 [
@@ -23702,8 +23702,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  1,
-                    "Resentment" =>  1
+                    "Punishing Draw" => 1,
+                    "Resentment" => 1
                 ],
                 72,
                 [
@@ -23731,7 +23731,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  1
+                    "Power Prolonger" => 1
                 ],
                 72,
                 [
@@ -23759,7 +23759,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1
+                    "Earplugs" => 1
                 ],
                 72,
                 [
@@ -23787,7 +23787,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  1
+                    "Stamina Surge" => 1
                 ],
                 72,
                 [
@@ -23815,8 +23815,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  1,
-                    "Critical Eye" =>  1
+                    "Wirebug Whisperer" => 1,
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -23844,8 +23844,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Hunger Resistance" =>  2
+                    "Recovery Up" => 1,
+                    "Hunger Resistance" => 2
                 ],
                 68,
                 [
@@ -23873,8 +23873,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Guard" =>  1
+                    "Botanist" => 1,
+                    "Guard" => 1
                 ],
                 70,
                 [
@@ -23902,7 +23902,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  2
+                    "Stun Resistance" => 2
                 ],
                 70,
                 [
@@ -23930,8 +23930,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  2,
-                    "Critical Eye" =>  1
+                    "Water Attack" => 2,
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -23959,7 +23959,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1
+                    "Focus" => 1
                 ],
                 70,
                 [
@@ -23987,7 +23987,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  2
+                    "Weakness Exploit" => 2
                 ],
                 70,
                 [
@@ -24015,7 +24015,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  2
+                    "Weakness Exploit" => 2
                 ],
                 70,
                 [
@@ -24043,8 +24043,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1,
-                    "Evade Window" =>  1
+                    "Paralysis Attack" => 1,
+                    "Evade Window" => 1
                 ],
                 72,
                 [
@@ -24072,7 +24072,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2
+                    "Critical Eye" => 2
                 ],
                 74,
                 [
@@ -24100,8 +24100,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Sleep Resistance" =>  1
+                    "Attack Boost" => 2,
+                    "Sleep Resistance" => 1
                 ],
                 74,
                 [
@@ -24129,8 +24129,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Maximum Might" =>  1
+                    "Stamina Thief" => 1,
+                    "Maximum Might" => 1
                 ],
                 76,
                 [
@@ -24158,8 +24158,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1,
-                    "Poison Attack" =>  2
+                    "Ammo Up" => 1,
+                    "Poison Attack" => 2
                 ],
                 76,
                 [
@@ -24187,8 +24187,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1,
-                    "Defense Boost" =>  1
+                    "Counterstrike" => 1,
+                    "Defense Boost" => 1
                 ],
                 74,
                 [
@@ -24216,7 +24216,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2
+                    "Constitution" => 2
                 ],
                 74,
                 [
@@ -24244,7 +24244,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 76,
                 [
@@ -24272,8 +24272,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 76,
                 [
@@ -24301,7 +24301,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2
+                    "Heroics" => 2
                 ],
                 78,
                 [
@@ -24329,7 +24329,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  2
+                    "Power Prolonger" => 2
                 ],
                 70,
                 [
@@ -24357,7 +24357,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1
+                    "Recovery Up" => 1
                 ],
                 70,
                 [
@@ -24385,7 +24385,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  2
+                    "Tremor Resistance" => 2
                 ],
                 72,
                 [
@@ -24413,7 +24413,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Diversion" =>  1
+                    "Diversion" => 1
                 ],
                 72,
                 [
@@ -24441,8 +24441,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Bludgeoner" =>  1
+                    "Rapid Morph" => 1,
+                    "Bludgeoner" => 1
                 ],
                 80,
                 [
@@ -24470,8 +24470,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1,
-                    "Peak Performance" =>  2
+                    "Marathon Runner" => 1,
+                    "Peak Performance" => 2
                 ],
                 78,
                 [
@@ -24499,8 +24499,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Defense Boost" =>  1
+                    "Guard" => 2,
+                    "Defense Boost" => 1
                 ],
                 80,
                 [
@@ -24528,8 +24528,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Maximum Might" =>  1
+                    "Item Prolonger" => 1,
+                    "Maximum Might" => 1
                 ],
                 82,
                 [
@@ -24557,8 +24557,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  1,
-                    "Poison Attack" =>  2
+                    "Spare Shot" => 1,
+                    "Poison Attack" => 2
                 ],
                 80,
                 [
@@ -24586,9 +24586,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Offensive Guard" =>  1
+                    "Guard Up" => 1,
+                    "Power Prolonger" => 1,
+                    "Offensive Guard" => 1
                 ],
                 78,
                 [
@@ -24616,8 +24616,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  2,
-                    "Defense Boost" =>  2
+                    "Speed Sharpening" => 2,
+                    "Defense Boost" => 2
                 ],
                 82,
                 [
@@ -24645,8 +24645,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  2,
-                    "Wide-Range" =>  1
+                    "Recovery Up" => 2,
+                    "Wide-Range" => 1
                 ],
                 82,
                 [
@@ -24700,8 +24700,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Attack Boost" =>  2
+                    "Dragon Attack" => 1,
+                    "Attack Boost" => 2
                 ],
                 72,
                 [
@@ -24729,7 +24729,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  1
+                    "Ballistics" => 1
                 ],
                 72,
                 [
@@ -24757,8 +24757,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Recovery Speed" =>  1
+                    "Botanist" => 1,
+                    "Recovery Speed" => 1
                 ],
                 72,
                 [
@@ -24786,8 +24786,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1,
-                    "Maximum Might" =>  1
+                    "Protective Polish" => 1,
+                    "Maximum Might" => 1
                 ],
                 72,
                 [
@@ -24815,7 +24815,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  3
+                    "Fire Attack" => 3
                 ],
                 72,
                 [
@@ -24843,7 +24843,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1
+                    "Normal/Rapid Up" => 1
                 ],
                 72,
                 [
@@ -24871,7 +24871,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1
+                    "Sleep Resistance" => 1
                 ],
                 72,
                 [
@@ -24899,8 +24899,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1
                 ],
                 72,
                 [
@@ -24928,8 +24928,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1
                 ],
                 72,
                 [
@@ -24957,8 +24957,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Agitator" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -24986,8 +24986,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Agitator" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 72,
                 [
@@ -25015,7 +25015,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  2
+                    "Fire Attack" => 2
                 ],
                 72,
                 [
@@ -25043,7 +25043,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2
+                    "Critical Element" => 2
                 ],
                 72,
                 [
@@ -25071,8 +25071,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Bombardier" =>  1
+                    "Sleep Attack" => 1,
+                    "Bombardier" => 1
                 ],
                 78,
                 [
@@ -25100,8 +25100,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Critical Eye" =>  2
+                    "Critical Draw" => 1,
+                    "Critical Eye" => 2
                 ],
                 78,
                 [
@@ -25129,7 +25129,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  2
+                    "Mind's Eye" => 2
                 ],
                 78,
                 [
@@ -25157,7 +25157,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 80,
                 [
@@ -25185,8 +25185,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  2,
-                    "Critical Eye" =>  1
+                    "Evade Extender" => 2,
+                    "Critical Eye" => 1
                 ],
                 80,
                 [
@@ -25214,8 +25214,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Free Meal" =>  1
+                    "Bubbly Dance" => 1,
+                    "Free Meal" => 1
                 ],
                 80,
                 [
@@ -25243,8 +25243,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Windproof" =>  1
+                    "Attack Boost" => 2,
+                    "Windproof" => 1
                 ],
                 82,
                 [
@@ -25272,7 +25272,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1
+                    "Latent Power" => 1
                 ],
                 82,
                 [
@@ -25300,7 +25300,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  3
+                    "Dragon Attack" => 3
                 ],
                 82,
                 [
@@ -25328,7 +25328,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  3
+                    "Dragon Attack" => 3
                 ],
                 82,
                 [
@@ -25356,7 +25356,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  2
+                    "Partbreaker" => 2
                 ],
                 82,
                 [
@@ -25384,7 +25384,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Good Luck" =>  1
+                    "Good Luck" => 1
                 ],
                 82,
                 [
@@ -25412,7 +25412,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1
+                    "Hellfire Cloak" => 1
                 ],
                 84,
                 [
@@ -25440,8 +25440,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  1,
-                    "Resentment" =>  1
+                    "Punishing Draw" => 1,
+                    "Resentment" => 1
                 ],
                 84,
                 [
@@ -25469,8 +25469,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Power Prolonger" =>  1
+                    "Evade Window" => 1,
+                    "Power Prolonger" => 1
                 ],
                 84,
                 [
@@ -25498,7 +25498,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2
+                    "Earplugs" => 2
                 ],
                 84,
                 [
@@ -25526,8 +25526,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Stamina Surge" =>  1
+                    "Guard" => 1,
+                    "Stamina Surge" => 1
                 ],
                 84,
                 [
@@ -25555,7 +25555,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1
+                    "Spread Up" => 1
                 ],
                 86,
                 [
@@ -25583,9 +25583,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Critical Boost" =>  1,
-                    "Maximum Might" =>  1
+                    "Heroics" => 1,
+                    "Critical Boost" => 1,
+                    "Maximum Might" => 1
                 ],
                 90,
                 [
@@ -25613,8 +25613,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Handicraft" =>  1
+                    "Earplugs" => 1,
+                    "Handicraft" => 1
                 ],
                 88,
                 [
@@ -25642,10 +25642,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Handicraft" =>  1,
-                    "Pierce Up" =>  1
+                    "Kushala Blessing" => 1,
+                    "Recovery Speed" => 1,
+                    "Handicraft" => 1,
+                    "Pierce Up" => 1
                 ],
                 94,
                 [
@@ -25673,9 +25673,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Poison Attack" =>  1,
-                    "Peak Performance" =>  2
+                    "Chameleos Blessing" => 1,
+                    "Poison Attack" => 1,
+                    "Peak Performance" => 2
                 ],
                 94,
                 [
@@ -25703,8 +25703,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Critical Eye" =>  1
+                    "Teostra Blessing" => 1,
+                    "Critical Eye" => 1
                 ],
                 94,
                 [
@@ -25732,8 +25732,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Guard" =>  1
+                    "Load Shells" => 1,
+                    "Guard" => 1
                 ],
                 92,
                 [
@@ -25761,10 +25761,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Evade Window" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Power Prolonger" => 1,
+                    "Evade Window" => 1,
+                    "Stormsoul" => 1
                 ],
                 86,
                 [
@@ -25792,10 +25792,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Artillery" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Guard" => 1,
+                    "Artillery" => 1,
+                    "Stormsoul" => 1
                 ],
                 96,
                 [
@@ -25823,9 +25823,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resuscitate" =>  1,
-                    "Resentment" =>  2
+                    "Dragonheart" => 1,
+                    "Resuscitate" => 1,
+                    "Resentment" => 2
                 ],
                 100,
                 [
@@ -25853,8 +25853,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  1,
-                    "Critical Eye" =>  1
+                    "Wirebug Whisperer" => 1,
+                    "Critical Eye" => 1
                 ],
                 108,
                 [
@@ -25882,8 +25882,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  2,
-                    "Hunger Resistance" =>  2
+                    "Recovery Up" => 2,
+                    "Hunger Resistance" => 2
                 ],
                 108,
                 [
@@ -25911,9 +25911,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Guard" =>  2,
-                    "Flinch Free" =>  1,
-                    "Defense Boost" =>  2
+                    "Guard" => 2,
+                    "Flinch Free" => 1,
+                    "Defense Boost" => 2
                 ],
                 110,
                 [
@@ -25941,9 +25941,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  2,
-                    "Handicraft" =>  1,
-                    "Item Prolonger" =>  1
+                    "Stun Resistance" => 2,
+                    "Handicraft" => 1,
+                    "Item Prolonger" => 1
                 ],
                 110,
                 [
@@ -25971,8 +25971,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  3,
-                    "Critical Eye" =>  1
+                    "Water Attack" => 3,
+                    "Critical Eye" => 1
                 ],
                 110,
                 [
@@ -26000,8 +26000,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Partbreaker" =>  2
+                    "Focus" => 1,
+                    "Partbreaker" => 2
                 ],
                 110,
                 [
@@ -26029,9 +26029,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  2,
-                    "Load Shells" =>  1,
-                    "Special Ammo Boost" =>  1
+                    "Tremor Resistance" => 2,
+                    "Load Shells" => 1,
+                    "Special Ammo Boost" => 1
                 ],
                 118,
                 [
@@ -26059,8 +26059,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Diversion" =>  1,
-                    "Resentment" =>  1
+                    "Diversion" => 1,
+                    "Resentment" => 1
                 ],
                 118,
                 [
@@ -26088,8 +26088,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  2,
-                    "Evade Window" =>  1
+                    "Paralysis Attack" => 2,
+                    "Evade Window" => 1
                 ],
                 112,
                 [
@@ -26117,8 +26117,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  2,
-                    "Dragon Resistance" =>  3
+                    "Dragon Attack" => 2,
+                    "Dragon Resistance" => 3
                 ],
                 114,
                 [
@@ -26146,8 +26146,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Paralysis Resistance" =>  1
+                    "Quick Sheathe" => 1,
+                    "Paralysis Resistance" => 1
                 ],
                 112,
                 [
@@ -26175,8 +26175,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Capture Master" =>  1
+                    "Attack Boost" => 1,
+                    "Capture Master" => 1
                 ],
                 114,
                 [
@@ -26204,8 +26204,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Constitution" =>  1
+                    "Critical Eye" => 2,
+                    "Constitution" => 1
                 ],
                 114,
                 [
@@ -26233,8 +26233,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Sleep Resistance" =>  1
+                    "Attack Boost" => 2,
+                    "Sleep Resistance" => 1
                 ],
                 114,
                 [
@@ -26262,8 +26262,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Thief" =>  1,
-                    "Maximum Might" =>  1
+                    "Stamina Thief" => 1,
+                    "Maximum Might" => 1
                 ],
                 114,
                 [
@@ -26291,8 +26291,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  2,
-                    "Poison Attack" =>  2
+                    "Ammo Up" => 2,
+                    "Poison Attack" => 2
                 ],
                 116,
                 [
@@ -26320,9 +26320,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Counterstrike" =>  1,
-                    "Defense Boost" =>  3,
-                    "Speed Eating" =>  1
+                    "Counterstrike" => 1,
+                    "Defense Boost" => 3,
+                    "Speed Eating" => 1
                 ],
                 114,
                 [
@@ -26350,7 +26350,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  3
+                    "Constitution" => 3
                 ],
                 114,
                 [
@@ -26378,7 +26378,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2
+                    "Earplugs" => 2
                 ],
                 122,
                 [
@@ -26406,8 +26406,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Critical Element" =>  1
+                    "Quick Sheathe" => 1,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -26435,8 +26435,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1,
-                    "Peak Performance" =>  2
+                    "Marathon Runner" => 1,
+                    "Peak Performance" => 2
                 ],
                 120,
                 [
@@ -26464,8 +26464,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  3,
-                    "Defense Boost" =>  1
+                    "Guard" => 3,
+                    "Defense Boost" => 1
                 ],
                 122,
                 [
@@ -26493,9 +26493,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tune-Up" =>  1,
-                    "Handicraft" =>  1,
-                    "Quick Sheathe" =>  1
+                    "Tune-Up" => 1,
+                    "Handicraft" => 1,
+                    "Quick Sheathe" => 1
                 ],
                 122,
                 [
@@ -26523,8 +26523,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Evade Extender" =>  2
+                    "Heroics" => 2,
+                    "Evade Extender" => 2
                 ],
                 118,
                 [
@@ -26552,8 +26552,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  2,
-                    "Attack Boost" =>  1
+                    "Power Prolonger" => 2,
+                    "Attack Boost" => 1
                 ],
                 114,
                 [
@@ -26581,8 +26581,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  2,
-                    "Poison Resistance" =>  1
+                    "Weakness Exploit" => 2,
+                    "Poison Resistance" => 1
                 ],
                 118,
                 [
@@ -26610,8 +26610,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  2,
-                    "Poison Resistance" =>  1
+                    "Weakness Exploit" => 2,
+                    "Poison Resistance" => 1
                 ],
                 118,
                 [
@@ -26639,8 +26639,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Wide-Range" =>  1
+                    "Recovery Up" => 1,
+                    "Wide-Range" => 1
                 ],
                 116,
                 [
@@ -26668,8 +26668,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ballistics" =>  1,
-                    "Normal/Rapid Up" =>  1
+                    "Ballistics" => 1,
+                    "Normal/Rapid Up" => 1
                 ],
                 116,
                 [
@@ -26697,9 +26697,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Recovery Speed" =>  1,
-                    "Stamina Surge" =>  1
+                    "Botanist" => 1,
+                    "Recovery Speed" => 1,
+                    "Stamina Surge" => 1
                 ],
                 112,
                 [
@@ -26727,8 +26727,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  2,
-                    "Master Mounter" =>  1
+                    "Blight Resistance" => 2,
+                    "Master Mounter" => 1
                 ],
                 120,
                 [
@@ -26756,9 +26756,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Critical Boost" =>  1,
-                    "Offensive Guard" =>  1
+                    "Weakness Exploit" => 1,
+                    "Critical Boost" => 1,
+                    "Offensive Guard" => 1
                 ],
                 116,
                 [
@@ -26786,9 +26786,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Evade Window" =>  1,
-                    "Earplugs" =>  1
+                    "Critical Eye" => 1,
+                    "Evade Window" => 1,
+                    "Earplugs" => 1
                 ],
                 112,
                 [
@@ -26816,8 +26816,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1
                 ],
                 116,
                 [
@@ -26845,9 +26845,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  1,
-                    "Maximum Might" =>  2,
-                    "Speed Eating" =>  1
+                    "Item Prolonger" => 1,
+                    "Maximum Might" => 2,
+                    "Speed Eating" => 1
                 ],
                 116,
                 [
@@ -26875,9 +26875,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  2,
-                    "Handicraft" =>  2,
-                    "Spread Up" =>  2
+                    "Blast Attack" => 2,
+                    "Handicraft" => 2,
+                    "Spread Up" => 2
                 ],
                 116,
                 [
@@ -26905,8 +26905,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  1,
-                    "Poison Attack" =>  2
+                    "Spare Shot" => 1,
+                    "Poison Attack" => 2
                 ],
                 116,
                 [
@@ -26934,9 +26934,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Offensive Guard" =>  2
+                    "Guard Up" => 1,
+                    "Power Prolonger" => 1,
+                    "Offensive Guard" => 2
                 ],
                 116,
                 [
@@ -26964,10 +26964,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  2,
-                    "Defense Boost" =>  3,
-                    "Latent Power" =>  1,
-                    "Reload Speed" =>  1
+                    "Speed Sharpening" => 2,
+                    "Defense Boost" => 3,
+                    "Latent Power" => 1,
+                    "Reload Speed" => 1
                 ],
                 120,
                 [
@@ -26995,9 +26995,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Attack" =>  1,
-                    "Bombardier" =>  1,
-                    "Ammo Up" =>  1
+                    "Sleep Attack" => 1,
+                    "Bombardier" => 1,
+                    "Ammo Up" => 1
                 ],
                 116,
                 [
@@ -27025,8 +27025,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Master's Touch" =>  1,
-                    "Ice Attack" =>  2
+                    "Master's Touch" => 1,
+                    "Ice Attack" => 2
                 ],
                 124,
                 [
@@ -27054,9 +27054,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  2,
-                    "Wide-Range" =>  1,
-                    "Agitator" =>  1
+                    "Recovery Up" => 2,
+                    "Wide-Range" => 1,
+                    "Agitator" => 1
                 ],
                 116,
                 [
@@ -27084,9 +27084,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Mind's Eye" =>  2,
-                    "Critical Element" =>  1,
-                    "Pierce Up" =>  1
+                    "Mind's Eye" => 2,
+                    "Critical Element" => 1,
+                    "Pierce Up" => 1
                 ],
                 116,
                 [
@@ -27114,7 +27114,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Attack Boost" =>  2
+                    "Attack Boost" => 2
                 ],
                 118,
                 [
@@ -27142,9 +27142,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Attack Boost" =>  2,
-                    "Marathon Runner" =>  2
+                    "Dragon Attack" => 1,
+                    "Attack Boost" => 2,
+                    "Marathon Runner" => 2
                 ],
                 120,
                 [
@@ -27172,9 +27172,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Recovery Speed" =>  2,
-                    "Razor Sharp" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Recovery Speed" => 2,
+                    "Razor Sharp" => 1
                 ],
                 116,
                 [
@@ -27202,9 +27202,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  3,
-                    "Flinch Free" =>  1,
-                    "Critical Element" =>  1
+                    "Fire Attack" => 3,
+                    "Flinch Free" => 1,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -27232,9 +27232,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1,
-                    "Maximum Might" =>  1,
-                    "Attack Boost" =>  1
+                    "Protective Polish" => 1,
+                    "Maximum Might" => 1,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -27262,9 +27262,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Sleep Resistance" =>  1,
-                    "Water Attack" =>  2,
-                    "Resuscitate" =>  1
+                    "Sleep Resistance" => 1,
+                    "Water Attack" => 2,
+                    "Resuscitate" => 1
                 ],
                 120,
                 [
@@ -27292,8 +27292,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  3,
-                    "Critical Eye" =>  1
+                    "Dragon Attack" => 3,
+                    "Critical Eye" => 1
                 ],
                 126,
                 [
@@ -27321,8 +27321,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  3,
-                    "Critical Eye" =>  1
+                    "Dragon Attack" => 3,
+                    "Critical Eye" => 1
                 ],
                 126,
                 [
@@ -27350,8 +27350,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  2,
-                    "Reload Speed" =>  1
+                    "Ammo Up" => 2,
+                    "Reload Speed" => 1
                 ],
                 122,
                 [
@@ -27379,9 +27379,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Good Luck" =>  1,
-                    "Horn Maestro" =>  1
+                    "Evade Window" => 1,
+                    "Good Luck" => 1,
+                    "Horn Maestro" => 1
                 ],
                 120,
                 [
@@ -27409,9 +27409,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Good Luck" =>  1,
-                    "Horn Maestro" =>  1
+                    "Evade Window" => 1,
+                    "Good Luck" => 1,
+                    "Horn Maestro" => 1
                 ],
                 120,
                 [
@@ -27439,9 +27439,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Diversion" =>  1,
-                    "Speed Sharpening" =>  1,
-                    "Blight Resistance" =>  2
+                    "Diversion" => 1,
+                    "Speed Sharpening" => 1,
+                    "Blight Resistance" => 2
                 ],
                 124,
                 [
@@ -27469,7 +27469,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Good Luck" =>  2
+                    "Good Luck" => 2
                 ],
                 122,
                 [
@@ -27497,9 +27497,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  1,
-                    "Critical Eye" =>  3,
-                    "Partbreaker" =>  1
+                    "Critical Draw" => 1,
+                    "Critical Eye" => 3,
+                    "Partbreaker" => 1
                 ],
                 124,
                 [
@@ -27527,8 +27527,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Earplugs" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Earplugs" => 1
                 ],
                 126,
                 [
@@ -27556,9 +27556,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  2,
-                    "Critical Eye" =>  2,
-                    "Flinch Free" =>  1
+                    "Evade Extender" => 2,
+                    "Critical Eye" => 2,
+                    "Flinch Free" => 1
                 ],
                 124,
                 [
@@ -27586,9 +27586,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Punishing Draw" =>  1,
-                    "Resentment" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Punishing Draw" => 1,
+                    "Resentment" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 122,
                 [
@@ -27616,9 +27616,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Spiribird's Call" =>  1,
-                    "Focus" =>  1,
-                    "Maximum Might" =>  2
+                    "Spiribird's Call" => 1,
+                    "Focus" => 1,
+                    "Maximum Might" => 2
                 ],
                 128,
                 [
@@ -27646,9 +27646,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Grinder (S)" =>  1,
-                    "Handicraft" =>  1,
-                    "Critical Eye" =>  2
+                    "Grinder (S)" => 1,
+                    "Handicraft" => 1,
+                    "Critical Eye" => 2
                 ],
                 124,
                 [
@@ -27676,9 +27676,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Power Prolonger" =>  1,
-                    "Spare Shot" =>  1
+                    "Evade Window" => 2,
+                    "Power Prolonger" => 1,
+                    "Spare Shot" => 1
                 ],
                 124,
                 [
@@ -27706,8 +27706,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Guard Up" =>  1
+                    "Resuscitate" => 1,
+                    "Guard Up" => 1
                 ],
                 128,
                 [
@@ -27735,9 +27735,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Spare Shot" =>  1,
-                    "Tune-Up" =>  1
+                    "Spread Up" => 1,
+                    "Spare Shot" => 1,
+                    "Tune-Up" => 1
                 ],
                 124,
                 [
@@ -27765,8 +27765,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Peak Performance" =>  2,
-                    "Blast Attack" =>  2
+                    "Peak Performance" => 2,
+                    "Blast Attack" => 2
                 ],
                 128,
                 [
@@ -27794,7 +27794,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Flinch Free" =>  1
+                    "Flinch Free" => 1
                 ],
                 126,
                 [
@@ -27822,9 +27822,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  2,
-                    "Stamina Thief" =>  1,
-                    "Attack Boost" =>  1
+                    "Tremor Resistance" => 2,
+                    "Stamina Thief" => 1,
+                    "Attack Boost" => 1
                 ],
                 128,
                 [
@@ -27852,9 +27852,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Counterstrike" =>  1,
-                    "Good Luck" =>  1
+                    "Weakness Exploit" => 1,
+                    "Counterstrike" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -27882,9 +27882,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1,
-                    "Recovery Up" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -27912,9 +27912,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1,
-                    "Free Meal" =>  1,
-                    "Recovery Up" =>  1
+                    "Speed Eating" => 1,
+                    "Free Meal" => 1,
+                    "Recovery Up" => 1
                 ],
                 126,
                 [
@@ -27942,9 +27942,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  1
+                    "Agitator" => 2,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -27972,9 +27972,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Wirebug Whisperer" =>  1,
-                    "Attack Boost" =>  1
+                    "Agitator" => 2,
+                    "Wirebug Whisperer" => 1,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -28002,9 +28002,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Quick Sheathe" =>  1,
-                    "Offensive Guard" =>  2
+                    "Guard" => 1,
+                    "Quick Sheathe" => 1,
+                    "Offensive Guard" => 2
                 ],
                 130,
                 [
@@ -28032,8 +28032,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Constitution" =>  2
+                    "Speed Eating" => 2,
+                    "Constitution" => 2
                 ],
                 126,
                 [
@@ -28061,8 +28061,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Constitution" =>  2
+                    "Speed Eating" => 2,
+                    "Constitution" => 2
                 ],
                 126,
                 [
@@ -28090,9 +28090,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Evade Window" =>  2,
-                    "Razor Sharp" =>  1
+                    "Focus" => 1,
+                    "Evade Window" => 2,
+                    "Razor Sharp" => 1
                 ],
                 128,
                 [
@@ -28120,9 +28120,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Special Ammo Boost" =>  1,
-                    "Evade Window" =>  1
+                    "Guard Up" => 1,
+                    "Special Ammo Boost" => 1,
+                    "Evade Window" => 1
                 ],
                 128,
                 [
@@ -28150,8 +28150,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  2,
-                    "Poison Resistance" =>  1
+                    "Critical Element" => 2,
+                    "Poison Resistance" => 1
                 ],
                 128,
                 [
@@ -28179,9 +28179,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Free Meal" =>  1,
-                    "Constitution" =>  1
+                    "Bubbly Dance" => 1,
+                    "Free Meal" => 1,
+                    "Constitution" => 1
                 ],
                 130,
                 [
@@ -28209,9 +28209,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Windproof" =>  3,
-                    "Critical Boost" =>  1
+                    "Attack Boost" => 2,
+                    "Windproof" => 3,
+                    "Critical Boost" => 1
                 ],
                 130,
                 [
@@ -28239,9 +28239,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Critical Element" =>  1,
-                    "Thunder Attack" =>  3
+                    "Latent Power" => 1,
+                    "Critical Element" => 1,
+                    "Thunder Attack" => 3
                 ],
                 132,
                 [
@@ -28269,8 +28269,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Latent Power" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 130,
                 [
@@ -28298,8 +28298,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  3,
-                    "Speed Sharpening" =>  2
+                    "Power Prolonger" => 3,
+                    "Speed Sharpening" => 2
                 ],
                 130,
                 [
@@ -28327,8 +28327,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  2,
-                    "Protective Polish" =>  1
+                    "Agitator" => 2,
+                    "Protective Polish" => 1
                 ],
                 132,
                 [
@@ -28356,8 +28356,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Coalescence" =>  1,
-                    "Agitator" =>  1
+                    "Coalescence" => 1,
+                    "Agitator" => 1
                 ],
                 128,
                 [
@@ -28385,8 +28385,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Wall Runner (Boost)" =>  1,
-                    "Wall Runner" =>  2
+                    "Wall Runner (Boost)" => 1,
+                    "Wall Runner" => 2
                 ],
                 130,
                 [
@@ -28414,8 +28414,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  2,
-                    "Peak Performance" =>  1
+                    "Earplugs" => 2,
+                    "Peak Performance" => 1
                 ],
                 134,
                 [
@@ -28443,8 +28443,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Stamina Surge" =>  2
+                    "Heroics" => 1,
+                    "Stamina Surge" => 2
                 ],
                 134,
                 [
@@ -28472,10 +28472,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Handicraft" =>  1,
-                    "Pierce Up" =>  1,
-                    "Blight Resistance" =>  1
+                    "Earplugs" => 1,
+                    "Handicraft" => 1,
+                    "Pierce Up" => 1,
+                    "Blight Resistance" => 1
                 ],
                 128,
                 [
@@ -28503,8 +28503,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  2,
-                    "Charge Master" =>  2
+                    "Partbreaker" => 2,
+                    "Charge Master" => 2
                 ],
                 128,
                 [
@@ -28532,8 +28532,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Tremor Resistance" =>  3,
-                    "Flinch Free" =>  2
+                    "Tremor Resistance" => 3,
+                    "Flinch Free" => 2
                 ],
                 128,
                 [
@@ -28561,8 +28561,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Tremor Resistance" =>  3,
-                    "Flinch Free" =>  2
+                    "Tremor Resistance" => 3,
+                    "Flinch Free" => 2
                 ],
                 128,
                 [
@@ -28590,8 +28590,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Quick Sheathe" =>  3,
-                    "Free Meal" =>  1
+                    "Quick Sheathe" => 3,
+                    "Free Meal" => 1
                 ],
                 128,
                 [
@@ -28619,8 +28619,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Mushroomancer" =>  2,
-                    "Recovery Speed" =>  1
+                    "Mushroomancer" => 2,
+                    "Recovery Speed" => 1
                 ],
                 128,
                 [
@@ -28648,9 +28648,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  3,
-                    "Wirebug Whisperer" =>  1,
-                    "Ballistics" =>  3
+                    "Protective Polish" => 3,
+                    "Wirebug Whisperer" => 1,
+                    "Ballistics" => 3
                 ],
                 128,
                 [
@@ -28678,8 +28678,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Offensive Guard" =>  1
+                    "Heroics" => 2,
+                    "Offensive Guard" => 1
                 ],
                 132,
                 [
@@ -28707,8 +28707,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Agitator" =>  3
+                    "Kushala Blessing" => 1,
+                    "Agitator" => 3
                 ],
                 134,
                 [
@@ -28736,9 +28736,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Peak Performance" =>  2,
-                    "Foray" =>  1
+                    "Chameleos Blessing" => 1,
+                    "Peak Performance" => 2,
+                    "Foray" => 1
                 ],
                 134,
                 [
@@ -28766,8 +28766,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  2,
-                    "Critical Eye" =>  1
+                    "Teostra Blessing" => 2,
+                    "Critical Eye" => 1
                 ],
                 134,
                 [
@@ -28795,9 +28795,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blood Rite" =>  2,
-                    "Partbreaker" =>  1,
-                    "Attack Boost" =>  1
+                    "Blood Rite" => 2,
+                    "Partbreaker" => 1,
+                    "Attack Boost" => 1
                 ],
                 134,
                 [
@@ -28825,9 +28825,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Coalescence" =>  1,
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2
+                    "Coalescence" => 1,
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2
                 ],
                 134,
                 [
@@ -28855,9 +28855,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Coalescence" =>  1,
-                    "Razor Sharp" =>  2,
-                    "Spare Shot" =>  2
+                    "Coalescence" => 1,
+                    "Razor Sharp" => 2,
+                    "Spare Shot" => 2
                 ],
                 134,
                 [
@@ -28885,9 +28885,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  1,
-                    "Critical Boost" =>  1,
-                    "Maximum Might" =>  1
+                    "Heroics" => 1,
+                    "Critical Boost" => 1,
+                    "Maximum Might" => 1
                 ],
                 130,
                 [
@@ -28915,9 +28915,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  2,
-                    "Guard" =>  1,
-                    "Razor Sharp" =>  1
+                    "Load Shells" => 2,
+                    "Guard" => 1,
+                    "Razor Sharp" => 1
                 ],
                 132,
                 [
@@ -28945,8 +28945,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  3,
-                    "Quick Sheathe" =>  1
+                    "Punishing Draw" => 3,
+                    "Quick Sheathe" => 1
                 ],
                 130,
                 [
@@ -28974,8 +28974,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Chain Crit" =>  2
+                    "Weakness Exploit" => 1,
+                    "Chain Crit" => 2
                 ],
                 138,
                 [
@@ -29003,10 +29003,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Evade Window" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Power Prolonger" => 1,
+                    "Evade Window" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -29034,10 +29034,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Guard" =>  1,
-                    "Artillery" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Guard" => 1,
+                    "Artillery" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -29065,10 +29065,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Chain Crit" =>  1,
-                    "Critical Element" =>  2,
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Chain Crit" => 1,
+                    "Critical Element" => 2,
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 134,
                 [
@@ -29096,9 +29096,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resuscitate" =>  1,
-                    "Resentment" =>  2
+                    "Dragonheart" => 1,
+                    "Resuscitate" => 1,
+                    "Resentment" => 2
                 ],
                 136,
                 [
@@ -29126,8 +29126,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Mail of Hellfire" =>  1,
-                    "Coalescence" =>  1
+                    "Mail of Hellfire" => 1,
+                    "Coalescence" => 1
                 ],
                 136,
                 [
@@ -29155,9 +29155,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Latent Power" =>  3,
-                    "Stamina Surge" =>  1,
-                    "Earplugs" =>  1
+                    "Latent Power" => 3,
+                    "Stamina Surge" => 1,
+                    "Earplugs" => 1
                 ],
                 135,
                 [
@@ -29185,9 +29185,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Status Trigger" =>  1,
-                    "Foray" =>  1,
-                    "Evade Window" =>  2
+                    "Status Trigger" => 1,
+                    "Foray" => 1,
+                    "Evade Window" => 2
                 ],
                 132,
                 [
@@ -29215,9 +29215,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Element Exploit" =>  1,
-                    "Redirection" =>  1,
-                    "Constitution" =>  3
+                    "Element Exploit" => 1,
+                    "Redirection" => 1,
+                    "Constitution" => 3
                 ],
                 134,
                 [
@@ -29245,9 +29245,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Sneak Attack" =>  1,
-                    "Handicraft" =>  2,
-                    "Spread Up" =>  2
+                    "Sneak Attack" => 1,
+                    "Handicraft" => 2,
+                    "Spread Up" => 2
                 ],
                 130,
                 [
@@ -29275,8 +29275,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Botanist" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 24,
                 [
@@ -29304,8 +29304,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Constitution" =>  1
+                    "Earplugs" => 1,
+                    "Constitution" => 1
                 ],
                 36,
                 [
@@ -29333,9 +29333,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Water Attack" =>  2,
-                    "Critical Element" =>  1
+                    "Quick Sheathe" => 1,
+                    "Water Attack" => 2,
+                    "Critical Element" => 1
                 ],
                 92,
                 [
@@ -29363,8 +29363,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Earplugs" =>  1,
-                    "Constitution" =>  2
+                    "Earplugs" => 1,
+                    "Constitution" => 2
                 ],
                 72,
                 [
@@ -29392,7 +29392,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wirebug Whisperer" =>  2
+                    "Wirebug Whisperer" => 2
                 ],
                 80,
                 [
@@ -29420,7 +29420,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  1
+                    "Wall Runner" => 1
                 ],
                 67,
                 [
@@ -29448,7 +29448,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1
+                    "Geologist" => 1
                 ],
                 67,
                 [
@@ -29476,7 +29476,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Stamina Surge" =>  1
+                    "Stamina Surge" => 1
                 ],
                 62,
                 [
@@ -29504,8 +29504,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Attack Boost" =>  1
+                    "Stun Resistance" => 1,
+                    "Attack Boost" => 1
                 ],
                 62,
                 [
@@ -29533,7 +29533,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  1
+                    "Recovery Speed" => 1
                 ],
                 68,
                 [
@@ -29561,7 +29561,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 68,
                 [
@@ -29589,7 +29589,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Diversion" =>  1
+                    "Diversion" => 1
                 ],
                 68,
                 [
@@ -29617,7 +29617,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -29645,7 +29645,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  1
+                    "Speed Sharpening" => 1
                 ],
                 62,
                 [
@@ -29673,7 +29673,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Muck Resistance" =>  1
+                    "Muck Resistance" => 1
                 ],
                 62,
                 [
@@ -29701,7 +29701,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Resistance" =>  1
+                    "Thunder Resistance" => 1
                 ],
                 64,
                 [
@@ -29729,7 +29729,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -29757,7 +29757,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 64,
                 [
@@ -29785,7 +29785,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1
+                    "Spread Up" => 1
                 ],
                 64,
                 [
@@ -29813,7 +29813,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Tremor Resistance" =>  1
+                    "Tremor Resistance" => 1
                 ],
                 66,
                 [
@@ -29841,7 +29841,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Resistance" =>  2
+                    "Water Resistance" => 2
                 ],
                 66,
                 [
@@ -29869,7 +29869,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  1
+                    "Recoil Down" => 1
                 ],
                 66,
                 [
@@ -29897,7 +29897,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Master Mounter" =>  1
+                    "Master Mounter" => 1
                 ],
                 66,
                 [
@@ -29925,8 +29925,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Critical Eye" =>  1
+                    "Stun Resistance" => 1,
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -29954,7 +29954,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  1
+                    "Evade Extender" => 1
                 ],
                 68,
                 [
@@ -29982,7 +29982,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Fire Attack" =>  1
+                    "Fire Attack" => 1
                 ],
                 68,
                 [
@@ -30010,7 +30010,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  1
+                    "Power Prolonger" => 1
                 ],
                 70,
                 [
@@ -30038,7 +30038,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1
+                    "Guard" => 1
                 ],
                 70,
                 [
@@ -30066,7 +30066,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  1
+                    "Recovery Speed" => 1
                 ],
                 68,
                 [
@@ -30094,7 +30094,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Hunger Resistance" =>  1
+                    "Hunger Resistance" => 1
                 ],
                 70,
                 [
@@ -30122,8 +30122,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Critical Eye" =>  1
+                    "Attack Boost" => 1,
+                    "Critical Eye" => 1
                 ],
                 68,
                 [
@@ -30151,7 +30151,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  2
+                    "Recovery Speed" => 2
                 ],
                 68,
                 [
@@ -30179,7 +30179,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1
+                    "Rapid Morph" => 1
                 ],
                 68,
                 [
@@ -30207,7 +30207,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  2
+                    "Recoil Down" => 2
                 ],
                 68,
                 [
@@ -30235,7 +30235,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1
+                    "Ammo Up" => 1
                 ],
                 68,
                 [
@@ -30263,7 +30263,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1
+                    "Divine Blessing" => 1
                 ],
                 68,
                 [
@@ -30291,7 +30291,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  1
+                    "Evade Extender" => 1
                 ],
                 70,
                 [
@@ -30319,7 +30319,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Maximum Might" =>  1
+                    "Maximum Might" => 1
                 ],
                 72,
                 [
@@ -30347,7 +30347,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1
+                    "Constitution" => 1
                 ],
                 70,
                 [
@@ -30375,8 +30375,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Defense Boost" =>  1
+                    "Load Shells" => 1,
+                    "Defense Boost" => 1
                 ],
                 72,
                 [
@@ -30404,7 +30404,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  1
+                    "Divine Blessing" => 1
                 ],
                 72,
                 [
@@ -30432,7 +30432,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Free Meal" =>  1
+                    "Free Meal" => 1
                 ],
                 72,
                 [
@@ -30460,7 +30460,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 70,
                 [
@@ -30488,8 +30488,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Critical Eye" =>  1
+                    "Constitution" => 1,
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -30517,7 +30517,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 68,
                 [
@@ -30545,7 +30545,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2
+                    "Critical Eye" => 2
                 ],
                 68,
                 [
@@ -30573,7 +30573,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2
+                    "Critical Eye" => 2
                 ],
                 68,
                 [
@@ -30601,7 +30601,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  1
+                    "Blast Attack" => 1
                 ],
                 68,
                 [
@@ -30629,7 +30629,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -30657,7 +30657,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 68,
                 [
@@ -30685,8 +30685,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 68,
                 [
@@ -30714,8 +30714,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 68,
                 [
@@ -30743,7 +30743,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1
+                    "Wide-Range" => 1
                 ],
                 70,
                 [
@@ -30771,7 +30771,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Resentment" =>  1
+                    "Resentment" => 1
                 ],
                 72,
                 [
@@ -30799,7 +30799,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  1
+                    "Marathon Runner" => 1
                 ],
                 70,
                 [
@@ -30827,8 +30827,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Critical Eye" =>  1
+                    "Evade Window" => 1,
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -30856,7 +30856,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1
+                    "Bubbly Dance" => 1
                 ],
                 70,
                 [
@@ -30884,8 +30884,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Fire Attack" =>  1
+                    "Attack Boost" => 1,
+                    "Fire Attack" => 1
                 ],
                 72,
                 [
@@ -30913,7 +30913,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2
+                    "Constitution" => 2
                 ],
                 72,
                 [
@@ -30941,7 +30941,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Agitator" =>  1
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -30969,7 +30969,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1
+                    "Razor Sharp" => 1
                 ],
                 72,
                 [
@@ -30997,7 +30997,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 72,
                 [
@@ -31025,8 +31025,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Offensive Guard" =>  1
+                    "Guard" => 1,
+                    "Offensive Guard" => 1
                 ],
                 72,
                 [
@@ -31054,8 +31054,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  2,
-                    "Resuscitate" =>  1
+                    "Wall Runner" => 2,
+                    "Resuscitate" => 1
                 ],
                 68,
                 [
@@ -31083,7 +31083,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1
+                    "Geologist" => 1
                 ],
                 68,
                 [
@@ -31111,8 +31111,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Botanist" =>  1,
-                    "Stamina Surge" =>  1
+                    "Botanist" => 1,
+                    "Stamina Surge" => 1
                 ],
                 70,
                 [
@@ -31140,8 +31140,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Attack Boost" =>  2
+                    "Stun Resistance" => 1,
+                    "Attack Boost" => 2
                 ],
                 70,
                 [
@@ -31169,8 +31169,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Sharpening" =>  1,
-                    "Critical Eye" =>  1
+                    "Speed Sharpening" => 1,
+                    "Critical Eye" => 1
                 ],
                 70,
                 [
@@ -31198,8 +31198,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Muck Resistance" =>  2,
-                    "Focus" =>  1
+                    "Muck Resistance" => 2,
+                    "Focus" => 1
                 ],
                 70,
                 [
@@ -31227,9 +31227,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1,
-                    "Mind's Eye" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1,
+                    "Mind's Eye" => 1
                 ],
                 70,
                 [
@@ -31257,9 +31257,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1,
-                    "Mind's Eye" =>  1
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1,
+                    "Mind's Eye" => 1
                 ],
                 70,
                 [
@@ -31287,8 +31287,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Paralysis Attack" =>  1,
-                    "Recoil Down" =>  1
+                    "Paralysis Attack" => 1,
+                    "Recoil Down" => 1
                 ],
                 72,
                 [
@@ -31316,8 +31316,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  1,
-                    "Constitution" =>  1
+                    "Recovery Speed" => 1,
+                    "Constitution" => 1
                 ],
                 74,
                 [
@@ -31345,7 +31345,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1
+                    "Attack Boost" => 1
                 ],
                 74,
                 [
@@ -31373,8 +31373,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Critical Eye" =>  2
+                    "Stun Resistance" => 1,
+                    "Critical Eye" => 2
                 ],
                 76,
                 [
@@ -31402,8 +31402,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1,
-                    "Evade Extender" =>  1
+                    "Ammo Up" => 1,
+                    "Evade Extender" => 1
                 ],
                 76,
                 [
@@ -31457,8 +31457,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Jump Master" =>  1,
-                    "Critical Eye" =>  1
+                    "Jump Master" => 1,
+                    "Critical Eye" => 1
                 ],
                 74,
                 [
@@ -31486,8 +31486,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Fire Attack" =>  2
+                    "Peak Performance" => 1,
+                    "Fire Attack" => 2
                 ],
                 76,
                 [
@@ -31515,9 +31515,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  1,
-                    "Recovery Speed" =>  1
+                    "Focus" => 1,
+                    "Slugger" => 1,
+                    "Recovery Speed" => 1
                 ],
                 76,
                 [
@@ -31545,8 +31545,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Normal/Rapid Up" =>  1,
-                    "Hunger Resistance" =>  1
+                    "Normal/Rapid Up" => 1,
+                    "Hunger Resistance" => 1
                 ],
                 78,
                 [
@@ -31574,8 +31574,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Critical Eye" =>  2
+                    "Attack Boost" => 2,
+                    "Critical Eye" => 2
                 ],
                 70,
                 [
@@ -31603,7 +31603,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1
+                    "Poison Resistance" => 1
                 ],
                 70,
                 [
@@ -31631,8 +31631,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Pierce Up" =>  1,
-                    "Tremor Resistance" =>  1
+                    "Pierce Up" => 1,
+                    "Tremor Resistance" => 1
                 ],
                 72,
                 [
@@ -31660,7 +31660,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  3
+                    "Water Attack" => 3
                 ],
                 72,
                 [
@@ -31688,7 +31688,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Master Mounter" =>  1
+                    "Master Mounter" => 1
                 ],
                 72,
                 [
@@ -31716,8 +31716,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Evade Extender" =>  2
+                    "Rapid Morph" => 1,
+                    "Evade Extender" => 2
                 ],
                 80,
                 [
@@ -31745,7 +31745,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  2
+                    "Power Prolonger" => 2
                 ],
                 78,
                 [
@@ -31773,9 +31773,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Defense Boost" =>  1,
-                    "Offensive Guard" =>  1
+                    "Guard" => 1,
+                    "Defense Boost" => 1,
+                    "Offensive Guard" => 1
                 ],
                 80,
                 [
@@ -31803,7 +31803,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Maximum Might" =>  1
+                    "Maximum Might" => 1
                 ],
                 82,
                 [
@@ -31831,8 +31831,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Ballistics" =>  1
+                    "Constitution" => 1,
+                    "Ballistics" => 1
                 ],
                 80,
                 [
@@ -31860,7 +31860,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Guard Up" =>  2
+                    "Guard Up" => 2
                 ],
                 78,
                 [
@@ -31888,8 +31888,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Defense Boost" =>  1
+                    "Load Shells" => 1,
+                    "Defense Boost" => 1
                 ],
                 82,
                 [
@@ -31917,8 +31917,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Free Meal" =>  1
+                    "Blight Resistance" => 1,
+                    "Free Meal" => 1
                 ],
                 82,
                 [
@@ -31946,7 +31946,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Flinch Free" =>  2
+                    "Flinch Free" => 2
                 ],
                 66,
                 [
@@ -31974,9 +31974,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Focus" =>  1,
-                    "Heroics" =>  1
+                    "Dragon Attack" => 1,
+                    "Focus" => 1,
+                    "Heroics" => 1
                 ],
                 72,
                 [
@@ -32004,8 +32004,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Pierce Up" =>  1
+                    "Spread Up" => 1,
+                    "Pierce Up" => 1
                 ],
                 72,
                 [
@@ -32033,8 +32033,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Recovery Speed" =>  2
+                    "Recovery Up" => 1,
+                    "Recovery Speed" => 2
                 ],
                 72,
                 [
@@ -32062,8 +32062,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1,
-                    "Rapid Morph" =>  1
+                    "Protective Polish" => 1,
+                    "Rapid Morph" => 1
                 ],
                 72,
                 [
@@ -32091,7 +32091,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  2
+                    "Recoil Down" => 2
                 ],
                 72,
                 [
@@ -32119,7 +32119,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1
+                    "Ammo Up" => 1
                 ],
                 72,
                 [
@@ -32147,8 +32147,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Speed Eating" =>  1
+                    "Bubbly Dance" => 1,
+                    "Speed Eating" => 1
                 ],
                 72,
                 [
@@ -32176,9 +32176,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 1,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -32206,9 +32206,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  1,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 1,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 72,
                 [
@@ -32236,8 +32236,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -32265,8 +32265,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1
+                    "Evade Window" => 1,
+                    "Agitator" => 1
                 ],
                 72,
                 [
@@ -32294,7 +32294,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1
+                    "Weakness Exploit" => 1
                 ],
                 72,
                 [
@@ -32322,7 +32322,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2
+                    "Divine Blessing" => 2
                 ],
                 78,
                 [
@@ -32350,7 +32350,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1
+                    "Quick Sheathe" => 1
                 ],
                 78,
                 [
@@ -32378,8 +32378,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Critical Eye" =>  2
+                    "Constitution" => 1,
+                    "Critical Eye" => 2
                 ],
                 78,
                 [
@@ -32407,7 +32407,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  2
+                    "Marathon Runner" => 2
                 ],
                 80,
                 [
@@ -32435,8 +32435,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Critical Eye" =>  1
+                    "Evade Window" => 2,
+                    "Critical Eye" => 1
                 ],
                 80,
                 [
@@ -32464,7 +32464,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Bubbly Dance" =>  1
+                    "Bubbly Dance" => 1
                 ],
                 80,
                 [
@@ -32492,8 +32492,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1
                 ],
                 82,
                 [
@@ -32521,8 +32521,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Constitution" =>  2
+                    "Latent Power" => 1,
+                    "Constitution" => 2
                 ],
                 82,
                 [
@@ -32550,8 +32550,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1
                 ],
                 82,
                 [
@@ -32579,8 +32579,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1
                 ],
                 82,
                 [
@@ -32608,7 +32608,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  1
+                    "Blast Attack" => 1
                 ],
                 82,
                 [
@@ -32636,8 +32636,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Carving Pro" =>  1,
-                    "Botanist" =>  2
+                    "Carving Pro" => 1,
+                    "Botanist" => 2
                 ],
                 82,
                 [
@@ -32665,9 +32665,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Resentment" =>  1,
-                    "Flinch Free" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Resentment" => 1,
+                    "Flinch Free" => 1
                 ],
                 84,
                 [
@@ -32695,8 +32695,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  1,
-                    "Agitator" =>  3
+                    "Punishing Draw" => 1,
+                    "Agitator" => 3
                 ],
                 84,
                 [
@@ -32724,7 +32724,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1
+                    "Razor Sharp" => 1
                 ],
                 84,
                 [
@@ -32752,8 +32752,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Mind's Eye" =>  1
+                    "Speed Eating" => 2,
+                    "Mind's Eye" => 1
                 ],
                 84,
                 [
@@ -32781,8 +32781,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  1,
-                    "Offensive Guard" =>  1
+                    "Guard" => 1,
+                    "Offensive Guard" => 1
                 ],
                 84,
                 [
@@ -32810,8 +32810,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Stamina Surge" =>  2
+                    "Constitution" => 2,
+                    "Stamina Surge" => 2
                 ],
                 86,
                 [
@@ -32839,8 +32839,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Boost" =>  2,
-                    "Latent Power" =>  1
+                    "Critical Boost" => 2,
+                    "Latent Power" => 1
                 ],
                 90,
                 [
@@ -32868,7 +32868,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Handicraft" =>  2
+                    "Handicraft" => 2
                 ],
                 88,
                 [
@@ -32896,9 +32896,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Handicraft" =>  1,
-                    "Pierce Up" =>  1
+                    "Kushala Blessing" => 1,
+                    "Handicraft" => 1,
+                    "Pierce Up" => 1
                 ],
                 94,
                 [
@@ -32926,8 +32926,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  1,
-                    "Evade Window" =>  1
+                    "Chameleos Blessing" => 1,
+                    "Evade Window" => 1
                 ],
                 94,
                 [
@@ -32955,8 +32955,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Master's Touch" =>  1
+                    "Teostra Blessing" => 1,
+                    "Master's Touch" => 1
                 ],
                 94,
                 [
@@ -32984,8 +32984,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  2,
-                    "Guard" =>  1
+                    "Artillery" => 2,
+                    "Guard" => 1
                 ],
                 92,
                 [
@@ -33013,10 +33013,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Slugger" =>  1,
-                    "Guard Up" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Slugger" => 1,
+                    "Guard Up" => 1,
+                    "Stormsoul" => 1
                 ],
                 86,
                 [
@@ -33044,10 +33044,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Evade Window" =>  1,
-                    "Marathon Runner" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Evade Window" => 1,
+                    "Marathon Runner" => 1,
+                    "Stormsoul" => 1
                 ],
                 96,
                 [
@@ -33075,8 +33075,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resentment" =>  1
+                    "Dragonheart" => 1,
+                    "Resentment" => 1
                 ],
                 100,
                 [
@@ -33104,9 +33104,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wall Runner" =>  2,
-                    "Resuscitate" =>  1,
-                    "Affinity Sliding" =>  1
+                    "Wall Runner" => 2,
+                    "Resuscitate" => 1,
+                    "Affinity Sliding" => 1
                 ],
                 108,
                 [
@@ -33134,8 +33134,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Botanist" =>  2
+                    "Geologist" => 1,
+                    "Botanist" => 2
                 ],
                 108,
                 [
@@ -33163,8 +33163,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Stamina Surge" =>  1,
-                    "Guard" =>  2
+                    "Stamina Surge" => 1,
+                    "Guard" => 2
                 ],
                 110,
                 [
@@ -33192,9 +33192,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  1,
-                    "Attack Boost" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Stun Resistance" => 1,
+                    "Attack Boost" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 110,
                 [
@@ -33222,7 +33222,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2
+                    "Critical Eye" => 2
                 ],
                 110,
                 [
@@ -33250,9 +33250,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Muck Resistance" =>  2,
-                    "Focus" =>  1,
-                    "Punishing Draw" =>  1
+                    "Muck Resistance" => 2,
+                    "Focus" => 1,
+                    "Punishing Draw" => 1
                 ],
                 110,
                 [
@@ -33280,8 +33280,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Pierce Up" =>  1,
-                    "Tremor Resistance" =>  1
+                    "Pierce Up" => 1,
+                    "Tremor Resistance" => 1
                 ],
                 118,
                 [
@@ -33309,7 +33309,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Water Attack" =>  3
+                    "Water Attack" => 3
                 ],
                 118,
                 [
@@ -33337,8 +33337,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Recoil Down" =>  1,
-                    "Steadiness" =>  2
+                    "Recoil Down" => 1,
+                    "Steadiness" => 2
                 ],
                 112,
                 [
@@ -33366,9 +33366,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Steadiness" =>  1,
-                    "Recovery Up" =>  1
+                    "Resuscitate" => 1,
+                    "Steadiness" => 1,
+                    "Recovery Up" => 1
                 ],
                 114,
                 [
@@ -33396,8 +33396,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Wirebug Whisperer" =>  1
+                    "Quick Sheathe" => 1,
+                    "Wirebug Whisperer" => 1
                 ],
                 112,
                 [
@@ -33425,8 +33425,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Master Mounter" =>  1,
-                    "Wall Runner" =>  2
+                    "Master Mounter" => 1,
+                    "Wall Runner" => 2
                 ],
                 118,
                 [
@@ -33454,8 +33454,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Windproof" =>  2,
-                    "Stun Resistance" =>  2
+                    "Windproof" => 2,
+                    "Stun Resistance" => 2
                 ],
                 114,
                 [
@@ -33483,9 +33483,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Speed" =>  1,
-                    "Constitution" =>  2,
-                    "Evade Window" =>  1
+                    "Recovery Speed" => 1,
+                    "Constitution" => 2,
+                    "Evade Window" => 1
                 ],
                 114,
                 [
@@ -33513,8 +33513,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Ice Resistance" =>  2
+                    "Attack Boost" => 2,
+                    "Ice Resistance" => 2
                 ],
                 114,
                 [
@@ -33542,8 +33542,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Stun Resistance" =>  2,
-                    "Critical Eye" =>  2
+                    "Stun Resistance" => 2,
+                    "Critical Eye" => 2
                 ],
                 114,
                 [
@@ -33571,7 +33571,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Extender" =>  2
+                    "Evade Extender" => 2
                 ],
                 116,
                 [
@@ -33599,7 +33599,7 @@ final class MHService
                     1
                 ],
                 [
-                    "Speed Eating" =>  1
+                    "Speed Eating" => 1
                 ],
                 114,
                 [
@@ -33627,10 +33627,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Jump Master" =>  1,
-                    "Critical Eye" =>  1,
-                    "Master's Touch" =>  1,
-                    "Reload Speed" =>  1
+                    "Jump Master" => 1,
+                    "Critical Eye" => 1,
+                    "Master's Touch" => 1,
+                    "Reload Speed" => 1
                 ],
                 114,
                 [
@@ -33658,8 +33658,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  2,
-                    "Evade Extender" =>  2
+                    "Rapid Morph" => 2,
+                    "Evade Extender" => 2
                 ],
                 122,
                 [
@@ -33687,9 +33687,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Fire Attack" =>  2,
-                    "Critical Draw" =>  1
+                    "Peak Performance" => 1,
+                    "Fire Attack" => 2,
+                    "Critical Draw" => 1
                 ],
                 116,
                 [
@@ -33717,8 +33717,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Power Prolonger" =>  2,
-                    "Focus" =>  1
+                    "Power Prolonger" => 2,
+                    "Focus" => 1
                 ],
                 120,
                 [
@@ -33746,9 +33746,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Defense Boost" =>  1,
-                    "Offensive Guard" =>  1
+                    "Guard" => 2,
+                    "Defense Boost" => 1,
+                    "Offensive Guard" => 1
                 ],
                 122,
                 [
@@ -33776,9 +33776,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Tune-Up" =>  1,
-                    "Handicraft" =>  1,
-                    "Tremor Resistance" =>  1
+                    "Tune-Up" => 1,
+                    "Handicraft" => 1,
+                    "Tremor Resistance" => 1
                 ],
                 122,
                 [
@@ -33806,9 +33806,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hunger Resistance" =>  2,
-                    "Heroics" =>  1,
-                    "Speed Eating" =>  1
+                    "Hunger Resistance" => 2,
+                    "Heroics" => 1,
+                    "Speed Eating" => 1
                 ],
                 118,
                 [
@@ -33836,8 +33836,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  2,
-                    "Critical Eye" =>  2
+                    "Attack Boost" => 2,
+                    "Critical Eye" => 2
                 ],
                 114,
                 [
@@ -33865,9 +33865,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1,
-                    "Mind's Eye" =>  2
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1,
+                    "Mind's Eye" => 2
                 ],
                 118,
                 [
@@ -33895,9 +33895,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Poison Resistance" =>  1,
-                    "Mind's Eye" =>  2
+                    "Latent Power" => 1,
+                    "Poison Resistance" => 1,
+                    "Mind's Eye" => 2
                 ],
                 118,
                 [
@@ -33925,8 +33925,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Poison Resistance" =>  1,
-                    "Speed Eating" =>  2
+                    "Poison Resistance" => 1,
+                    "Speed Eating" => 2
                 ],
                 116,
                 [
@@ -33954,8 +33954,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Spread Up" =>  1,
-                    "Pierce Up" =>  2
+                    "Spread Up" => 1,
+                    "Pierce Up" => 2
                 ],
                 116,
                 [
@@ -33983,9 +33983,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Recovery Up" =>  1,
-                    "Recovery Speed" =>  2,
-                    "Stamina Surge" =>  1
+                    "Recovery Up" => 1,
+                    "Recovery Speed" => 2,
+                    "Stamina Surge" => 1
                 ],
                 112,
                 [
@@ -34013,8 +34013,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Hellfire Cloak" =>  1
+                    "Divine Blessing" => 2,
+                    "Hellfire Cloak" => 1
                 ],
                 120,
                 [
@@ -34042,8 +34042,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  2,
-                    "Critical Boost" =>  1
+                    "Razor Sharp" => 2,
+                    "Critical Boost" => 1
                 ],
                 116,
                 [
@@ -34071,9 +34071,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Evade Window" =>  1,
-                    "Recovery Up" =>  2
+                    "Critical Eye" => 1,
+                    "Evade Window" => 1,
+                    "Recovery Up" => 2
                 ],
                 112,
                 [
@@ -34101,9 +34101,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Focus" =>  1,
-                    "Slugger" =>  2,
-                    "Recovery Speed" =>  2
+                    "Focus" => 1,
+                    "Slugger" => 2,
+                    "Recovery Speed" => 2
                 ],
                 116,
                 [
@@ -34131,10 +34131,10 @@ final class MHService
                     1
                 ],
                 [
-                    "Maximum Might" =>  1,
-                    "Master's Touch" =>  1,
-                    "Speed Eating" =>  1,
-                    "Spare Shot" =>  1
+                    "Maximum Might" => 1,
+                    "Master's Touch" => 1,
+                    "Speed Eating" => 1,
+                    "Spare Shot" => 1
                 ],
                 116,
                 [
@@ -34162,9 +34162,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Protective Polish" =>  2,
-                    "Spread Up" =>  1
+                    "Quick Sheathe" => 1,
+                    "Protective Polish" => 2,
+                    "Spread Up" => 1
                 ],
                 116,
                 [
@@ -34192,8 +34192,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Ballistics" =>  1
+                    "Constitution" => 2,
+                    "Ballistics" => 1
                 ],
                 116,
                 [
@@ -34221,8 +34221,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Guard Up" =>  2,
-                    "Resentment" =>  1
+                    "Guard Up" => 2,
+                    "Resentment" => 1
                 ],
                 116,
                 [
@@ -34250,10 +34250,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Load Shells" =>  1,
-                    "Defense Boost" =>  2,
-                    "Latent Power" =>  2,
-                    "Reload Speed" =>  1
+                    "Load Shells" => 1,
+                    "Defense Boost" => 2,
+                    "Latent Power" => 2,
+                    "Reload Speed" => 1
                 ],
                 120,
                 [
@@ -34281,8 +34281,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Sleep Resistance" =>  1
+                    "Divine Blessing" => 2,
+                    "Sleep Resistance" => 1
                 ],
                 116,
                 [
@@ -34310,9 +34310,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Element" =>  1,
-                    "Agitator" =>  1,
-                    "Ice Attack" =>  2
+                    "Critical Element" => 1,
+                    "Agitator" => 1,
+                    "Ice Attack" => 2
                 ],
                 124,
                 [
@@ -34340,9 +34340,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blight Resistance" =>  1,
-                    "Free Meal" =>  1,
-                    "Agitator" =>  1
+                    "Blight Resistance" => 1,
+                    "Free Meal" => 1,
+                    "Agitator" => 1
                 ],
                 116,
                 [
@@ -34370,9 +34370,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  1,
-                    "Critical Eye" =>  2,
-                    "Critical Element" =>  1
+                    "Constitution" => 1,
+                    "Critical Eye" => 2,
+                    "Critical Element" => 1
                 ],
                 116,
                 [
@@ -34400,8 +34400,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  2,
-                    "Agitator" =>  2
+                    "Marathon Runner" => 2,
+                    "Agitator" => 2
                 ],
                 118,
                 [
@@ -34429,9 +34429,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragon Attack" =>  1,
-                    "Focus" =>  2,
-                    "Heroics" =>  2
+                    "Dragon Attack" => 1,
+                    "Focus" => 2,
+                    "Heroics" => 2
                 ],
                 120,
                 [
@@ -34459,8 +34459,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Ammo Up" =>  1,
-                    "Hunger Resistance" =>  1
+                    "Ammo Up" => 1,
+                    "Hunger Resistance" => 1
                 ],
                 116,
                 [
@@ -34488,8 +34488,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Tune-Up" =>  1,
-                    "Steadiness" =>  2
+                    "Tune-Up" => 1,
+                    "Steadiness" => 2
                 ],
                 116,
                 [
@@ -34517,9 +34517,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Protective Polish" =>  1,
-                    "Rapid Morph" =>  1,
-                    "Attack Boost" =>  1
+                    "Protective Polish" => 1,
+                    "Rapid Morph" => 1,
+                    "Attack Boost" => 1
                 ],
                 126,
                 [
@@ -34547,9 +34547,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bubbly Dance" =>  2,
-                    "Speed Eating" =>  1,
-                    "Resuscitate" =>  1
+                    "Bubbly Dance" => 2,
+                    "Speed Eating" => 1,
+                    "Resuscitate" => 1
                 ],
                 120,
                 [
@@ -34577,9 +34577,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1,
-                    "Evade Window" =>  1
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1,
+                    "Evade Window" => 1
                 ],
                 126,
                 [
@@ -34607,9 +34607,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  2,
-                    "Dragon Attack" =>  1,
-                    "Evade Window" =>  1
+                    "Critical Eye" => 2,
+                    "Dragon Attack" => 1,
+                    "Evade Window" => 1
                 ],
                 126,
                 [
@@ -34637,9 +34637,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Spare Shot" =>  3,
-                    "Special Ammo Boost" =>  1,
-                    "Artillery" =>  1
+                    "Spare Shot" => 3,
+                    "Special Ammo Boost" => 1,
+                    "Artillery" => 1
                 ],
                 122,
                 [
@@ -34667,8 +34667,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Mushroomancer" =>  1
+                    "Divine Blessing" => 2,
+                    "Mushroomancer" => 1
                 ],
                 120,
                 [
@@ -34696,8 +34696,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Divine Blessing" =>  2,
-                    "Mushroomancer" =>  1
+                    "Divine Blessing" => 2,
+                    "Mushroomancer" => 1
                 ],
                 120,
                 [
@@ -34725,8 +34725,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard" =>  2,
-                    "Earplugs" =>  1
+                    "Guard" => 2,
+                    "Earplugs" => 1
                 ],
                 124,
                 [
@@ -34754,9 +34754,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Carving Pro" =>  1,
-                    "Botanist" =>  2,
-                    "Marathon Runner" =>  2
+                    "Carving Pro" => 1,
+                    "Botanist" => 2,
+                    "Marathon Runner" => 2
                 ],
                 122,
                 [
@@ -34784,9 +34784,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  1,
-                    "Partbreaker" =>  1,
-                    "Ice Attack" =>  2
+                    "Quick Sheathe" => 1,
+                    "Partbreaker" => 1,
+                    "Ice Attack" => 2
                 ],
                 124,
                 [
@@ -34814,9 +34814,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  1,
-                    "Resentment" =>  2,
-                    "Flinch Free" =>  1
+                    "Hellfire Cloak" => 1,
+                    "Resentment" => 2,
+                    "Flinch Free" => 1
                 ],
                 126,
                 [
@@ -34844,9 +34844,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Evade Window" =>  2,
-                    "Critical Eye" =>  2,
-                    "Constitution" =>  1
+                    "Evade Window" => 2,
+                    "Critical Eye" => 2,
+                    "Constitution" => 1
                 ],
                 124,
                 [
@@ -34874,9 +34874,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Punishing Draw" =>  1,
-                    "Agitator" =>  3,
-                    "Ballistics" =>  1
+                    "Punishing Draw" => 1,
+                    "Agitator" => 3,
+                    "Ballistics" => 1
                 ],
                 122,
                 [
@@ -34904,9 +34904,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Charge Master" =>  1,
-                    "Slugger" =>  2,
-                    "Stamina Thief" =>  2
+                    "Charge Master" => 1,
+                    "Slugger" => 2,
+                    "Stamina Thief" => 2
                 ],
                 128,
                 [
@@ -34934,10 +34934,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Eye" =>  1,
-                    "Marathon Runner" =>  1,
-                    "Handicraft" =>  2,
-                    "Pierce Up" =>  2
+                    "Critical Eye" => 1,
+                    "Marathon Runner" => 1,
+                    "Handicraft" => 2,
+                    "Pierce Up" => 2
                 ],
                 124,
                 [
@@ -34965,9 +34965,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  1,
-                    "Evade Window" =>  1,
-                    "Spare Shot" =>  1
+                    "Razor Sharp" => 1,
+                    "Evade Window" => 1,
+                    "Spare Shot" => 1
                 ],
                 124,
                 [
@@ -34995,8 +34995,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Resuscitate" =>  1,
-                    "Resentment" =>  1
+                    "Resuscitate" => 1,
+                    "Resentment" => 1
                 ],
                 128,
                 [
@@ -35024,8 +35024,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  3,
-                    "Stamina Surge" =>  2
+                    "Constitution" => 3,
+                    "Stamina Surge" => 2
                 ],
                 124,
                 [
@@ -35053,8 +35053,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Peak Performance" =>  1,
-                    "Blast Resistance" =>  2
+                    "Peak Performance" => 1,
+                    "Blast Resistance" => 2
                 ],
                 128,
                 [
@@ -35082,7 +35082,7 @@ final class MHService
                     0
                 ],
                 [
-                    "Flinch Free" =>  2
+                    "Flinch Free" => 2
                 ],
                 126,
                 [
@@ -35110,9 +35110,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Grinder (S)" =>  1,
-                    "Latent Power" =>  1,
-                    "Attack Boost" =>  2
+                    "Grinder (S)" => 1,
+                    "Latent Power" => 1,
+                    "Attack Boost" => 2
                 ],
                 128,
                 [
@@ -35140,9 +35140,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Partbreaker" =>  1,
-                    "Counterstrike" =>  1,
-                    "Good Luck" =>  1
+                    "Partbreaker" => 1,
+                    "Counterstrike" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -35170,9 +35170,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  2,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 2,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -35200,9 +35200,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Wide-Range" =>  2,
-                    "Free Meal" =>  1,
-                    "Good Luck" =>  1
+                    "Wide-Range" => 2,
+                    "Free Meal" => 1,
+                    "Good Luck" => 1
                 ],
                 126,
                 [
@@ -35230,9 +35230,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1,
-                    "Attack Boost" =>  2
+                    "Evade Window" => 1,
+                    "Agitator" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -35260,9 +35260,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Evade Window" =>  1,
-                    "Agitator" =>  1,
-                    "Attack Boost" =>  2
+                    "Evade Window" => 1,
+                    "Agitator" => 1,
+                    "Attack Boost" => 2
                 ],
                 126,
                 [
@@ -35290,9 +35290,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guard Up" =>  1,
-                    "Quick Sheathe" =>  2,
-                    "Razor Sharp" =>  2
+                    "Guard Up" => 1,
+                    "Quick Sheathe" => 2,
+                    "Razor Sharp" => 2
                 ],
                 130,
                 [
@@ -35320,9 +35320,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1,
-                    "Good Luck" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Capture Master" => 1,
+                    "Good Luck" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 126,
                 [
@@ -35350,9 +35350,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Capture Master" =>  1,
-                    "Good Luck" =>  1,
-                    "Weakness Exploit" =>  1
+                    "Capture Master" => 1,
+                    "Good Luck" => 1,
+                    "Weakness Exploit" => 1
                 ],
                 126,
                 [
@@ -35380,9 +35380,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Rapid Morph" =>  1,
-                    "Power Prolonger" =>  1,
-                    "Razor Sharp" =>  1
+                    "Rapid Morph" => 1,
+                    "Power Prolonger" => 1,
+                    "Razor Sharp" => 1
                 ],
                 128,
                 [
@@ -35410,8 +35410,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Weakness Exploit" =>  1,
-                    "Poison Resistance" =>  2
+                    "Weakness Exploit" => 1,
+                    "Poison Resistance" => 2
                 ],
                 128,
                 [
@@ -35439,9 +35439,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Bubbly Dance" =>  1,
-                    "Evade Window" =>  1,
-                    "Constitution" =>  1
+                    "Bubbly Dance" => 1,
+                    "Evade Window" => 1,
+                    "Constitution" => 1
                 ],
                 130,
                 [
@@ -35469,9 +35469,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Partbreaker" =>  1,
-                    "Earplugs" =>  2
+                    "Attack Boost" => 1,
+                    "Partbreaker" => 1,
+                    "Earplugs" => 2
                 ],
                 130,
                 [
@@ -35499,9 +35499,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Latent Power" =>  1,
-                    "Constitution" =>  3,
-                    "Wirebug Whisperer" =>  1
+                    "Latent Power" => 1,
+                    "Constitution" => 3,
+                    "Wirebug Whisperer" => 1
                 ],
                 132,
                 [
@@ -35529,8 +35529,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Latent Power" =>  3,
-                    "Redirection" =>  1
+                    "Latent Power" => 3,
+                    "Redirection" => 1
                 ],
                 130,
                 [
@@ -35558,9 +35558,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Razor Sharp" =>  3,
-                    "Spare Shot" =>  3,
-                    "Thunder Attack" =>  3
+                    "Razor Sharp" => 3,
+                    "Spare Shot" => 3,
+                    "Thunder Attack" => 3
                 ],
                 130,
                 [
@@ -35588,9 +35588,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Foray" =>  1,
-                    "Flinch Free" =>  2,
-                    "Poison Attack" =>  3
+                    "Foray" => 1,
+                    "Flinch Free" => 2,
+                    "Poison Attack" => 3
                 ],
                 132,
                 [
@@ -35618,8 +35618,8 @@ final class MHService
                     1
                 ],
                 [
-                    "Agitator" =>  3,
-                    "Speed Eating" =>  1
+                    "Agitator" => 3,
+                    "Speed Eating" => 1
                 ],
                 128,
                 [
@@ -35647,8 +35647,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Bladescale Hone" =>  1,
-                    "Evade Extender" =>  2
+                    "Bladescale Hone" => 1,
+                    "Evade Extender" => 2
                 ],
                 130,
                 [
@@ -35676,9 +35676,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Speed Eating" =>  2,
-                    "Mind's Eye" =>  2,
-                    "Normal/Rapid Up" =>  1
+                    "Speed Eating" => 2,
+                    "Mind's Eye" => 2,
+                    "Normal/Rapid Up" => 1
                 ],
                 134,
                 [
@@ -35706,8 +35706,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Tremor Resistance" =>  2
+                    "Heroics" => 2,
+                    "Tremor Resistance" => 2
                 ],
                 134,
                 [
@@ -35735,9 +35735,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Handicraft" =>  2,
-                    "Ammo Up" =>  2,
-                    "Blight Resistance" =>  1
+                    "Handicraft" => 2,
+                    "Ammo Up" => 2,
+                    "Blight Resistance" => 1
                 ],
                 128,
                 [
@@ -35765,9 +35765,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Blast Attack" =>  1,
-                    "Charge Master" =>  1,
-                    "Slugger" =>  1
+                    "Blast Attack" => 1,
+                    "Charge Master" => 1,
+                    "Slugger" => 1
                 ],
                 128,
                 [
@@ -35795,8 +35795,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Marathon Runner" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -35824,8 +35824,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  3,
-                    "Hunger Resistance" =>  1
+                    "Marathon Runner" => 3,
+                    "Hunger Resistance" => 1
                 ],
                 128,
                 [
@@ -35853,8 +35853,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Item Prolonger" =>  3,
-                    "Wide-Range" =>  2
+                    "Item Prolonger" => 3,
+                    "Wide-Range" => 2
                 ],
                 128,
                 [
@@ -35882,8 +35882,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Constitution" =>  2,
-                    "Good Luck" =>  1
+                    "Constitution" => 2,
+                    "Good Luck" => 1
                 ],
                 128,
                 [
@@ -35911,8 +35911,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Marathon Runner" =>  3,
-                    "Evade Window" =>  1
+                    "Marathon Runner" => 3,
+                    "Evade Window" => 1
                 ],
                 128,
                 [
@@ -35940,8 +35940,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Heroics" =>  2,
-                    "Coalescence" =>  2
+                    "Heroics" => 2,
+                    "Coalescence" => 2
                 ],
                 132,
                 [
@@ -35969,9 +35969,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Kushala Blessing" =>  1,
-                    "Handicraft" =>  1,
-                    "Normal/Rapid Up" =>  1
+                    "Kushala Blessing" => 1,
+                    "Handicraft" => 1,
+                    "Normal/Rapid Up" => 1
                 ],
                 134,
                 [
@@ -35999,9 +35999,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Chameleos Blessing" =>  2,
-                    "Peak Performance" =>  1,
-                    "Poison Attack" =>  1
+                    "Chameleos Blessing" => 2,
+                    "Peak Performance" => 1,
+                    "Poison Attack" => 1
                 ],
                 134,
                 [
@@ -36029,9 +36029,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Teostra Blessing" =>  1,
-                    "Master's Touch" =>  1,
-                    "Critical Boost" =>  1
+                    "Teostra Blessing" => 1,
+                    "Master's Touch" => 1,
+                    "Critical Boost" => 1
                 ],
                 134,
                 [
@@ -36059,9 +36059,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Blight Resistance" =>  2,
-                    "Weakness Exploit" =>  1,
-                    "Attack Boost" =>  1
+                    "Blight Resistance" => 2,
+                    "Weakness Exploit" => 1,
+                    "Attack Boost" => 1
                 ],
                 134,
                 [
@@ -36089,9 +36089,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Bloodlust" => 1,
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 134,
                 [
@@ -36119,9 +36119,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Bloodlust" =>  1,
-                    "Razor Sharp" =>  1,
-                    "Spare Shot" =>  1
+                    "Bloodlust" => 1,
+                    "Razor Sharp" => 1,
+                    "Spare Shot" => 1
                 ],
                 134,
                 [
@@ -36149,9 +36149,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Boost" =>  2,
-                    "Latent Power" =>  1,
-                    "Flinch Free" =>  2
+                    "Critical Boost" => 2,
+                    "Latent Power" => 1,
+                    "Flinch Free" => 2
                 ],
                 130,
                 [
@@ -36179,9 +36179,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Artillery" =>  2,
-                    "Guard" =>  1,
-                    "Agitator" =>  1
+                    "Artillery" => 2,
+                    "Guard" => 1,
+                    "Agitator" => 1
                 ],
                 132,
                 [
@@ -36209,8 +36209,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Critical Draw" =>  2,
-                    "Quick Sheathe" =>  1
+                    "Critical Draw" => 2,
+                    "Quick Sheathe" => 1
                 ],
                 130,
                 [
@@ -36238,8 +36238,8 @@ final class MHService
                     2
                 ],
                 [
-                    "Dereliction" =>  1,
-                    "Resentment" =>  1
+                    "Dereliction" => 1,
+                    "Resentment" => 1
                 ],
                 138,
                 [
@@ -36267,10 +36267,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Wind Alignment" =>  1,
-                    "Slugger" =>  1,
-                    "Guard Up" =>  1,
-                    "Stormsoul" =>  1
+                    "Wind Alignment" => 1,
+                    "Slugger" => 1,
+                    "Guard Up" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -36298,10 +36298,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Thunder Alignment" =>  1,
-                    "Evade Window" =>  1,
-                    "Marathon Runner" =>  1,
-                    "Stormsoul" =>  1
+                    "Thunder Alignment" => 1,
+                    "Evade Window" => 1,
+                    "Marathon Runner" => 1,
+                    "Stormsoul" => 1
                 ],
                 134,
                 [
@@ -36329,8 +36329,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Furious" =>  1,
-                    "Evade Extender" =>  2
+                    "Furious" => 1,
+                    "Evade Extender" => 2
                 ],
                 134,
                 [
@@ -36358,8 +36358,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Dragonheart" =>  1,
-                    "Resentment" =>  3
+                    "Dragonheart" => 1,
+                    "Resentment" => 3
                 ],
                 136,
                 [
@@ -36387,9 +36387,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Hellfire Cloak" =>  2,
-                    "Counterstrike" =>  2,
-                    "Wirebug Whisperer" =>  1
+                    "Hellfire Cloak" => 2,
+                    "Counterstrike" => 2,
+                    "Wirebug Whisperer" => 1
                 ],
                 136,
                 [
@@ -36417,9 +36417,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Guts" =>  1,
-                    "Stamina Surge" =>  2,
-                    "Stamina Thief" =>  3
+                    "Guts" => 1,
+                    "Stamina Surge" => 2,
+                    "Stamina Thief" => 3
                 ],
                 135,
                 [
@@ -36447,9 +36447,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Defiance" =>  3,
-                    "Peak Performance" =>  2,
-                    "Recovery Up" =>  2
+                    "Defiance" => 3,
+                    "Peak Performance" => 2,
+                    "Recovery Up" => 2
                 ],
                 132,
                 [
@@ -36477,9 +36477,9 @@ final class MHService
                     1
                 ],
                 [
-                    "Critical Boost" =>  1,
-                    "Redirection" =>  1,
-                    "Maximum Might" =>  2
+                    "Critical Boost" => 1,
+                    "Redirection" => 1,
+                    "Maximum Might" => 2
                 ],
                 134,
                 [
@@ -36507,10 +36507,10 @@ final class MHService
                     0
                 ],
                 [
-                    "Sneak Attack" =>  1,
-                    "Adrenaline Rush" =>  1,
-                    "Handicraft" =>  2,
-                    "Ammo Up" =>  2
+                    "Sneak Attack" => 1,
+                    "Adrenaline Rush" => 1,
+                    "Handicraft" => 2,
+                    "Ammo Up" => 2
                 ],
                 130,
                 [
@@ -36538,8 +36538,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Geologist" =>  1,
-                    "Carving Pro" =>  1
+                    "Geologist" => 1,
+                    "Carving Pro" => 1
                 ],
                 24,
                 [
@@ -36567,8 +36567,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Flinch Free" =>  1
+                    "Attack Boost" => 1,
+                    "Flinch Free" => 1
                 ],
                 36,
                 [
@@ -36596,8 +36596,8 @@ final class MHService
                     0
                 ],
                 [
-                    "Quick Sheathe" =>  2,
-                    "Focus" =>  1
+                    "Quick Sheathe" => 2,
+                    "Focus" => 1
                 ],
                 92,
                 [
@@ -36625,9 +36625,9 @@ final class MHService
                     0
                 ],
                 [
-                    "Attack Boost" =>  1,
-                    "Flinch Free" =>  1,
-                    "Recovery Up" =>  1
+                    "Attack Boost" => 1,
+                    "Flinch Free" => 1,
+                    "Recovery Up" => 1
                 ],
                 72,
                 [

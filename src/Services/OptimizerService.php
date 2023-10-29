@@ -2,7 +2,12 @@
 
 namespace App\Services;
 
+use App\Enum\Skills;
 use drupol\phpermutations\Generators\Permutations;
+use Symfony\Component\HttpFoundation\BinaryFileResponse;
+use Symfony\Component\HttpFoundation\HeaderUtils;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\ResponseHeaderBag;
 
 final class OptimizerService
 {
@@ -165,6 +170,21 @@ final class OptimizerService
         return $quriousItem;
     }
 
+    public function getCombinations($arrays)
+    {
+        $result = [[]];
+        foreach ($arrays as $property => $property_values) {
+            $tmp = [];
+            foreach ($result as $result_item) {
+                foreach ($property_values as $property_value) {
+                    $tmp[] = array_merge($result_item, [$property => $property_value]);
+                }
+            }
+            $result = $tmp;
+        }
+        return $result;
+    }
+
     public function getPossibleSlot($slots, $value)
     {
         $possibleSlot = 0;
@@ -189,21 +209,6 @@ final class OptimizerService
         return $n;
     }
 
-    public function getCombinations($arrays)
-    {
-        $result = [[]];
-        foreach ($arrays as $property => $property_values) {
-            $tmp = [];
-            foreach ($result as $result_item) {
-                foreach ($property_values as $property_value) {
-                    $tmp[] = array_merge($result_item, [$property => $property_value]);
-                }
-            }
-            $result = $tmp;
-        }
-        return $result;
-    }
-
     public function imitateMerge($array1, $array2)
     {
         foreach ($array2 as $i) {
@@ -219,5 +224,24 @@ final class OptimizerService
         $permutations = new Permutations($array, 3);
 
         return array_unique($permutations->toArray(), SORT_REGULAR);
+    }
+
+    public function getCharms(): string
+    {
+        $charms = [];
+
+        foreach (Skills::FIRST_SKILLS as $firstSkill) {
+            foreach (Skills::SECOND_SKILLS as $secondSkill) {
+                // We can't generate a charm with the same skill two times
+                if (substr($firstSkill, 0, strpos($firstSkill, ',')) == substr($secondSkill, 0, strpos($secondSkill, ','))) {
+                    continue;
+                }
+
+                $charms[] = $firstSkill . ',' . $secondSkill . ',3, 1, 1';
+                $charms[] = $firstSkill . ',' . $secondSkill . ',4, 0, 0';
+            }
+        }
+
+        return implode(PHP_EOL, $charms);
     }
 }
