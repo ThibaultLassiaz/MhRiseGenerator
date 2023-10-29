@@ -21,3 +21,19 @@ php bin\console app:generate-charms > output.txt
 ```
 
 Generate Qurious Armor
+
+
+--- 
+
+## Dev
+### Static analysis
+
+```Bash
+composer run phpstan
+```
+
+### Linter
+
+```Bash
+composer run linter
+```

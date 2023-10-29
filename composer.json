@@ -87,7 +87,9 @@
         ],
         "post-update-cmd": [
             "@auto-scripts"
-        ]
+        ],
+        "phpstan" : "vendor/bin/phpstan analyse src tests",
+        "linter": "php vendor/bin/php-cs-fixer fix"
     },
     "conflict": {
         "symfony/symfony": "*"
@@ -99,6 +101,8 @@
         }
     },
     "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.37",
+        "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "^9.5",
         "symfony/browser-kit": "6.0.*",
         "symfony/css-selector": "6.0.*",
