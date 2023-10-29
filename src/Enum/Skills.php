@@ -4,7 +4,7 @@ namespace App\Enum;
 
 class Skills
 {
-    const FIRST_SKILLS = [
+    public const FIRST_SKILLS = [
         'Attack Boost,3',
         'Spread Up,2',
         'Normal/Rapid Up,2',
@@ -17,10 +17,10 @@ class Skills
         'Chain Crit,2',
         'Agitator,3',
         'Divine Blessing, 3',
-        'Evade Window, 3'
+        'Evade Window, 3',
     ];
 
-    const SECOND_SKILLS = [
+    public const SECOND_SKILLS = [
         'Attack Boost,2',
         'Spread Up,1',
         'Normal/Rapid Up,2',
@@ -33,6 +33,6 @@ class Skills
         'Chain Crit,2',
         'Agitator,2',
         'Divine Blessing, 2',
-        'Evade Window, 2'
+        'Evade Window, 2',
     ];
 }

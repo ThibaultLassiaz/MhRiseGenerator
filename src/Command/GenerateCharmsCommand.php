@@ -2,7 +2,6 @@
 
 namespace App\Command;
 
-use App\Services\MHService;
 use App\Services\OptimizerService;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -25,7 +24,6 @@ class GenerateCharmsCommand extends Command
         $this
             ->setName('app:generate-charms')
             ->setDescription('Compute every possible charm with a given set of skills');
-//            ->addArgument('strings', InputArgument::IS_ARRAY, 'An array of strings');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

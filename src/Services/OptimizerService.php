@@ -4,23 +4,18 @@ namespace App\Services;
 
 use App\Enum\Skills;
 use drupol\phpermutations\Generators\Permutations;
-use Symfony\Component\HttpFoundation\BinaryFileResponse;
-use Symfony\Component\HttpFoundation\HeaderUtils;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\HttpFoundation\ResponseHeaderBag;
 
 final class OptimizerService
 {
-
     public function openFile($fileName, $fileType, $path)
     {
-        $filePath = $path . $fileName;
+        $filePath = $path.$fileName;
 
-        if ($fileType == "csv") {
+        if ('csv' == $fileType) {
             return array_map('str_getcsv', file($filePath));
         }
 
-        return (array)json_decode(file_get_contents($filePath));
+        return (array) json_decode(file_get_contents($filePath));
     }
 
     public function generatePools($requiredSkills, $skillBudget)
@@ -31,9 +26,9 @@ final class OptimizerService
                 $skillTab[$skill[1]][] = $skill[2];
             }
         }
-        $skillTab["18"][] = "Upgrade Slot 3";
-        $skillTab["12"][] = "Upgrade Slot 2";
-        $skillTab["6"][] = "Upgrade Slot 1";
+        $skillTab['18'][] = 'Upgrade Slot 3';
+        $skillTab['12'][] = 'Upgrade Slot 2';
+        $skillTab['6'][] = 'Upgrade Slot 1';
 
         return $skillTab;
     }
@@ -42,67 +37,66 @@ final class OptimizerService
     {
         $operations = 0;
         $itemToAdd = [];
-        $itemToAdd["itemName"] = $item->name;
+        $itemToAdd['itemName'] = $item->name;
 
         foreach ($item->skills as $skillName => $value) {
             $counter = 0;
-            if (array_key_exists($skillName, $requiredSkills) || $skillName == "Stamina Surge" || $skillName == "Constitution" || $skillName == "Element Exploit") {
+            if (array_key_exists($skillName, $requiredSkills) || 'Stamina Surge' == $skillName || 'Constitution' == $skillName || 'Element Exploit' == $skillName) {
                 continue;
             }
 
-            for ($i = 0; $i < $value; $i++) {
-
+            for ($i = 0; $i < $value; ++$i) {
                 if ($operations >= 3) {
                     continue;
                 }
-                $counter++;
-                $operations++;
+                ++$counter;
+                ++$operations;
                 $budget += 10;
             }
 
             if ($counter) {
-                $itemToAdd["skills"][$skillName] = "-" . $counter;
+                $itemToAdd['skills'][$skillName] = '-'.$counter;
             }
         }
-        if ($operations == 0) {
+        if (0 == $operations) {
             $budget += 10;
             $operations += 3;
-            $itemToAdd["Armor"] = "-12";
-            $itemToAdd["Res Elem"][] = "-3";
-            $itemToAdd["Res Elem"][] = "-3";
+            $itemToAdd['Armor'] = '-12';
+            $itemToAdd['Res Elem'][] = '-3';
+            $itemToAdd['Res Elem'][] = '-3';
         }
 
-        if ($operations == 1) {
+        if (1 == $operations) {
             $budget += 8;
             $operations += 2;
-            $itemToAdd["Armor"] = "-12";
-            $itemToAdd["Res Elem"][] = "-3";
+            $itemToAdd['Armor'] = '-12';
+            $itemToAdd['Res Elem'][] = '-3';
         }
 
-        if ($operations == 2) {
+        if (2 == $operations) {
             $budget += 5;
-            $operations += 1;
-            $itemToAdd["Armor"] = "-12";
+            ++$operations;
+            $itemToAdd['Armor'] = '-12';
         }
 
         $itemToAdd[] = $operations;
         $itemToAdd[] = $budget;
 
         return [
-            "itemToAdd" => $itemToAdd,
-            "operations" => $operations,
-            "budget" => $budget
+            'itemToAdd' => $itemToAdd,
+            'operations' => $operations,
+            'budget' => $budget,
         ];
     }
 
     public function combinationSum4($nums, $sumSoFar, $target, $puitAtm, $nbSkilltoAdd, &$rep = [])
     {
-        for ($i = $target; $i < count($nums); $i++) {
+        for ($i = $target; $i < count($nums); ++$i) {
             $puit = $puitAtm;
             $sum = $sumSoFar;
 
             while ($sum > 0) {
-                if ($puit !== NULL) {
+                if (null !== $puit) {
                     $puit[] = $nums[$i];
                 }
 
@@ -112,7 +106,7 @@ final class OptimizerService
                 }
             }
 
-            if ($sum == 0 && count($puit) <= $nbSkilltoAdd) {
+            if (0 == $sum && count($puit) <= $nbSkilltoAdd) {
                 $rep[] = $puit;
             }
         }
@@ -124,8 +118,8 @@ final class OptimizerService
     {
         foreach ($combinations as $key => $combination) {
             // We only remove 18 here cause there is no skill that is 18 so only slots
-            if (isset(array_count_values($combination)["18"])) {
-                if (array_count_values($combination)["18"] > $possibleSlots["18"]) {
+            if (isset(array_count_values($combination)['18'])) {
+                if (array_count_values($combination)['18'] > $possibleSlots['18']) {
                     continue;
                 }
             }
@@ -138,7 +132,7 @@ final class OptimizerService
             $flag = true;
 
             foreach ($skillPuit as $puitValue) {
-                if ($puitValue == 3 && !array_key_exists($puitValue, $skillTab)) {
+                if (3 == $puitValue && !array_key_exists($puitValue, $skillTab)) {
                     $flag = false;
                     continue;
                 }
@@ -154,7 +148,7 @@ final class OptimizerService
             $flag = false;
             $skills = array_count_values($combination);
             foreach ($skills as $name => $count) {
-                if (array_key_exists(($name), $itemSkills)) {
+                if (array_key_exists($name, $itemSkills)) {
                     $maxSkillValue = $requiredSkills[$name];
 
                     if ($skills[$name] + $itemSkills[$name] > $maxSkillValue) {
@@ -163,7 +157,7 @@ final class OptimizerService
                 }
             }
             if (!$flag) {
-                $quriousItem["combinations"][] = $combination;
+                $quriousItem['combinations'][] = $combination;
             }
         }
 
@@ -182,6 +176,7 @@ final class OptimizerService
             }
             $result = $tmp;
         }
+
         return $result;
     }
 
@@ -191,7 +186,7 @@ final class OptimizerService
 
         foreach ($slots as $slot) {
             if ($slot <= $value) {
-                $possibleSlot++;
+                ++$possibleSlot;
             }
         }
 
@@ -200,11 +195,12 @@ final class OptimizerService
 
     public function closestMultiple(int $n, int $x = 3)
     {
-        if ($x > $n)
+        if ($x > $n) {
             return $x;
+        }
 
-        $n = $n + intdiv($x, 2);
-        $n = $n - ($n % $x);
+        $n += intdiv($x, 2);
+        $n -= ($n % $x);
 
         return $n;
     }
@@ -216,6 +212,7 @@ final class OptimizerService
                 $array1[] = $array;
             }
         }
+
         return $array1;
     }
 
@@ -237,8 +234,8 @@ final class OptimizerService
                     continue;
                 }
 
-                $charms[] = $firstSkill . ',' . $secondSkill . ',3, 1, 1';
-                $charms[] = $firstSkill . ',' . $secondSkill . ',4, 0, 0';
+                $charms[] = $firstSkill.','.$secondSkill.',3, 1, 1';
+                $charms[] = $firstSkill.','.$secondSkill.',4, 0, 0';
             }
         }
 
