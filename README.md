@@ -28,6 +28,9 @@ php bin\console app:generate-armors > output.json
 
 Generate Qurious Armor
 
+```BASH
+php bin\console app:generate-qurious-armors > output.txt
+```
 
 --- 
 
