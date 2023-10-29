@@ -7,7 +7,7 @@ use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class GenerateArmorsCommand extends Command
+class GenerateQuriousArmorsCommand extends Command
 {
     private OptimizerService $optimizerService;
 
@@ -21,13 +21,13 @@ class GenerateArmorsCommand extends Command
     protected function configure()
     {
         $this
-            ->setName('app:generate-armors')
-            ->setDescription('Get all interesting armors as a json with all their affixes and slots');
+            ->setName('app:generate-qurious-armors')
+            ->setDescription('Generate all curious armor combinations with a given list of skills');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $result = json_encode($this->optimizerService->getArmors());
+        $result = $this->optimizerService->getQuriousArmors();
         $output->write($result);
 
         return Command::SUCCESS;

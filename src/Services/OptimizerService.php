@@ -3,7 +3,9 @@
 namespace App\Services;
 
 use App\Data\ArmorProvider;
+use App\Data\BudgetDataProvider;
 use App\Data\EnchantProvider;
+use App\Enum\ArmorSkills;
 use App\Enum\TalismanSkills;
 use drupol\phpermutations\Generators\Permutations;
 
@@ -29,7 +31,7 @@ final class OptimizerService
         return (array) json_decode(file_get_contents($filePath));
     }
 
-    public function generatePools($requiredSkills, $skillBudget)
+    public function generatePools(array $requiredSkills, array $skillBudget): array
     {
         $skillTab = [];
         foreach ($skillBudget as $skill) {
@@ -42,56 +44,59 @@ final class OptimizerService
         $skillTab['6'][] = 'Upgrade Slot 1';
 
         return $skillTab;
+
     }
 
-    public function removeSkills($item, $budget, $requiredSkills)
+    public function removeSkills(array $item, int $budget, array $requiredSkills)
     {
         $operations = 0;
-        $itemToAdd = [];
-        $itemToAdd['itemName'] = $item->name;
+        $itemToAdd = [
+            'itemName' => $item['name'],
+            'skills' => [],
+        ];
 
-        foreach ($item->skills as $skillName => $value) {
+        foreach ($item['skills'] as $skillName => $value) {
             $counter = 0;
-            if (array_key_exists($skillName, $requiredSkills) || 'Stamina Surge' == $skillName || 'Constitution' == $skillName || 'Element Exploit' == $skillName) {
+            // Skills we don't want, or maybe we can replace it with an excluded skills list
+            if (
+                in_array($skillName, $requiredSkills) ||
+                in_array($skillName, ['Stamina Surge', 'Constitution', 'Element Exploit'])
+            ) {
                 continue;
             }
 
-            for ($i = 0; $i < $value; ++$i) {
-                if ($operations >= 3) {
-                    continue;
-                }
-                ++$counter;
-                ++$operations;
+            $counter = min($value, 3 - $operations);
+            $operations += $counter;
+            $budget += $counter * 10;
+
+            if ($counter > 0) {
+                $itemToAdd['skills'][$skillName] = '-' . $counter;
+            }
+        }
+
+
+        switch ($operations) {
+            case 0:
                 $budget += 10;
-            }
+                $itemToAdd['Armor'] = '-12';
+                $itemToAdd['Res Elem'][] = '-3';
+                $itemToAdd['Res Elem'][] = '-3';
+                break;
 
-            if ($counter) {
-                $itemToAdd['skills'][$skillName] = '-'.$counter;
-            }
-        }
-        if (0 == $operations) {
-            $budget += 10;
-            $operations += 3;
-            $itemToAdd['Armor'] = '-12';
-            $itemToAdd['Res Elem'][] = '-3';
-            $itemToAdd['Res Elem'][] = '-3';
-        }
+            case 1:
+                $budget += 8;
+                $itemToAdd['Armor'] = '-12';
+                $itemToAdd['Res Elem'][] = '-3';
+                break;
 
-        if (1 == $operations) {
-            $budget += 8;
-            $operations += 2;
-            $itemToAdd['Armor'] = '-12';
-            $itemToAdd['Res Elem'][] = '-3';
-        }
+            case 2:
+                $budget += 5;
+                $itemToAdd['Armor'] = '-12';
+                break;
 
-        if (2 == $operations) {
-            $budget += 5;
-            ++$operations;
-            $itemToAdd['Armor'] = '-12';
+            default:
+                break;
         }
-
-        $itemToAdd[] = $operations;
-        $itemToAdd[] = $budget;
 
         return [
             'itemToAdd' => $itemToAdd,
@@ -127,6 +132,8 @@ final class OptimizerService
 
     public function deleteBadCombination($combinations, $possibleSlots, $skillTab, $itemSkills, $requiredSkills)
     {
+        $goodCombination = [];
+
         foreach ($combinations as $key => $combination) {
             // We only remove 18 here cause there is no skill that is 18 so only slots
             if (isset(array_count_values($combination)['18'])) {
@@ -138,39 +145,38 @@ final class OptimizerService
         }
 
         $combinations = [];
-        foreach ($goodCombination as $skillPuit) {
+        foreach ($goodCombination as $skillBudget) {
             $tabToAdd = [];
             $flag = true;
 
-            foreach ($skillPuit as $puitValue) {
-                if (3 == $puitValue && !array_key_exists($puitValue, $skillTab)) {
+            foreach ($skillBudget as $budgetValue) {
+                if (3 == $budgetValue && !array_key_exists($budgetValue, $skillTab)) {
                     $flag = false;
-                    continue;
+                    break;
                 }
-                $tabToAdd[] = $skillTab[$puitValue];
+                $tabToAdd[] = $skillTab[$budgetValue];
             }
 
             if ($flag) {
-                $combinations = array_merge($this->getCombinations($tabToAdd), $combinations);
+                $combinations = array_merge($combinations, $this->getCombinations($tabToAdd));
             }
         }
 
-        foreach ($combinations as $key => $combination) {
-            $flag = false;
+        $quriousItem['combinations'] = array_filter($combinations, function ($combination) use ($itemSkills, $requiredSkills) {
             $skills = array_count_values($combination);
+
             foreach ($skills as $name => $count) {
                 if (array_key_exists($name, $itemSkills)) {
                     $maxSkillValue = $requiredSkills[$name];
 
-                    if ($skills[$name] + $itemSkills[$name] > $maxSkillValue) {
-                        $flag = true;
+                    if ($count + $itemSkills[$name] > $maxSkillValue) {
+                        return false;
                     }
                 }
             }
-            if (!$flag) {
-                $quriousItem['combinations'][] = $combination;
-            }
-        }
+
+            return true;
+        });
 
         return $quriousItem;
     }
@@ -191,40 +197,26 @@ final class OptimizerService
         return $result;
     }
 
-    public function getPossibleSlot($slots, $value)
+    public function getPossibleSlot(array $slots, int $value): int
     {
-        $possibleSlot = 0;
+        $filteredSlots = array_filter($slots, function ($slot) use ($value) {
+            return $slot <= $value;
+        });
 
-        foreach ($slots as $slot) {
-            if ($slot <= $value) {
-                ++$possibleSlot;
-            }
-        }
-
-        return $possibleSlot;
+        return count($filteredSlots);
     }
 
-    public function closestMultiple(int $n, int $x = 3)
-    {
-        if ($x > $n) {
-            return $x;
-        }
+//    public function getPossibleSlot($slots, $value)
+//    {
+//        $filteredSlots = array_filter($slots, function ($slot) use ($value) {
+//            return $slot <= $value;
+//        });
+//
+//        return count($filteredSlots);
+//    }
 
-        $n += intdiv($x, 2);
-        $n -= ($n % $x);
-
-        return $n;
-    }
-
-    public function imitateMerge($array1, $array2)
-    {
-        foreach ($array2 as $i) {
-            foreach ($i as $array) {
-                $array1[] = $array;
-            }
-        }
-
-        return $array1;
+    function closestMultiple($budget) {
+        return floor($budget / 3) * 3;
     }
 
     public function getPermutations($array)
@@ -253,8 +245,10 @@ final class OptimizerService
         return implode(PHP_EOL, $charms);
     }
 
-    public function getArmors(): bool|string
+    public function getArmors(): array
     {
+        $concat_values = [];
+        $concat_pool = [];
         $armors = $this->armorProvider::ARMORS;
         $armorEnchants = $this->enchantProvider::ARMORS_ENCHANT;
 
@@ -281,6 +275,153 @@ final class OptimizerService
             ];
         }
 
-        return json_encode($final_data);
+        return $final_data;
+    }
+
+    public function getQuriousArmors(): array
+    {
+        $result = [];
+
+        $dataDecoded = $this->getArmors();
+        $skillBudget = BudgetDataProvider::ENCHANTED_SKILLS;
+        $skillTab = $this->generatePools(ArmorSkills::SKILLS, $skillBudget);
+
+        foreach ($dataDecoded as $item) {
+            $currentItem = $this->removeSkills($item, (int) $item["budget"], ArmorSkills::SKILLS);
+
+            $array = [18, 15, 12, 6, 3];
+            if ($currentItem['budget'] % 3 !== 0) {
+                $budget = $this->closestMultiple($currentItem['budget']);
+            } else {
+                $budget = $currentItem['budget'];
+            }
+
+            $currentItem['itemToAdd'][] = $budget;
+            $itemToAdd = $currentItem['itemToAdd'];
+
+            $possible18 = $this->getPossibleSlot($item["slots"], 1);
+            $possible12 = $this->getPossibleSlot($item["slots"], 2);
+            $possible6 = $this->getPossibleSlot($item["slots"], 3);
+
+            $possibleSlots = [
+                '18' => $possible18,
+                '12' => $possible12,
+                '6' => $possible6,
+            ];
+
+
+            $itemToAdd['slots'] = $item['slots'];
+            $itemToAdd['possibleSlots'] = $possibleSlots;
+
+            $maxRollCombinations = $this->combinationSum4($array, $budget, 0, [], 7 - $currentItem['operations']);
+            $minRollCombinations = $this->combinationSum4($array, $budget - 6, 0, [], 7 - $currentItem['operations']);
+
+
+            $itemsMaxRoll = $this->deleteBadCombination($maxRollCombinations, $possibleSlots, $skillTab, (array) $item['skills'], ArmorSkills::SKILLS);
+            $itemsMinRoll = $this->deleteBadCombination($minRollCombinations, $possibleSlots, $skillTab, (array) $item['skills'], ArmorSkills::SKILLS);
+
+            $arrayResultMerge = [];
+            $itemCombinations = [$itemsMaxRoll['combinations'], $itemsMinRoll['combinations']];
+            $resultMerge = array_merge($arrayResultMerge, ...$itemCombinations);
+            foreach ($resultMerge as $combination) {
+                $itemToAdd['combinations'][] = array_count_values($combination);
+            }
+
+            $armor = 0;
+            $resElem = [0, 0, 0, 0, 0];
+            if (isset($itemToAdd['Res Elem'])) {
+                for ($i = 0; $i < count($itemToAdd['Res Elem']); ++$i) {
+                    $resElem[$i] = $itemToAdd['Res Elem'][$i];
+                }
+            }
+
+            if (isset($itemToAdd['Armor'])) {
+                $armor = $itemToAdd['Armor'];
+            }
+
+            $finalJson = [
+                $item['name'],
+                $armor,
+                $resElem[0],
+                $resElem[1],
+                $resElem[2],
+                $resElem[3],
+                $resElem[4],
+            ];
+
+            $uniqueSlots = count(array_unique($itemToAdd['slots']));
+
+            $slotTypes = ['Upgrade Slot 3', 'Upgrade Slot 2', 'Upgrade Slot 1'];
+            foreach ($itemToAdd['combinations'] as $combination) {
+                $slotsToAdd = [];
+                $slotUpgrade = 0;
+                foreach ($slotTypes as $slotType) {
+                    if (isset($combination[$slotType])) {
+                        $possibleSlots = 0;
+
+                        switch ($slotType) {
+                            case 'Upgrade Slot 3':
+                                $possibleSlots = $possible18;
+                                break;
+                            case 'Upgrade Slot 2':
+                                $possibleSlots = $possible12;
+                                break;
+                            case 'Upgrade Slot 1':
+                                $possibleSlots = $possible6;
+                                break;
+                        }
+
+                        if ($combination[$slotType] <= $possibleSlots) {
+                            $slotUpgrade += $combination[$slotType];
+                            for ($i = 0; $i < $combination[$slotType]; ++$i) {
+                                $slotsToAdd[] = (int)substr($slotType, -1);
+                            }
+                        }
+                    }
+                }
+
+                if (!$slotUpgrade) {
+                    continue;
+                }
+
+                for ($i = 0; $i < 3; ++$i) {
+                    if (!isset($slotsToAdd[$i])) {
+                        $slotsToAdd[] = 0;
+                    }
+                }
+
+                $output = $finalJson;
+
+                foreach ($combination as $skillToAdd => $value) {
+                    if (!in_array($skillToAdd, ['Upgrade Slot 2', 'Upgrade Slot 1', 'Upgrade Slot 3'])) {
+                        $output[] = $skillToAdd;
+                        $output[] = $value;
+                    }
+                }
+
+                if (isset($itemToAdd['skills'])) {
+                    foreach ($itemToAdd['skills'] as $skillToRemove => $value) {
+                        $output[] = $skillToRemove;
+                        $output[] = $value;
+                    }
+                }
+
+                if (1 === $uniqueSlots) {
+                    foreach ($slotsToAdd as $slot) {
+                        $output[] = $slot;
+                    }
+                } else {
+                    $permutations = $this->getPermutations($slotsToAdd);
+                    foreach ($permutations as $permutation) {
+                        $output = array_merge($output, $permutation);
+                    }
+                }
+
+                $result[] = $output;
+
+            }
+        }
+
+        return $result;
     }
 }
