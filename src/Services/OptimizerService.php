@@ -2,11 +2,22 @@
 
 namespace App\Services;
 
+use App\Data\ArmorProvider;
+use App\Data\EnchantProvider;
 use App\Enum\TalismanSkills;
 use drupol\phpermutations\Generators\Permutations;
 
 final class OptimizerService
 {
+    protected ArmorProvider $armorProvider;
+    protected EnchantProvider $enchantProvider;
+
+    public function __construct(ArmorProvider $armorProvider, EnchantProvider $enchantProvider)
+    {
+        $this->armorProvider = $armorProvider;
+        $this->enchantProvider = $enchantProvider;
+    }
+
     public function openFile($fileName, $fileType, $path)
     {
         $filePath = $path.$fileName;
@@ -240,5 +251,36 @@ final class OptimizerService
         }
 
         return implode(PHP_EOL, $charms);
+    }
+
+    public function getArmors(): bool|string
+    {
+        $armors = $this->armorProvider::ARMORS;
+        $armorEnchants = $this->enchantProvider::ARMORS_ENCHANT;
+
+        foreach ($armorEnchants as $item) {
+            $concat_values[strtok($item[0], ' ')] = $item[3];
+            $concat_pool[strtok($item[0], ' ')] = $item[2];
+        }
+
+        foreach ($armors as $armorPiece) {
+            // Skip armors that have < 100 armor
+            if ($armorPiece[12] < 100) {
+                continue;
+            }
+
+            $final_data[] = [
+                'name' => $armorPiece[0],
+                'armor' => $armorPiece[12],
+                'armorType' => $armorPiece[3],
+                'resistance' => $armorPiece[13],
+                'slots' => $armorPiece[10],
+                'skills' => $armorPiece[11],
+                'pool' => $concat_pool[strtok($armorPiece[0], ' ')],
+                'budget' => $concat_values[strtok($armorPiece[0], ' ')],
+            ];
+        }
+
+        return json_encode($final_data);
     }
 }

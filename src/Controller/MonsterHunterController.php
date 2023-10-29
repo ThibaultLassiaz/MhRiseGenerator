@@ -2,63 +2,20 @@
 
 namespace App\Controller;
 
+use App\Data\ArmorProvider;
 use App\Enum\ArmorSkills;
-use App\Services\MHService;
 use App\Services\OptimizerService;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Routing\Annotation\Route;
 
 final class MonsterHunterController extends AbstractController
 {
     protected $mhservice;
     protected $optimizerService;
 
-    public function __construct(MHService $mhservice, OptimizerService $optimizerService)
+    public function __construct(ArmorProvider $mhservice, OptimizerService $optimizerService)
     {
         $this->mhservice = $mhservice;
         $this->optimizerService = $optimizerService;
-    }
-
-    /**
-     * @Route("/qurious", name="qurious")
-     */
-    public function getArmors()
-    {
-        $array = $this->mhservice->getData();
-
-        $projectDir = $this->getParameter('kernel.project_dir');
-        $mhDir = $projectDir.'\src\Files\MH\\';
-        $puitsFile = $mhDir.'puits.csv';
-
-        $csv = array_map('str_getcsv', file($puitsFile));
-
-        foreach ($csv as $armorFamily) {
-            $concat_values[strtok($armorFamily[0], ' ')] = $armorFamily[3];
-            $concat_pool[strtok($armorFamily[0], ' ')] = $armorFamily[2];
-            $concat[] = strtok($armorFamily[0], ' ');
-        }
-
-        foreach ($array as $armorPiece) {
-            if ($armorPiece[12] < 100) {
-                continue;
-            }
-
-            $final_data[] = [
-                'name' => $armorPiece[0],
-                'armor' => $armorPiece[12],
-                'armorType' => $armorPiece[3],
-                'resistance' => $armorPiece[13],
-                'slots' => $armorPiece[10],
-                'skills' => $armorPiece[11],
-                'pool' => $concat_pool[strtok($armorPiece[0], ' ')],
-                'budget' => $concat_values[strtok($armorPiece[0], ' ')],
-            ];
-        }
-
-        $allStreamDataJson = json_encode($final_data);
-
-        return new Response($allStreamDataJson);
     }
 
     /**
