@@ -20,6 +20,12 @@ You can use ckudzu's [MH Rise Builder](https://mhrise.wiki-db.com/sim/?hl=en) fo
 php bin\console app:generate-charms > output.txt
 ```
 
+### Generate filtered armor
+
+```BASH
+php bin\console app:generate-armors > output.json
+```
+
 Generate Qurious Armor
 
 
