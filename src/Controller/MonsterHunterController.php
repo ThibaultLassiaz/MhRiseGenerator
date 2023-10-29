@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Enum\ArmorSkills;
 use App\Services\MHService;
 use App\Services\OptimizerService;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
@@ -12,29 +13,6 @@ final class MonsterHunterController extends AbstractController
 {
     protected $mhservice;
     protected $optimizerService;
-
-    public const REQUIRED_SKILLS = [
-        'Constitution' => 5,
-        'Stamina Surge' => 3,
-        'Attack Boost' => 7,
-        'Chain Crit' => 3,
-        'Critical Boost' => 3,
-        'Critical Eye' => 7,
-        'Weakness Exploit' => 3,
-        'Spread Up' => 3,
-        'Evade Window' => 5,
-        'Divine Blessing' => 3,
-        'Normal/Rapid Up' => 3,
-        'Pierce Up' => 3,
-        'Fire Attack' => 5,
-        'Water Attack' => 5,
-        'Ice Attack' => 5,
-        'Thunder Attack' => 5,
-        'Dragon Attack' => 5,
-        'Flinch Free' => 1,
-        'Reload Speed' => 2,
-        'Guts' => 1,
-    ];
 
     public function __construct(MHService $mhservice, OptimizerService $optimizerService)
     {
@@ -96,10 +74,10 @@ final class MonsterHunterController extends AbstractController
         $skillBudget = $this->optimizerService->openFile('puits_skills.csv', 'csv', $mhDir);
         $dataDecoded = $this->optimizerService->openFile('armors_full.json', 'json', $mhDir);
         // $dataDecoded = $this->optimizerService->openFile('test.json', 'json', $mhDir);
-        $skillTab = $this->optimizerService->generatePools($this::REQUIRED_SKILLS, $skillBudget);
+        $skillTab = $this->optimizerService->generatePools(ArmorSkills::SKILLS, $skillBudget);
 
         foreach ($dataDecoded as $item) {
-            $currentItem = $this->optimizerService->removeSkills($item, (int) $item->budget, $this::REQUIRED_SKILLS);
+            $currentItem = $this->optimizerService->removeSkills($item, (int) $item->budget, ArmorSkills::SKILLS);
             $itemCombinations = [];
 
             $array = [18, 15, 12, 6, 3];
@@ -124,10 +102,10 @@ final class MonsterHunterController extends AbstractController
 
             $itemToAdd['slots'] = $item->slots;
             $itemToAdd['possibleSlots'] = $possibleSlots;
-            $maxRollCombinations = $itemToAdd['maxRoll'] = $this->optimizerService->combinationSum4($array, $budget, 0, [], 7 - $currentItem['operations']);
-            $minRollCombinations = $itemToAdd['maxRoll'] = $this->optimizerService->combinationSum4($array, $budget - 6, 0, [], 7 - $currentItem['operations']);
-            $itemsMaxRoll = $this->optimizerService->deleteBadCombination($maxRollCombinations, $possibleSlots, $skillTab, (array) $item->skills, $this::REQUIRED_SKILLS);
-            $itemsMinRoll = $this->optimizerService->deleteBadCombination($minRollCombinations, $possibleSlots, $skillTab, (array) $item->skills, $this::REQUIRED_SKILLS);
+            $maxRollCombinations = $this->optimizerService->combinationSum4($array, $budget, 0, [], 7 - $currentItem['operations']);
+            $minRollCombinations = $this->optimizerService->combinationSum4($array, $budget - 6, 0, [], 7 - $currentItem['operations']);
+            $itemsMaxRoll = $this->optimizerService->deleteBadCombination($maxRollCombinations, $possibleSlots, $skillTab, (array) $item->skills, ArmorSkills::SKILLS);
+            $itemsMinRoll = $this->optimizerService->deleteBadCombination($minRollCombinations, $possibleSlots, $skillTab, (array) $item->skills, ArmorSkills::SKILLS);
 
             $arrayResultMerge = [];
             $itemCombinations = [$itemsMaxRoll['combinations'], $itemsMinRoll['combinations']];

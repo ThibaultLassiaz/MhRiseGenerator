@@ -2,7 +2,7 @@
 
 namespace App\Enum;
 
-class Skills
+class TalismanSkills
 {
     public const FIRST_SKILLS = [
         'Attack Boost,3',

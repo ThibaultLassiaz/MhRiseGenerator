@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use App\Enum\Skills;
+use App\Enum\TalismanSkills;
 use drupol\phpermutations\Generators\Permutations;
 
 final class OptimizerService
@@ -227,8 +227,8 @@ final class OptimizerService
     {
         $charms = [];
 
-        foreach (Skills::FIRST_SKILLS as $firstSkill) {
-            foreach (Skills::SECOND_SKILLS as $secondSkill) {
+        foreach (TalismanSkills::FIRST_SKILLS as $firstSkill) {
+            foreach (TalismanSkills::SECOND_SKILLS as $secondSkill) {
                 // We can't generate a charm with the same skill two times
                 if (substr($firstSkill, 0, strpos($firstSkill, ',')) == substr($secondSkill, 0, strpos($secondSkill, ','))) {
                     continue;
