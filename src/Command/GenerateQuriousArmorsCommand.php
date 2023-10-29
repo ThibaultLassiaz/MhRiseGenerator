@@ -18,7 +18,7 @@ class GenerateQuriousArmorsCommand extends Command
         $this->optimizerService = $optimizerService;
     }
 
-    protected function configure()
+    protected function configure(): void
     {
         $this
             ->setName('app:generate-qurious-armors')
