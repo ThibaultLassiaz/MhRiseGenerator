@@ -51,3 +51,9 @@ composer run phpstan
 ```Bash
 composer run linter
 ```
+
+### Unit tests
+
+```Bash
+composer run unit
+```
