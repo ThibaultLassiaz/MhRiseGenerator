@@ -48,7 +48,7 @@ composer run phpstan
 
 ### Linter
 
-```Bash
+```Shell
 composer run linter
 ```
 

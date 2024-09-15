@@ -8,6 +8,7 @@
 /var/
 /vendor/
 .env
+.cheatsheet
 ###< symfony/framework-bundle ###
 
 ###> symfony/webpack-encore-bundle ###
